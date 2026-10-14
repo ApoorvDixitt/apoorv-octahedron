@@ -1,0 +1,15 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "ring_50a02106",
+      "color": "black",
+      "design": "horizon",
+      "firmware_version": "4.1.0",
+      "hardware_type": "gen4",
+      "set_up_at": "2026-06-05T09:00:00",
+      "size": 9
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "49d2c63a-e127-0b11-a0b1-e9567f3ac9f9",
+      "device_id": "e4b9cbbd-a246-d736-c442-4bd02a76aa0c",
+      "control_id": 1,
+      "last_event": "short_release"
+    },
+    {
+      "id": "14530d7d-b7ee-5bbe-d71f-d0782ddbac91",
+      "device_id": "e4b9cbbd-a246-d736-c442-4bd02a76aa0c",
+      "control_id": 2,
+      "last_event": "short_release"
+    },
+    {
+      "id": "60b3ac45-9ccb-11d5-1edd-3732f2963d35",
+      "device_id": "e4b9cbbd-a246-d736-c442-4bd02a76aa0c",
+      "control_id": 3,
+      "last_event": "short_release"
+    },
+    {
+      "id": "ddc644e6-433d-870b-82e5-7071a56c6dc6",
+      "device_id": "e4b9cbbd-a246-d736-c442-4bd02a76aa0c",
+      "control_id": 4,
+      "last_event": "short_release"
+    },
+    {
+      "id": "c85d790c-456c-9d1c-c711-34174397fc33",
+      "device_id": "bc3a5f8c-345c-078e-7be0-575dec76f7fa",
+      "control_id": 1,
+      "last_event": "short_release"
+    },
+    {
+      "id": "70b71b0e-62e5-cff1-10e4-934a79fc19c7",
+      "device_id": "bc3a5f8c-345c-078e-7be0-575dec76f7fa",
+      "control_id": 2,
+      "last_event": "short_release"
+    },
+    {
+      "id": "c77bcf56-d31c-cb79-fa27-92eff8a9815c",
+      "device_id": "bc3a5f8c-345c-078e-7be0-575dec76f7fa",
+      "control_id": 3,
+      "last_event": "short_release"
+    },
+    {
+      "id": "bcc0bf05-49fb-f193-b989-704a144d02f9",
+      "device_id": "bc3a5f8c-345c-078e-7be0-575dec76f7fa",
+      "control_id": 4,
+      "last_event": "short_release"
+    }
+  ]
+}

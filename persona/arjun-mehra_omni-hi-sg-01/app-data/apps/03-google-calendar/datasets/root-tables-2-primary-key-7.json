@@ -1,0 +1,7 @@
+{
+  "sourcePath": "root/tables/2/primary_key",
+  "rows": [
+    "event_id",
+    "email"
+  ]
+}

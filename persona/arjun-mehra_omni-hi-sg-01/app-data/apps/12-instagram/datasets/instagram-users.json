@@ -1,0 +1,209 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "user_id": "ig_u_9e73199acae7a70b",
+      "username": "sunita.mehra",
+      "full_name": "Sunita Mehra",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_5c07c74a9d272567",
+      "username": "aarav.mehra",
+      "full_name": "Aarav Mehra",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_972c02cd05e0a364",
+      "username": "vivaan.mehra",
+      "full_name": "Vivaan Mehra",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_6d6cd101746d2c82",
+      "username": "divya.rawat",
+      "full_name": "Divya Rawat",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_9b59317bb1943930",
+      "username": "rohit.mehra",
+      "full_name": "Rohit Mehra",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_b139985674c9a3a7",
+      "username": "suresh.menon",
+      "full_name": "Suresh Menon",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_6b38368adb5fff38",
+      "username": "desmond.toh",
+      "full_name": "Desmond Toh",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_b6d37ad481eaeeb6",
+      "username": "latha.sundaram",
+      "full_name": "Latha Sundaram",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_0f20b0de7a76de50",
+      "username": "syed.akram",
+      "full_name": "Syed Akram",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_9769df38cb994819",
+      "username": "vikram.chauhan",
+      "full_name": "Vikram Chauhan",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_a4beea3f34b2feb7",
+      "username": "imran.sheikh",
+      "full_name": "Imran Sheikh",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_9ab05cffb9aed008",
+      "username": "lay.hoon",
+      "full_name": "Lay Hoon Lim",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_70a21072cb98fa18",
+      "username": "cheryl.foo",
+      "full_name": "Cheryl Foo",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_686ed8d8477dd7e0",
+      "username": "josephine.d",
+      "full_name": "Josephine D'Souza",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_1e48d8de78f78c49",
+      "username": "kumar.velu",
+      "full_name": "Kumar Velu",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_7f0d45d327df1f9a",
+      "username": "geeta.bhandari",
+      "full_name": "Geeta Bhandari",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_c6bdc6364b39782f",
+      "username": "rakesh.yadav",
+      "full_name": "Rakesh Yadav",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_d7fcd37a9a851e93",
+      "username": "suresh.yadav",
+      "full_name": "Suresh Yadav",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_cf6ab1c52a4f2009",
+      "username": "priya.mehra",
+      "full_name": "Priya Mehra",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_3f26a4f154bfac01",
+      "username": "harpreet.kaur",
+      "full_name": "Harpreet Kaur",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_97ed71cce25db228",
+      "username": "daniel.ong",
+      "full_name": "Daniel Ong",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_3ba02a5e5fa0d917",
+      "username": "maria.gomes",
+      "full_name": "Maria Gomes",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_2b53e326c354ba2e",
+      "username": "ahmad.ridzuan",
+      "full_name": "Ahmad Ridzuan",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_b018b00675c0489e",
+      "username": "meena.krishnan",
+      "full_name": "Meena Krishnan",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_d2f3d041eeeaa1e7",
+      "username": "raj.murugan",
+      "full_name": "Raj Murugan",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_906a48d95afa37a6",
+      "username": "farah.naz",
+      "full_name": "Farah Naz",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_939ea992ccb890c3",
+      "username": "suresh.kumar",
+      "full_name": "Suresh Kumar",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_dafb5600653bd594",
+      "username": "dr.tan",
+      "full_name": "Dr Tan Ah Lek",
+      "profile_pic_url": null,
+      "is_verified": 0
+    },
+    {
+      "user_id": "ig_u_9ff126d678c6dbd0",
+      "username": "anil.verma",
+      "full_name": "Anil Verma",
+      "profile_pic_url": null,
+      "is_verified": 0
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "hximm_1c95693bc4d9",
+      "vaccine": "Influenza, seasonal",
+      "code": "150",
+      "date": "2025-10-12",
+      "status": "completed",
+      "dose_number": "",
+      "source": "HealthEx"
+    },
+    {
+      "id": "hximm_848cfcacf1c5",
+      "vaccine": "Tdap",
+      "code": "115",
+      "date": "2022-04-12",
+      "status": "completed",
+      "dose_number": "",
+      "source": "HealthEx"
+    },
+    {
+      "id": "hximm_6c244bcf2c86",
+      "vaccine": "COVID-19",
+      "code": "300",
+      "date": "2025-10-12",
+      "status": "completed",
+      "dose_number": "",
+      "source": "HealthEx"
+    }
+  ]
+}

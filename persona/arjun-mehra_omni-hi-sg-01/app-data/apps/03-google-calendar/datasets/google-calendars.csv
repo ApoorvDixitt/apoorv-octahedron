@@ -1,0 +1,4 @@
+"id","summary","is_primary","is_selected","access_role","created_at"
+"primary","My Calendar","1","1","owner","2020-01-01T00:00:00"
+"work","Work","0","1","owner","2020-01-01T00:00:00"
+"personal","Personal","0","1","owner","2020-01-01T00:00:00"

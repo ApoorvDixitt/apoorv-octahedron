@@ -1,0 +1,51 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "hxvit_e36367cd03ef",
+      "type": "blood_pressure",
+      "value": 125,
+      "value2": 74,
+      "unit": "mmHg",
+      "effective_date": "2026-08-15",
+      "source": "HealthEx"
+    },
+    {
+      "id": "hxvit_f2a042a010ce",
+      "type": "heart_rate",
+      "value": 63,
+      "value2": null,
+      "unit": "bpm",
+      "effective_date": "2026-08-15",
+      "source": "HealthEx"
+    },
+    {
+      "id": "hxvit_e5f69a418908",
+      "type": "weight",
+      "value": 67.1,
+      "value2": null,
+      "unit": "kg",
+      "effective_date": "2026-08-15",
+      "source": "HealthEx"
+    },
+    {
+      "id": "hxvit_91dd474f044b",
+      "type": "height",
+      "value": 167,
+      "value2": null,
+      "unit": "cm",
+      "effective_date": "2026-08-15",
+      "source": "HealthEx"
+    },
+    {
+      "id": "hxvit_42dec4a400e8",
+      "type": "bmi",
+      "value": 24.1,
+      "value2": null,
+      "unit": "kg/m2",
+      "effective_date": "2026-08-15",
+      "source": "HealthEx"
+    }
+  ]
+}

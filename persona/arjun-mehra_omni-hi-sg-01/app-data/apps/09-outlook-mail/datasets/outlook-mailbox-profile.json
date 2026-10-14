@@ -1,0 +1,13 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "me",
+      "display_name": "Arjun Mehra",
+      "primary_address": "arjun.mehra@ahhockchickenricekoufujem.com",
+      "user_principal_name": "arjun.mehra@ahhockchickenricekoufujem.com",
+      "mail": "arjun.mehra@ahhockchickenricekoufujem.com"
+    }
+  ]
+}

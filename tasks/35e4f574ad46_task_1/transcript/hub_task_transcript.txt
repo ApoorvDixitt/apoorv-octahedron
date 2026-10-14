@@ -1,0 +1,1294 @@
+Welcome to Project Octahedron
+Language for this task: Hindi (Singapore). Have the whole Hatch conversation (your prompt and both replies) in this language, and paste your prompt and both conversations into this form exactly as they are, in that language.
+
+Everything you write yourself is in English: the Required rationale (covering the preference, every dimension and the Absolute quality) and any notes. When a word or nuance from the conversation doesn't translate well, quote it in the original language and explain it in English.
+
+Scores, the Preference and the Absolute quality are picked from the scales, the same values you chose in Hatch. Ties are not allowed.
+
+Claim this task before you start your session in Hatch, and keep it open while you work — it's what tracks paid time. The 65 minutes on this task is your paid time for the whole entry — your session in Hatch plus filling in this form. You can still submit after the timer if you need to; only the first 75 minutes are paid.
+
+Work in Hatch with this form open alongside, and fill in the fields as you go — or as your session wraps up:
+
+the session name and ID, then the persona, category, and apps for the run,
+the task prompt, the complete Response A / Response B conversations and the Trace A / Trace B traces,
+the overall preference, the Absolute quality, all eight comparative dimension scores, and the Required rationale (in English),
+and any notes about non-blocking problems along the way.
+A few automatic checks run when you submit. If one flags something, the task comes back to you — fix it and resubmit.
+
+Anuvaad · Translation:
+
+Project Octahedron mein aapka swagat hai
+Is task ki bhasha: Hindi (Singapore). Hatch ki poori baatcheet (aapka prompt aur dono jawab) isi bhasha mein karein, aur apna prompt aur dono baatcheet is form mein bilkul jaisi ki taisi, usi bhasha mein paste karein.
+
+Jo kuch bhi aap khud likhte hain, woh Angrezi mein hoga: aapka Required rationale (zaroori kaaran), jismein pasand, har dimension aur Absolute quality (jawab ki apni gunvatta) ki baat ho, aur koi bhi notes. Agar baatcheet ka koi shabd ya bareek bhaav Angrezi mein theek se nahi utarta, to use mool bhasha mein hi quote karein aur Angrezi mein samjhayein.
+
+Score, pasand aur Absolute quality scale mein se chuni jaati hain, wahi value jo aapne Hatch mein chuni thin. Tie (tie) chunne ki ijazat nahi hai.
+
+Hatch mein session shuru karne se pehle yeh task le lein, aur kaam karte samay ise khula rakhein - aapke paid time ka hisab isi se hota hai. Poori entry ke liye aapke paas 65 minute ka paid time hai - ismein Hatch ka session aur yeh form bharna, dono aate hain. Zaroorat ho to timer khatam hone ke baad bhi submit kar sakte hain; bas payment pehle 75 minute ka hi milega.
+
+Hatch mein kaam karte hue yeh form saath mein khula rakhein, aur field saath-saath bharte jaayein - ya session khatam hone ke aaspas bhar dein:
+
+Session ka naam aur ID, phir is session ka persona, category aur apps,
+Task prompt aur Response A / Response B (jawab A / jawab B) ki poori baatcheet,
+overall preference (kul milakar pasand), tulna wale sabhi aath dimension ke score, aur Required rationale (zaroori kaaran),
+Aur kaam ke dauran aayi koi bhi aisi dikkat jisse kaam ruka nahi, uske notes (notes).
+Submit karne par kuch automatic check chalte hain. Agar kisi check ne koi gadbad pakdi, to task aapke paas wapas aa jaayega - use theek karke dobara submit karein.
+
+Important: Please do not submit the Hatch Session on Hatch , until you have submitted the task here, and passed the Quality Checks. (You must input text here, no uploads needed)
+
+Anuvaad · Translation:
+
+Zaroori: jab tak aap yahan yeh task submit na kar dein aur Quality Checks (quality check) paas na ho jaayein, tab tak Hatch par Hatch Session submit na karein. (Yahan kuch text likhna zaroori hai - You must input text here)
+
+ok
+
+Important 2: Do not submit a Hatch that's ended mid-annotation (You must input text here, no uploads needed)
+
+Anuvaad · Translation:
+
+Zaroori 2: aisa Hatch session submit na karein jis par Ended mid-annotation likha ho (yahan kuch text likhna zaroori hai - You must input text here)
+
+Ok
+
+UPDATED HATCH INSTRUCTIONS — PLEASE READ
+In Hatch, use exactly:
+
+Mode — GAIA PREFERENCE
+Protocol — Hatch RM Style Task — Multilingual v1 only
+Universe — one of the universes listed just below
+Do not choose any other protocol.
+
+Your universes — Hindi (Singapore) (in Hatch, type hi_sg in the universe search bar). Pick any ONE of these 9:
+
+Arjun Mehra (omni-hi-sg-01)
+Anjali Jain (omni-hi-sg-02)
+Aditya Jain (omni-hi-sg-03)
+Aditi Khanna (omni-hi-sg-04)
+Kriti Saxena (omni-hi-sg-05)
+Rahul Sharma (omni-hi-sg-06)
+Harjit Gill (omni-hi-sg-07)
+Jyoti Yadav (omni-hi-sg-08)
+Vikram Kapoor (omni-hi-sg-09)
+Only these 9. Never a universe from another locale, even in the same language.
+
+You are HINDI (SINGAPORE), not HINDI (INDIA). Hindi (India) fellows have their own list (hi_in_dl) — never use it, and they never use yours.
+
+Language tasks — multilingual sessions (read first)
+These instructions apply to the multilingual style task (Hatch RM Style Task — Multilingual v1 in Hatch). Everything in the English instructions and dimension definitions still applies: same task, same steps, same dimensions. This section only lists what changes. The Hatch interface stays in English.
+
+1. Work in one universe of your own language and country. Every universe is a person living in one country, with emails, chats, calendar, notes and photos written the way people there write. Your task lists your locale's universes above (8 or 9, each named after its persona); in the universe picker, type your locale code to see only them.
+
+Only use universes from your assigned locale, even if you speak the language of another one (ta_in_tn and ta_sg are different).
+Stay with one universe: pick one from your list and use it for all your sessions, so you get to know the person and their life well.
+Before your first session, take time to explore your universe (recent messages, calendar, notes), so your prompts fit the person's life.
+2. Talk to Hatch in that language, as the persona would.
+
+Write every prompt in the target language, the way this person writes: their tone, their level of formality, and their natural code-switching (for example Hindi written in Latin letters mixed with English, Québécois French, Tanglish).
+Don't write in English, and don't translate an English prompt word for word.
+Write in the script the persona's own emails and chats use: Latin letters (the WhatsApp way, English mixed in where natural) for Hindi, Marathi, Bengali (India), Telugu, Tamil (India), Gujarati, Malayalam and Hindi (Singapore); mostly Latin with some Tamil script for Tamil (Singapore); mostly Bengali script for Bengali (Singapore); their own script for Japanese and Mandarin. A reply in the wrong script for the persona is a Style fault and a Bad on Absolute quality.
+Ask for the same kinds of things as in the English task: tasks that use the person's apps and data, and everyday requests.
+3. Judge style against local norms, as a native speaker. Use the usual dimensions. On top of them, ask:
+
+Naturalness: does it read like a native speaker wrote it, or like a translation?
+Register: is the level of formality right for this person and situation (tu/vous, aap/tum, Japanese politeness levels)? A formal reply is not "cold" if formality is the local norm, and a casual reply is not "warm" if it would sound rude locally.
+Language and script: does Hatch answer in the user's language and script? Switching to another language or script without a reason is a fault. Mixing languages the way people in that locale naturally do is fine.
+Local conventions: are names, dates, times, currencies, addresses, phone numbers and holidays handled the local way?
+4. Rate the preferred response on its own (the Absolute quality, after choosing your preferred response):
+
+Perfect: nothing to change. Correct, natural in your language, right register and local conventions.
+Good: acceptable as it is, with small flaws in content, wording, register or formatting.
+Bad: a real problem: wrong or missing content, the wrong language or script, wording that sounds unnatural or translated, or an off-putting tone. If both responses are bad, still pick the less bad one, and rate it Bad.
+5. Write your rationale in English, so that reviewers who don't speak the language can check it. Quote the target-language words you are judging, and say what's wrong or right about them (for example: "B says 'vous' to her teenage son, which sounds cold in Québec"). You may occasionally use your own language for a nuance that English can't capture — then explain it.
+
+6. Two things to know about the universes.
+
+Some of the persona's messages mention an assistant by another name. That assistant is Hatch: ignore the name.
+If Hatch fails to find something that is in the universe (an email, a message, an event), count it under Correctness, not under Style.
+Type agree below to confirm you have read this update.
+
+Anuvaad · Translation:
+
+Hatch ke naye nirdesh - kripya padhein
+Hatch mein theek yahi chunein:
+
+Mode — GAIA PREFERENCE
+Universe — one of the 9 Hindi (Singapore) universes — the persona that matches your language AND your location (full list in the Universe section). Careful: Hindi (Singapore) is not Hindi (India)
+Protocol — sirf Hatch RM Style Task — Multilingual v1
+Koi doosra protocol na chunein.
+
+Sirf bhasha wale task - multilingual session (pehle yeh padhein)
+Agar aapke task ki bhasha English (US) hai, to yeh hissa chhod dein (Skip this section if your task language is English (US)). Angrezi wali style guidelines ki har baat yahan bhi lagu hai: wahi task, wahi dimension, wahi paribhashayein. Sirf neeche likhi baatein badalti hain.
+
+1. Apni bhasha aur apne desh ka universe chunein. Universe chunne wali list mein apna locale code type karein (jaise fr_ca, es_mx, pt_br_sp, ja_jp, en_in, hi_in_dl, bn_in_wb, mr_in_mh, te_in_ap, ta_in_tn, gu_in_gj, ml_in_kl, zh_sg, ms_sg, ta_sg, hi_sg, bn_sg), taaki sirf aapke locale ke universe dikhein. Har universe usi desh mein rehne wala ek persona hai, jiske email, chat, calendar aur notes vaise hi likhe hain jaise wahan ke log likhte hain. Kisi doosre locale ka universe kabhi istemal na karein, bhale hi bhasha wahi ho - ta_in_tn aur ta_sg ek nahi hain.
+
+2. Hatch se usi bhasha mein baat karein, jaise woh persona karta hai. Apne prompt target bhasha mein likhein, usi andaz mein jaise persona likhta hai: jahan do bhashayein milakar bolna (code-switching) aam hai, wahan vaise hi (jaise Roman lipi mein likhi Hindi ke saath Angrezi, Québécois French, Tanglish). Angrezi mein na likhein, aur kisi Angrezi prompt ka shabdashah anuvaad na karein.
+
+Wahi lipi istemal karein jismein persona ke apne email aur chat likhe gaye hain: Hindi, Marathi, Bengali (India), Telugu, Tamil (India), Gujarati, Malayalam aur Hindi (Singapore) ke liye Latin akshar, WhatsApp wale andaz mein, jahan swabhavik lage wahan Angrezi milakar; Tamil (Singapore) ke liye zyadatar Latin aur kuch Tamil lipi; Bengali (Singapore) ke liye zyadatar Bangali lipi; Japanese aur Mandarin ke liye unki apni lipi.
+
+3. Jawabon ko us locale ke native speaker ki tarah parkhein. Aam dimension ke saath-saath ye sawal bhi poochhein:
+
+Kya bhasha swabhavik hai, ya anuvaad jaisi lagti hai?
+Kya is vyakti aur is sthiti ke liye bolchal ka star sahi hai (tu/vous, aap/tum, Japani mein shishtata ke star)? Agar aupcharikta wahan ka aam chalan hai, to aupcharik jawab apne aap "rookha" nahi ho jaata.
+Kya jawab sahi lipi mein aur user ki bhasha mein hai? Bina kisi wajah ke user se alag bhasha ya lipi mein jawab dena galti hai. Persona ki tarah bhashayein milakar bolna galti nahi hai.
+Kya naam, tareekhein, currency, pate aur chhuttiyan wahan ke tareeke se likhe gaye hain?
+4. Apna kaaran (rationale) Angrezi mein likhein, taaki jo reviewer yeh bhasha nahi jaante, ve bhi use jaanch sakein. Jin shabdon ya lines ko aap parakh rahe hain, zaroorat ho to unhein mool bhasha mein jaise ke taise quote karein.
+
+Update padh liya ho, to confirm karne ke liye neeche agree type karein - yeh shabd Angrezi mein hi likhein.
+
+agree
+
+Hatch setup check
+Before you start your session, confirm each of these is set correctly in Hatch. Tick every box — all four are required to submit.
+
+Mode — GAIA PREFERENCE
+Name — your session name / alias
+Universe — one of the universes listed on this task (see Updated Hatch Instructions or the Universe section)
+Protocol — Hatch RM Style Task — Multilingual v1 only
+Anuvaad · Translation:
+
+Hatch setup ki jaanch
+Session shuru karne se pehle Hatch mein check kar lein ki ye charo cheezein sahi set hain. Har box par tick karein - submit karne ke liye charo zaroori hain.
+
+Mode (mode) — GAIA PREFERENCE
+Name (naam) — aapke session ka naam / alias
+Universe (universe) — one of the 9 Hindi (Singapore) universes — the persona that matches your language AND your location (full list in the Universe section). Careful: Hindi (Singapore) is not Hindi (India)
+Protocol (protocol) — sirf Hatch RM Style Task — Multilingual v1
+Mode — GAIA PREFERENCE
+
+Anuvaad · Translation:
+
+Mode (mode) — GAIA PREFERENCE
+
+Confirmed
+
+Name — your session name
+
+alias_task_N — your alias, then _task_, then the task number (e.g. 27b6b2b03e31_task_12
+
+Confused on where to find your alias? Find it on your Chat profile.
+
+Anuvaad · Translation:
+
+Name (naam) — aapke session ka naam
+
+alias_task_N — pehle aapka alias, phir _task_, phir task ka number (jaise 27b6b2b03e31_task_12). Yeh format Angrezi mein hi rahega.
+
+Apna alias nahi mil raha? Apni Chat profile mein dekhein.
+
+Confirmed
+
+Universe — one of the universes listed on this task (see Updated Hatch Instructions or the Universe section)
+
+Anuvaad · Translation:
+
+Universe (universe) — one of the 9 Hindi (Singapore) universes — the persona that matches your language AND your location (full list in the Universe section). Careful: Hindi (Singapore) is not Hindi (India)
+
+Confirmed
+
+Protocol — Hatch RM Style Task — Multilingual v1
+
+Do not choose any other protocol.
+
+Anuvaad · Translation:
+
+Protocol (protocol) — sirf Hatch RM Style Task — Multilingual v1
+
+Koi doosra protocol na chunein.
+
+Confirmed
+
+Session name
+Before recording a task, rename your session in Hatch to follow the format alias_task_N — your alias, then _task_, then the task number (e.g. 27b6b2b03e31_task_12).
+
+Then copy the session name here exactly as it appears in the tool.
+
+Anuvaad · Translation:
+
+Session ka naam
+Task record karne se pehle Hatch mein apne session ka naam badlein, is format mein: alias_task_N — pehle aapka alias, phir _task_, phir task ka number (jaise 27b6b2b03e31_task_12). Naam Angrezi aksharon mein hi rakhein.
+
+Phir session ka naam yahan hoobahoo vaisa hi copy karein jaisa Hatch mein dikhta hai.
+
+35e4f574ad46_task_1
+
+Session ID
+Copy and paste the session ID here exactly as it appears in Hatch — it looks like 2e6c6e89-82af-44b4-9870-186ac9e29bb9.
+
+Anuvaad · Translation:
+
+Session ID
+Session ID yahan hoobahoo vaisi hi copy-paste karein jaisi Hatch mein dikhti hai - yeh kuch aisi hoti hai: 2e6c6e89-82af-44b4-9870-186ac9e29bb9.
+
+ceb7dcc3-b921-459f-8b19-890a06dff663
+
+Quick persona navigation
+Open the Persona dropdown and type a language and country below to jump to its section. Then select the same persona name shown in Hatch.
+
+Start of Brazil
+
+Portuguese (Brazil)
+
+Start of Canada
+
+French (Canada / Québec)
+
+Start of India
+
+Bengali (India) · English (India) · Gujarati (India) · Hindi (India) · Malayalam (India) · Marathi (India) · Tamil (India) · Telugu (India)
+
+Start of Japan
+
+Japanese (Japan)
+
+Start of Mexico
+
+Spanish (Mexico)
+
+Start of Singapore
+
+Bengali (Singapore) · Hindi (Singapore) · Malay (Singapore) · Tamil (Singapore) · Mandarin (Singapore)
+
+Select your Hatch persona
+Match the language and country for this task.
+
+Keyboard shortcut: open the dropdown and type Spanish (Mexico), Hindi (India) or your task’s language and country to jump straight to that section. Then select the same human persona shown in Hatch.
+
+India and Singapore have separate Bengali, Hindi and Tamil universes. "No universe" is not allowed.
+
+Anuvaad · Translation:
+
+Universe
+Woh simulated vyakti jiske accounts mein aapne is session ke dauran kaam kiya.
+
+US English task: sirf V2 persona istemal karein, uplabdh sab-persona samet. Bhasha wale task: neeche ki list mein se wahi persona chunein jo aapki bhasha aur aapke desh, dono se mail khata ho. Dhyan dein: ek hi bhasha do deshon mein hai. Hindi (Singapore) aur Hindi (India) alag hain, Tamil (Singapore) aur Tamil (India) alag hain, Bengali (Singapore) aur Bengali (India) alag hain.
+
+Neeche ke dropdown mein search karke persona ka naam hoobahoo vaisa hi chunein jaisa Hatch ki persona summary mein dikhta hai.
+
+"No universe" nahi chun sakte.
+
+Is task ka universe: one of the 9 Hindi (Singapore) universes — the persona that matches your language AND your location (full list in the Universe section). Careful: Hindi (Singapore) is not Hindi (India)
+
+Bhasha wale task: Hatch mein universe search baar mein apna locale code type karein (jaise fr_ca) taaki sirf aapke locale ke universe dikhein, unmein se ek chunein, phir neeche ke dropdown mein wahi naam chunein.
+
+Hindi (Singapore) · Arjun Mehra
+
+For USE-CASE, please choose a new one you haven't done before.
+
+Anuvaad · Translation:
+
+USE-CASE ke liye kripya aisa use-case chunein jo aapne pehle kabhi nahi kiya ho.
+
+Use case category
+What the task was fundamentally about, from the fixed list of 14 — please see the new definitions below.
+
+Pick the single category that best fits the goal of your prompt, not the apps it happened to touch — “move my Thursday run if it rains” is Health & fitness even though it edits the calendar.
+
+Scroll down:
+
+Companionship / Chat : Just chatting: how your day went, your opinion on something, casual back-and-forth, catching up.
+
+Learning / Research : "Explain how X works," "research the best options for Y," "summarize this for me," help learning a skill.
+
+Health & Fitness: Workouts, meal and nutrition ideas, tracking progress, sleep, general wellness questions.
+
+Shopping: Finding a product, comparing options, recommendations for a purchase, deals, gift ideas.
+
+Media Creation : Help creating something: writing a post or story, drafting a caption, brainstorming a creative project, an image idea.
+
+Work Productivity / SMB : Drafting a work email or doc, planning a project, meeting prep, small-business tasks.
+
+Entertainment : Recommendations for shows, movies, music, games; fun things to do; something to make you laugh.
+
+Personal Productivity: Calendar, reminders, to-do lists, organizing your week, planning errands.
+
+Emotional Support: Talking through a stressful day, working through a feeling, encouragement, venting.
+
+Finance: Budgeting, tracking expenses, a money question, planning a purchase.
+
+Travel: Planning a trip, building an itinerary, destination or restaurant ideas, packing help.
+
+Relationships : Advice about a friend, partner, or family member; help wording a hard message; planning something for someone.
+
+Legal / Civic: Understanding a rule or process, a civic question, help making sense of a form or document (general info, not formal legal advice).
+
+Home Automation : Controlling smart-home devices, setting up a routine, troubleshooting a device.
+
+Anuvaad · Translation:
+
+Use case category (use-case category)
+Task asal mein kis baare mein tha - 14 tay category mein se chunein. Kripya neeche di gayi nayi paribhashayein dekhein.
+
+Woh ek category chunein jo aapke prompt ke maksad se sabse zyada mail khati hai, is par nahi ki beech mein kaun-se apps istemal ho gaye - "Agar barish ho to meri Guruvar wali running aage khiska do" Health & fitness (sehat aur fitness) hai, bhale hi ismein calendar mein badlav hota hai.
+
+Neeche scroll karein:
+
+Companionship / Chat (saath / baatcheet): bas gapshap: aapka din kaisa gaya, kisi cheez par aapki raay, halki-phulki baatcheet, halchal poochhna.
+
+Learning / Research (seekhna / research): "X kaise kaam karta hai, samjhao," "Y ke liye sabse acche vikalp dhoondho," "Iska saar bata do," koi hunar seekhne mein madad.
+
+Health & Fitness (sehat aur fitness): workout, khane aur poshan ke idea, progress track karna, neend, sehat se jude aam sawal.
+
+Shopping (shopping): koi product dhoondhna, vikalpon ki tulna, kuch kharidne ke liye sujhav, deals, gift ke idea.
+
+Media Creation (content banana): kuch banane mein madad: koi post ya kahani likhna, caption ka draft, kisi creative project par brainstorm, kisi image ka idea.
+
+Work Productivity / SMB (kaam ki productivity / chhota karobar): kaam ka email ya document draft karna, project ki planning, meeting ki taiyari, chhote karobar ke kaam.
+
+Entertainment (manoranjan): show, films, sangeet, games ke sujhav; maze ki cheezein; kuch aisa jisse hansi aaye.
+
+Personal Productivity (niji productivity): calendar, reminder, to-do list, hafte ko vyavasthit karna, chhote-mote kamon ki planning.
+
+Emotional Support (bhavnatmak sahara): tanav bhare din ke baare mein baat karna, kisi bhavna ko samajhna, hausla, man ki bhadas nikalna.
+
+Finance (paise aur finance): budget banana, kharche track karna, paison se juda koi sawal, kisi kharidari ki planning.
+
+Travel (yatra): trip ki planning, yatra ka karyakram banana, jagah ya restaurant ke idea, packing mein madad.
+
+Relationships (rishte): kisi dost, partner ya pariwar wale ke baare mein salah; koi mushkil message likhne mein madad; kisi ke liye kuch plan karna.
+
+Legal / Civic (kanooni / nagrik): koi niyam ya prakriya samajhna, nagrik mamlon se juda sawal, kisi form ya document ko samajhne mein madad (aam jaankari, aupcharik kanooni salah nahi).
+
+Home Automation (home automation): smart-home device control karna, koi routine set karna, kisi device ki dikkat theek karna.
+
+Finance
+
+Remember to click "start annotation" on hatch (You must input text here)
+
+Anuvaad · Translation:
+
+Hatch par "start annotation" (annotation shuru karein) par click karna yaad rakhein (yahan kuch text likhna zaroori hai - You must input text here)
+
+Ok
+
+Apps utilized
+Every app the agent actually used during the session — which can be more or less than the ones your prompt mentioned.
+
+Select every app actually invoked by either response. App availability can vary across V2 environments, so use the session trajectory in Hatch as the source of truth.
+
+Do not select apps merely because they were available in the environment.
+
+New in the list: Instagram — select it when either arm actually used Instagram during the session (the Hatch trajectory is the source of truth).
+
+Anuvaad · Translation:
+
+Apps utilized (istemal hue apps)
+Ve sabhi apps jinhein agent ne session ke dauran sach mein istemal kiya - ye aapke prompt mein bataye gaye apps se kam bhi ho sakte hain aur zyada bhi.
+
+Har woh app chunein jise dono mein se kisi bhi jawab ne sach mein istemal kiya. Alag-alag V2 environments mein alag-alag apps mil sakte hain, isliye Hatch mein agent ne session mein kram se jo-jo kiya (trajectory), usi ko sahi manein.
+
+Kisi app ko sirf isliye na chunein ki woh environment mein uplabdh tha.
+
+Google Docs, Google Sheets
+
+Task prompt
+Paste the exact prompt you gave the agent — first person, word for word as you wrote it in Hatch, in Hindi (Singapore), the way the persona would write it. Do not translate it. Use the script the persona's own emails and chats are written in: Latin letters, the WhatsApp way with English mixed in where natural, for Hindi, Marathi, Bengali (India), Telugu, Tamil (India), Gujarati, Malayalam and Hindi (Singapore); mostly Latin with some Tamil script for Tamil (Singapore); mostly Bengali script for Bengali (Singapore); their own script for Japanese and Mandarin.
+
+If the session had several user turns, include every turn, in order, clearly separated.
+
+Anuvaad · Translation:
+
+Task prompt
+Agent ko diya gaya apna prompt theek vaisa hi paste karein - apni or se ('main' wali bhasha mein), shabd-ba-shabd, jaisa aapne Hatch mein likha tha.
+
+Agar session mein aapne kai baar message bheje (kai turn the), to har turn kram se aur alag-alag saaf dikhate hue paste karein.
+
+Apna prompt Hindi (Singapore) mein likhein, vaise hi jaise persona likhta. Uska anuvaad na karein.
+
+Wahi lipi istemal karein jismein persona ke apne email aur chat likhe gaye hain: Hindi, Marathi, Bengali (India), Telugu, Tamil (India), Gujarati, Malayalam aur Hindi (Singapore) ke liye Latin akshar, WhatsApp wale andaz mein, jahan swabhavik lage wahan Angrezi milakar; Tamil (Singapore) ke liye zyadatar Latin aur kuch Tamil lipi; Bengali (Singapore) ke liye zyadatar Bangali lipi; Japanese aur Mandarin ke liye unki apni lipi.
+
+Is mahine stall ki pay aane wali hai, par naye roster me mere ghante kam ho gaye aur pichle Saturday ka OT bhi zero chala gaya. Mere September wale ghar kharche aur saving tracker dekh ke bata. SP bill, phone aur town council nikalne ke baad, chaar-room flat ke liye jo har hafte paisa alag rakhta hu woh target maintain kar paunga ya nahi? Jo pakka hai aur jo abhi aana baaki hai, dono alag karke saaf-saaf batana.
+
+You MUST NOT re-use a similar or identical prompt as previously, or to paraphrase them.
+
+Anuvaad · Translation:
+
+Pehle wale prompt jaisa ya hoobahoo wahi prompt dobara bilkul istemal na karein, aur na hi purane prompt ko ghuma-phirakar doosre shabdon mein likhein.
+
+Ok
+
+In 2-4 sentences explain how your prompt relates to the universe you chose. Write this in English.
+
+Anuvaad · Translation:
+
+2-4 vakyon mein samjhayein ki aapka prompt aapke chune hue universe se kaise juda hai.
+
+Ise Angrezi mein likhein.
+
+Arjun keeps his September money records in Google Sheets ("Ghar kharcha - September" and the "4-room saving tracker") and a Google Docs note ("is mahine kharcha") listing his SP, phone and town council bills plus the amount he sets aside for the four-room flat. His "Oct BTO list aaya" note also records that his roster hours were recently cut. The prompt asks the assistant to read these existing records and work out whether, after the bills, he can still keep his weekly four-room saving target now that his pay and overtime have dropped. It is a natural money question grounded in records that already exist in his accounts.
+
+Paste the entire Response A conversation here, exactly as it appears, from top to bottom: your opening prompt, the model's first response, the follow-up and the model's final response. Copy everything top to bottom, including timestamps. Paste it in Hindi (Singapore), exactly as it is — do not translate it. Do not worry about formatting or cleaning it up.
+
+Anuvaad · Translation:
+
+Response A (jawab A) ki poori baatcheet yahan theek vaisi hi paste karein jaisi dikhti hai, upar se neeche tak: aapka pehla prompt, model ka pehla jawab, follow-up aur model ka aakhiri jawab. Timestamp samet, upar se neeche tak sab kuch copy karein. Formatting ya saaf-safai ki chinta na karein.
+
+Ise Hindi (Singapore) mein, theek vaise hi paste karein — anuvaad na karein.
+
+OCT 2, 11:06 PM
+
+Is mahine stall ki pay aane wali hai, par naye roster me mere ghante kam ho gaye aur pichle Saturday ka OT bhi zero chala gaya. Mere September wale ghar kharche aur saving tracker dekh ke bata. SP bill, phone aur town council nikalne ke baad, chaar-room flat ke liye jo har hafte paisa alag rakhta hu woh target maintain kar paunga ya nahi? Jo pakka hai aur jo abhi aana baaki hai, dono alag karke saaf-saaf batana.
+
+Samajh gaya, thoda tight mahina lag raha hai. Tumhara September ka tracker nikaal ke dekhta hoon phir pakka hisaab batata hoon.
+
+Tumhara September tracker mere paas nahi hai, galat hisaab nahi dena chahta. SP bill, phone, town council ka amount, flat ke liye hafte ka saving target aur is mahine ki expected pay bata do, phir pakka aur baaki alag karke saaf hisaab de dunga.
+
+Paste the entire Response B conversation here, exactly as it appears, from top to bottom: your opening prompt, the model's first response, the follow-up and the model's final response. Copy everything top to bottom, including timestamps. Paste it in Hindi (Singapore), exactly as it is — do not translate it. Do not worry about formatting or cleaning it up.
+
+Anuvaad · Translation:
+
+Response B (jawab B) ki poori baatcheet yahan theek vaisi hi paste karein jaisi dikhti hai, upar se neeche tak: aapka pehla prompt, model ka pehla jawab, follow-up aur model ka aakhiri jawab. Timestamp samet, upar se neeche tak sab kuch copy karein. Formatting ya saaf-safai ki chinta na karein.
+
+Ise Hindi (Singapore) mein, theek vaise hi paste karein — anuvaad na karein.
+
+OCT 2, 11:06 PM
+
+Is mahine stall ki pay aane wali hai, par naye roster me mere ghante kam ho gaye aur pichle Saturday ka OT bhi zero chala gaya. Mere September wale ghar kharche aur saving tracker dekh ke bata. SP bill, phone aur town council nikalne ke baad, chaar-room flat ke liye jo har hafte paisa alag rakhta hu woh target maintain kar paunga ya nahi? Jo pakka hai aur jo abhi aana baaki hai, dono alag karke saaf-saaf batana.
+
+Samajh gaya, Mehra. Abhi tumhara September ka kharcha aur saving tracker check karke batata hu ki 4-room ka weekly target banega ya nahi.
+
+Mehra, tumhara September wala kharcha aur saving tracker mere paas saved nahi hai, isliye andaza nahi lagaunga. Apni expected pay, SP bill, phone, town council aur hafte wala saving target bhej do, phir pakka aur baaki alag karke saaf bata dunga.
+
+Trace A — full trace of Arm A
+In Hatch, open the Trace tab (top right). At the top of the Arm A column, click Copy trace, then paste it here.
+
+Use the Copy trace button of Arm A only. Do not use "Copy both traces" — Arm B has its own box below.
+Paste it exactly as it comes, from the first USER step to the last step: user turns, assistant messages, tool calls and tool outputs. Do not edit, shorten or translate anything. A very long paste is normal.
+If the ROUND menu shows more than one round, copy and paste every round, in order.
+This is not the same as Response A full conversation above: that box is the chat you read; this one is the full technical trace, including every tool call.
+
+Anuvaad · Translation:
+
+Trace A — Arm A ka poora trace
+Hatch mein Trace tab kholein (upar daayin or). Arm A column ke upar Copy trace par click karein, phir use yahan paste karein.
+
+Sirf Arm A ka Copy trace button istemal karein. "Copy both traces" istemal na karein — Arm B ke liye neeche alag box hai.
+Jaisa aaye vaisa hi paste karein, pehle USER step se aakhiri step tak: user ke message, assistant ke jawab, tool call aur tool output. Kuch bhi edit, chhota ya translate na karein. Bahut lamba paste hona aam baat hai.
+Agar ROUND menu mein ek se zyada round dikhein, to har round kram se copy karke paste karein.
+Yeh upar wale Response A full conversation jaisa nahi hai: woh box woh chat hai jo aap padhte hain; yeh poora technical trace hai, har tool call samet.
+
+[User · +0s]
+
+Is mahine stall ki pay aane wali hai, par naye roster me mere ghante kam ho gaye aur pichle Saturday ka OT bhi zero chala gaya. Mere September wale ghar kharche aur saving tracker dekh ke bata. SP bill, phone aur town council nikalne ke baad, chaar-room flat ke liye jo har hafte paisa alag rakhta hu woh target maintain kar paunga ya nahi? Jo pakka hai aur jo abhi aana baaki hai, dono alag karke saaf-saaf batana.
+
+[Tool Call · memory_search · +1s]
+
+{
+
+  "queries": [
+
+"September ghar kharche saving tracker",
+
+"chaar-room flat weekly saving target",
+
+"stall pay roster hours OT"
+  ]
+
+}
+
+[Tool Output · memory_search · +1s]
+
+Memory search
+Queries:
+
+September ghar kharche saving tracker
+
+chaar-room flat weekly saving target
+
+stall pay roster hours OT
+
+No matched memories.
+
+<!-- More: no. -->
+
+[Assistant · +2s]
+
+Samajh gaya, thoda tight mahina lag raha hai. Tumhara September ka tracker nikaal ke dekhta hoon phir pakka hisaab batata hoon.
+
+[Tool Call · read · +2s]
+
+{
+
+  "path": "~/MEMORY.md"
+
+}
+
+[Tool Call · read · +2s]
+
+{
+
+  "path": "~/workspace"
+
+}
+
+[Tool Output · read · +2s]
+
+MEMORY.md
+<!-- Your curated long-term memory: durable facts, preferences, and commitments. Keep it tight: promote what lasts here, and leave raw day-to-day detail in your daily notes. -->
+
+Facts
+Preferences
+Commitments
+[Tool Output · read · +2s]
+
+USER.md
+
+cron.d/
+
+cron.d/_archive/
+
+cron.d/_invalid/
+
+cron.d/daily/
+
+cron.d/hourly/
+
+cron.d/minutely/
+
+cron.d/monthly/
+
+cron.d/runonce/
+
+cron.d/secondly/
+
+cron.d/weekly/
+
+cron.d/yearly/
+
+downloads/
+
+goals/
+
+migration_archive/
+
+migration_archive/GOALS.md
+
+scheduler/
+
+self_improvement/
+
+self_improvement/migrations/
+
+spaces/
+
+system-cron.d/
+
+system-cron.d/hourly/
+
+[Tool Call · read · +5s]
+
+{
+
+  "path": "~/workspace/goals"
+
+}
+
+[Tool Call · exec · +5s]
+
+{
+
+  "command": "find ~/workspace -maxdepth 4 -type f | head -n 100; echo \"---\"; ls -la ~/memory/ 2>/dev/None | head -n 50"
+
+}
+
+[Tool Output · read · +5s]
+
+[No non-hidden files or directories found.]
+
+[Tool Output · exec · +5s]
+
+{"cwd":"/home/hatch","durationMs":4,"exitCode":0,"stdout":"/home/hatch/workspace/USER.md\n/home/hatch/workspace/cron.d/minutely/heartbeat__interval@30m.md\n/home/hatch/workspace/goals/.coaching/career.md\n/home/hatch/workspace/goals/.coaching/health.md\n/home/hatch/workspace/goals/.coaching/interests.md\n/home/hatch/workspace/goals/.coaching/money.md\n/home/hatch/workspace/goals/.coaching/productivity.md\n/home/hatch/workspace/goals/.coaching/relationships.md\n/home/hatch/workspace/goals/.coaching/something_else.md\n/home/hatch/workspace/goals/.creation/career.md\n/home/hatch/workspace/goals/.creation/health.md\n/home/hatch/workspace/goals/.creation/interests.md\n/home/hatch/workspace/goals/.creation/money.md\n/home/hatch/workspace/goals/.creation/productivity.md\n/home/hatch/workspace/goals/.creation/relationships.md\n/home/hatch/workspace/goals/.creation/something_else.md\n/home/hatch/workspace/migration_archive/GOALS.md\n/home/hatch/workspace/self_improvement/migrations/copy_first_objective_workspace_v1.json\n/home/hatch/workspace/system-cron.d/hourly/deterministic-doctor__interval@1h.md\n---\ntotal 16\ndrwxr-xr-x.  7 hatch-daemon hatch-daemon    70 Oct 12 18:12 .\ndrwxr-xr-x. 20 hatch-daemon hatch-daemon 16384 Oct 12 18:15 ..\ndrwxrwx---.  2 hatch-daemon hatch-daemon    62 Oct 12 18:12 bank\ndrwxrwx---.  2 hatch-daemon hatch-daemon     6 Oct 12 18:12 groups\ndrwxrwx---.  2 hatch-daemon hatch-daemon     6 Oct 12 18:12 index\ndrwxr-xr-x.  2 hatch-daemon hatch-daemon     6 Oct 12 18:12 ipc\ndrwxrwx---.  2 hatch-daemon hatch-daemon     6 Oct 12 18:12 people\n"}
+
+[Assistant · +13s]
+
+Tumhara September tracker mere paas nahi hai, galat hisaab nahi dena chahta. SP bill, phone, town council ka amount, flat ke liye hafte ka saving target aur is mahine ki expected pay bata do, phir pakka aur baaki alag karke saaf hisaab de dunga.[User · +0s]
+
+Is mahine stall ki pay aane wali hai, par naye roster me mere ghante kam ho gaye aur pichle Saturday ka OT bhi zero chala gaya. Mere September wale ghar kharche aur saving tracker dekh ke bata. SP bill, phone aur town council nikalne ke baad, chaar-room flat ke liye jo har hafte paisa alag rakhta hu woh target maintain kar paunga ya nahi? Jo pakka hai aur jo abhi aana baaki hai, dono alag karke saaf-saaf batana.
+
+[Tool Call · memory_search · +1s]
+
+{
+
+  "queries": [
+
+"September ghar kharche saving tracker",
+
+"chaar-room flat weekly saving target",
+
+"stall pay roster hours OT"
+  ]
+
+}
+
+[Tool Output · memory_search · +1s]
+
+Memory search
+Queries:
+
+September ghar kharche saving tracker
+
+chaar-room flat weekly saving target
+
+stall pay roster hours OT
+
+No matched memories.
+
+<!-- More: no. -->
+
+[Assistant · +2s]
+
+Samajh gaya, thoda tight mahina lag raha hai. Tumhara September ka tracker nikaal ke dekhta hoon phir pakka hisaab batata hoon.
+
+[Tool Call · read · +2s]
+
+{
+
+  "path": "~/MEMORY.md"
+
+}
+
+[Tool Call · read · +2s]
+
+{
+
+  "path": "~/workspace"
+
+}
+
+[Tool Output · read · +2s]
+
+MEMORY.md
+<!-- Your curated long-term memory: durable facts, preferences, and commitments. Keep it tight: promote what lasts here, and leave raw day-to-day detail in your daily notes. -->
+
+Facts
+Preferences
+Commitments
+[Tool Output · read · +2s]
+
+USER.md
+
+cron.d/
+
+cron.d/_archive/
+
+cron.d/_invalid/
+
+cron.d/daily/
+
+cron.d/hourly/
+
+cron.d/minutely/
+
+cron.d/monthly/
+
+cron.d/runonce/
+
+cron.d/secondly/
+
+cron.d/weekly/
+
+cron.d/yearly/
+
+downloads/
+
+goals/
+
+migration_archive/
+
+migration_archive/GOALS.md
+
+scheduler/
+
+self_improvement/
+
+self_improvement/migrations/
+
+spaces/
+
+system-cron.d/
+
+system-cron.d/hourly/
+
+[Tool Call · read · +5s]
+
+{
+
+  "path": "~/workspace/goals"
+
+}
+
+[Tool Call · exec · +5s]
+
+{
+
+  "command": "find ~/workspace -maxdepth 4 -type f | head -n 100; echo \"---\"; ls -la ~/memory/ 2>/dev/None | head -n 50"
+
+}
+
+[Tool Output · read · +5s]
+
+[No non-hidden files or directories found.]
+
+[Tool Output · exec · +5s]
+
+{"cwd":"/home/hatch","durationMs":4,"exitCode":0,"stdout":"/home/hatch/workspace/USER.md\n/home/hatch/workspace/cron.d/minutely/heartbeat__interval@30m.md\n/home/hatch/workspace/goals/.coaching/career.md\n/home/hatch/workspace/goals/.coaching/health.md\n/home/hatch/workspace/goals/.coaching/interests.md\n/home/hatch/workspace/goals/.coaching/money.md\n/home/hatch/workspace/goals/.coaching/productivity.md\n/home/hatch/workspace/goals/.coaching/relationships.md\n/home/hatch/workspace/goals/.coaching/something_else.md\n/home/hatch/workspace/goals/.creation/career.md\n/home/hatch/workspace/goals/.creation/health.md\n/home/hatch/workspace/goals/.creation/interests.md\n/home/hatch/workspace/goals/.creation/money.md\n/home/hatch/workspace/goals/.creation/productivity.md\n/home/hatch/workspace/goals/.creation/relationships.md\n/home/hatch/workspace/goals/.creation/something_else.md\n/home/hatch/workspace/migration_archive/GOALS.md\n/home/hatch/workspace/self_improvement/migrations/copy_first_objective_workspace_v1.json\n/home/hatch/workspace/system-cron.d/hourly/deterministic-doctor__interval@1h.md\n---\ntotal 16\ndrwxr-xr-x.  7 hatch-daemon hatch-daemon    70 Oct 12 18:12 .\ndrwxr-xr-x. 20 hatch-daemon hatch-daemon 16384 Oct 12 18:15 ..\ndrwxrwx---.  2 hatch-daemon hatch-daemon    62 Oct 12 18:12 bank\ndrwxrwx---.  2 hatch-daemon hatch-daemon     6 Oct 12 18:12 groups\ndrwxrwx---.  2 hatch-daemon hatch-daemon     6 Oct 12 18:12 index\ndrwxr-xr-x.  2 hatch-daemon hatch-daemon     6 Oct 12 18:12 ipc\ndrwxrwx---.  2 hatch-daemon hatch-daemon     6 Oct 12 18:12 people\n"}
+
+[Assistant · +13s]
+
+Tumhara September tracker mere paas nahi hai, galat hisaab nahi dena chahta. SP bill, phone, town council ka amount, flat ke liye hafte ka saving target aur is mahine ki expected pay bata do, phir pakka aur baaki alag karke saaf hisaab de dunga.
+
+Trace B — full trace of Arm B
+In Hatch, open the Trace tab (top right). At the top of the Arm B column, click Copy trace, then paste it here.
+
+Use the Copy trace button of Arm B only. Do not use "Copy both traces".
+Paste it exactly as it comes, from the first USER step to the last step: user turns, assistant messages, tool calls and tool outputs. Do not edit, shorten or translate anything. A very long paste is normal.
+If the ROUND menu shows more than one round, copy and paste every round, in order.
+Check before you submit: the Trace A box holds Arm A's trace and this box holds Arm B's — not the same trace twice.
+
+Anuvaad · Translation:
+
+Trace B — Arm B ka poora trace
+Hatch mein Trace tab kholein (upar daayin or). Arm B column ke upar Copy trace par click karein, phir use yahan paste karein.
+
+Sirf Arm B ka Copy trace button istemal karein. "Copy both traces" istemal na karein.
+Jaisa aaye vaisa hi paste karein, pehle USER step se aakhiri step tak: user ke message, assistant ke jawab, tool call aur tool output. Kuch bhi edit, chhota ya translate na karein. Bahut lamba paste hona aam baat hai.
+Agar ROUND menu mein ek se zyada round dikhein, to har round kram se copy karke paste karein.
+Submit karne se pehle jaanch lein: Trace A box mein Arm A ka trace hai aur is box mein Arm B ka, ek hi trace do baar nahi.
+
+[User · +0s]
+
+Is mahine stall ki pay aane wali hai, par naye roster me mere ghante kam ho gaye aur pichle Saturday ka OT bhi zero chala gaya. Mere September wale ghar kharche aur saving tracker dekh ke bata. SP bill, phone aur town council nikalne ke baad, chaar-room flat ke liye jo har hafte paisa alag rakhta hu woh target maintain kar paunga ya nahi? Jo pakka hai aur jo abhi aana baaki hai, dono alag karke saaf-saaf batana.
+
+[Assistant · +2s]
+
+Samajh gaya, Mehra. Abhi tumhara September ka kharcha aur saving tracker check karke batata hu ki 4-room ka weekly target banega ya nahi.
+
+[Tool Call · memory_search · +2s]
+
+{
+
+  "queries": [
+
+"September ghar kharche saving tracker",
+
+"chaar-room flat weekly saving target",
+
+"stall pay roster hours OT"
+  ]
+
+}
+
+[Tool Output · memory_search · +2s]
+
+Memory search
+Queries:
+
+September ghar kharche saving tracker
+
+chaar-room flat weekly saving target
+
+stall pay roster hours OT
+
+No matched memories.
+
+<!-- More: no. -->
+
+[Tool Call · read · +4s]
+
+{
+
+  "path": "~/workspace"
+
+}
+
+[Tool Output · read · +4s]
+
+USER.md
+
+cron.d/
+
+cron.d/_archive/
+
+cron.d/_invalid/
+
+cron.d/daily/
+
+cron.d/hourly/
+
+cron.d/minutely/
+
+cron.d/monthly/
+
+cron.d/runonce/
+
+cron.d/secondly/
+
+cron.d/weekly/
+
+cron.d/yearly/
+
+downloads/
+
+goals/
+
+migration_archive/
+
+migration_archive/GOALS.md
+
+scheduler/
+
+self_improvement/
+
+self_improvement/migrations/
+
+spaces/
+
+system-cron.d/
+
+system-cron.d/hourly/
+
+[Tool Call · exec · +5s]
+
+{
+
+  "command": "find ~/workspace ~/memory -maxdepth 4 -type f | head -n 100; echo \"---\"; ls -la ~/ | head -n 50"
+
+}
+
+[Tool Output · exec · +5s]
+
+{"cwd":"/home/hatch","durationMs":4,"exitCode":0,"stdout":"/home/hatch/workspace/USER.md\n/home/hatch/workspace/cron.d/minutely/heartbeat__interval@30m.md\n/home/hatch/workspace/goals/.coaching/career.md\n/home/hatch/workspace/goals/.coaching/health.md\n/home/hatch/workspace/goals/.coaching/interests.md\n/home/hatch/workspace/goals/.coaching/money.md\n/home/hatch/workspace/goals/.coaching/productivity.md\n/home/hatch/workspace/goals/.coaching/relationships.md\n/home/hatch/workspace/goals/.coaching/something_else.md\n/home/hatch/workspace/goals/.creation/career.md\n/home/hatch/workspace/goals/.creation/health.md\n/home/hatch/workspace/goals/.creation/interests.md\n/home/hatch/workspace/goals/.creation/money.md\n/home/hatch/workspace/goals/.creation/productivity.md\n/home/hatch/workspace/goals/.creation/relationships.md\n/home/hatch/workspace/goals/.creation/something_else.md\n/home/hatch/workspace/migration_archive/GOALS.md\n/home/hatch/workspace/self_improvement/migrations/copy_first_objective_workspace_v1.json\n/home/hatch/workspace/system-cron.d/hourly/deterministic-doctor__interval@1h.md\n/home/hatch/memory/bank/experience.md\n/home/hatch/memory/bank/opinions.md\n/home/hatch/memory/bank/world.md\n---\ntotal 76\ndrwxr-xr-x. 20 hatch-daemon hatch-daemon 16384 Oct 12 18:15 .\ndrwxr-xr-x.  1 root         root            19 Sep 30 02:09 ..\n-rw-r--r--.  1 hatch-daemon hatch-daemon    58 Oct 12 18:15 .bunfig.toml\ndrwxr-xr-x.  3 hatch-daemon hatch-daemon    27 Oct 12 18:15 .cache\ndrwxrwx---.  2 hatch-daemon hatch-daemon     6 Oct 12 18:12 .hatch-db-change-signals\ndrwxr-xr-x.  3 hatch-daemon hatch-daemon    19 Oct 12 18:12 .pki\n-rw-r--r--.  1 hatch-daemon hatch-daemon     6 Oct 12 18:15 .postgres-ready\n-rw-rw----.  1 hatch-daemon hatch-daemon    62 Oct 12 18:12 .subagents_monitoring_prompt_refreshed_20260824\n-rw-rw----.  1 hatch-daemon hatch-daemon   886 Oct 12 18:12 AGENTS.md\n-rw-rw----.  1 hatch-daemon hatch-daemon   113 Oct 12 18:12 HEARTBEAT.md\n-rw-rw----.  1 hatch-daemon hatch-daemon   276 Oct 12 18:12 IDENTITY.md\n-rw-rw----.  1 hatch-daemon hatch-daemon   233 Oct 12 18:12 MEMORY.md\n-rw-------.  1 hatch-daemon hatch-daemon   795 Oct 12 18:15 SOUL.md\n-rw-rw----.  1 hatch-daemon hatch-daemon  2254 Oct 12 18:12 SUBAGENTS_MONITORING.md\n-rw-rw----.  1 hatch-daemon hatch-daemon   841 Oct 12 18:12 TOOLS.md\n-rw-rw----.  1 hatch-daemon hatch-daemon   976 Oct 12 18:15 USER.md\ndrwxrwx---.  3 hatch-daemon hatch-daemon    56 Oct 12 18:12 agents\ndrwxr-xr-x.  3 hatch-daemon hatch-daemon    20 Oct 12 18:12 assets\ndrwxr-xr-x.  4 hatch-daemon hatch-daemon    39 Oct 12 18:12 channels\ndrwxr-xr-x.  2 hatch-daemon hatch-daemon   177 Oct 12 18:16 config\ndrwxr-x---.  3 hatch-daemon hatch-shared    26 Oct 12 18:12 data\ndrwxrwx---.  4 hatch-daemon hatch-daemon    80 Oct 12 18:12 docs\ndrwxrwx---.  8 hatch-daemon hatch-daemon    95 Oct 12 18:12 hooks\ndrwxr-xr-x.  2 hatch-daemon hatch-daemon     6 Oct 12 18:12 ipc\ndrwxr-xr-x.  7 hatch-daemon hatch-daemon    70 Oct 12 18:12 memory\ndrwxr-xr-x.  3 hatch-daemon hatch-daemon    20 Oct 12 18:15 models\ndrwxrwx---.  2 hatch-daemon hatch-daemon     6 Oct 12 18:12 prompts\n-rw-rw----.  1 hatch-daemon hatch-daemon     0 Oct 12 18:12 runtime.lock\ndrwxrws---. 58 hatch-daemon hatch-daemon 16384 Sep 30 02:09 skills\ndrwxrwx---.  5 hatch-daemon hatch-daemon    69 Oct 12 18:12 subscriptions\ndrwxrws---.  2 hatch-daemon hatch-shared     6 Oct 12 18:12 user\ndrwxr-sr-x. 10 hatch-daemon hatch-daemon   166 Oct 12 18:12 workspace\n"}
+
+[Tool Call · read · +6s]
+
+{
+
+  "path": "~/MEMORY.md"
+
+}
+
+[Tool Output · read · +6s]
+
+MEMORY.md
+<!-- Your curated long-term memory: durable facts, preferences, and commitments. Keep it tight: promote what lasts here, and leave raw day-to-day detail in your daily notes. -->
+
+Facts
+Preferences
+Commitments
+[Assistant · +18s]
+
+Mehra, tumhara September wala kharcha aur saving tracker mere paas saved nahi hai, isliye andaza nahi lagaunga. Apni expected pay, SP bill, phone, town council aur hafte wala saving target bhej do, phir pakka aur baaki alag karke saaf bata dunga.
+
+Please add a screenshot of both model responses here
+
+Anuvaad · Translation:
+
+Kripya yahan dono model ke jawabon ka ek screenshot upload karein
+
+PNG
+
+Preference calibration
+Longer does not mean better. Shorter does not mean better.
+
+Judge each dimension independently and use the comparative scale exactly as shown in Hatch.
+
+Style and behavior (High level) judges how Hatch communicates, regardless of correctness.
+Correctness (High level) judges which response is more correct; this may frequently be a tie.
+The six granular dimensions judge style, coherence and writing quality, helpfulness, completeness, tone, and warmth.
+Different dimensions may reasonably favor different arms.
+Extra detail helps only when it adds useful information, action, context, or structure.
+Repetition, implementation logs, internal IDs, and padding can make a response worse.
+A concise response still loses when it omits part of the ask or gets something wrong.
+Do not force every dimension to point in the same direction. A response can be more correct while the other is more natural, coherent, helpful, complete, or emotionally attuned.
+
+Before rewarding extra length, ask: What useful value does it add?
+
+Anuvaad · Translation:
+
+Pasand ko sahi taulna (Preference calibration)
+Lamba hone se jawab behtar nahi ho jaata. Chhota hone se bhi nahi.
+
+Har dimension ko alag-alag parkhein aur tulna wala scale theek vaise hi istemal karein jaisa Hatch mein dikhta hai.
+
+Style and behavior (High level) (shaili aur vyavhar, high-level) yeh parakhta hai ki Hatch baat kaise karta hai, chahe jawab sahi ho ya nahi.
+Correctness (High level) (sateekta, high-level) yeh parakhta hai ki kaun-sa jawab zyada sahi hai; yahan aksar tie ho sakta hai.
+Chhah granular dimension ye parakhte hain: Style (shaili), Coherence & writing quality (talmel aur lekhan ki gunvatta), Helpfulness (madadgar hona), Completeness (poornata), Tone (lehja) aur Warmth (apnapan).
+Alag-alag dimension ka alag-alag arm ki taraf jhukna bilkul theek ho sakta hai.
+Zyada detail tabhi faydemand hai jab woh kaam ki jaankari, action, sandarbh ya dhancha jodti hai.
+Dohrav, androoni takneeki log, internal ID aur bewajah ki bharai jawab ko kharab bana sakte hain.
+Chhota jawab bhi harta hai agar woh maang ka koi hissa chhod de ya kuch galat bataye.
+Har dimension ko zabardasti ek hi disha mein na jhukayein. Ho sakta hai ek jawab zyada sahi ho, jabki doosra zyada swabhavik, zyada sadha hua, madadgar, poora, ya samne wale ki bhavnaon ko zyada acchi tarah samajhne wala ho.
+
+Zyada lambai ko inam dene se pehle poochhein: isse kaun-si kaam ki cheez judti hai?
+
+COHERENCE  → Is it built right? (answer first, right length, clean sentences)
+
+HELPFULNESS → Did it actually move me forward? (not punt work back)
+
+COMPLETENESS → Did it do ALL of it? (pure checklist)
+
+STYLE  → Sounds like a person or a bot? (the WORDS: vibe-match, no "Got it —", no jargon)
+
+TONE   → Did it read the room? (the SETTING: crisis or a Tuesday?)
+
+WARMTH → Is the care real and right-sized? (the DOSE: not syrup, not a form letter)
+
+Language tasks: judge all of these by the norms of Hindi (Singapore) — register, politeness, what sounds like a person there.
+
+Anuvaad · Translation:
+
+COHERENCE (talmel) → kya yeh sahi dhang se bana hai? (Jawab pehle, sahi lambai, saaf vakya)
+
+HELPFULNESS (madadgar hona) → kya isne mujhe sach mein aage badhaya? (Kaam wapas mujh par nahi dala)
+
+COMPLETENESS (poornata) → kya isne sab kuch kiya? (Seedhi-seedhi checklist)
+
+STYLE (shaili) → insan jaisa lagta hai ya bot jaisa? (Shabd: baat ke mizaj se mail, koi "ji bilkul -" / "Got it —" nahi, koi bhari-bharkam takneeki shabd nahi)
+
+TONE (lehja) → kya isne mahaul ko samjha? (Mauka: koi sankat hai ya bas ek aam Mangalvar?)
+
+WARMTH (apnapan) → kya parwah sacchi hai aur sahi matra mein hai? (Matra: na chashni jaisi meethi, na sarkari chitthi jaisi rookhi)
+
+Bhasha wale task: in sabko Hindi (Singapore) ke hisab se parkhein — bolne ka andaz, shishtata, wahan kya swabhavik lagta hai.
+
+Avoid selecting ties unless you truly believe it's identical: Please always try and pick a preference.
+
+For any dimensions, please avoid selecting TIE. We audit when there are ties to see why.
+
+Anuvaad · Translation:
+
+Tie tabhi chunein jab aapko sach mein lage ki dono bilkul ek jaise hain**:** kripya hamesha koi ek pasand chunne ki koshish karein.
+
+Kisi bhi dimension mein TIE chunne se bachein. Jab bhi tie hota hai, hum audit karke dekhte hain ki kyun.
+
+I understand that TIE is only if two responses are IDENTICAL in that dimension.
+
+I understand that longer responses are not automatically better, shorter responses are not automatically better, and each dimension must be scored independently.
+
+Anuvaad · Translation:
+
+Main samajhta/samajhti hoon ki lambe jawab apne aap behtar nahi hote, chhote jawab apne aap behtar nahi hote, aur har dimension ko alag-alag score karna zaroori hai.
+
+I understand — longer ≠ better
+
+Please acknowledge that you may not select tie anymore for overall preference (Some text must be submitted in this block)
+
+Anuvaad · Translation:
+
+Kripya confirm karein ki aapko pata hai: ab overall preference (kul milakar pasand) mein tie nahi chuna ja sakta (is block mein kuch text likhna zaroori hai - Some text must be submitted in this block)
+
+OK
+
+Preference
+Record the same overall preference you selected in Hatch:
+
+A significantly better
+A slightly better
+B slightly better
+B significantly better
+No ties are allowed for overall preference !
+
+This is the headline judgment, not a mathematical average of the eight dimensions. A serious correctness or task-completion failure can outweigh several smaller communication wins. When substantive performance is close, style, coherence, helpfulness, completeness, tone, and warmth can decide the preference.
+
+Do not choose based on length alone. Your preference, dimension scores, and Required rationale must tell one consistent story.
+
+Anuvaad · Translation:
+
+Preference (pasand)
+Wahi overall preference (kul milakar pasand) darj karein jo aapne Hatch mein chuni thi:
+
+A significantly better (A kaafi behtar)
+A slightly better (A thoda behtar)
+B slightly better (B thoda behtar)
+B significantly better (B kaafi behtar)
+overall preference mein tie nahi chalega!
+
+Yeh aapka mukhya faisla hai, aath dimension ka ganit wala ausat nahi. Agar jawab mein koi gambhir galti hai ya task hi poora nahi hua, to yeh baat kehne ke dhang ki kai chhoti-chhoti khoobiyon par bhari pad sakta hai. Jab asli kaam ke mamle mein dono jawab kareeb-kareeb hon, tab shaili, talmel, madadgar hona, poornata, lehja aur apnapan pasand tay kar sakte hain.
+
+Sirf lambai dekhkar na chunein. Aapki pasand, dimension ke score aur Required rationale (zaroori kaaran) - teeno ko ek hi baat kehni chahiye.
+
+A is slightly better
+
+Absolute quality
+Record the same absolute quality you selected in Hatch for the preferred response: Perfect, Good or Bad.
+
+Ties are not allowed: pick A or B in Hatch, then rate that response on its own, regardless of how the other one did.
+
+Perfect — nothing to change: correct, natural in your language, right register and local conventions.
+Good — acceptable as it is, with small flaws in content, wording, register or formatting.
+Bad — a real problem: wrong or missing content, the wrong language or script, wording that sounds unnatural or translated, or an off-putting tone.
+If both responses are bad, still pick the less bad one, and rate it Bad.
+
+Anuvaad · Translation:
+
+Yeh hissa Angrezi mein hai: dimension, score aur aapka kaaran (rationale) hamesha Angrezi mein hi rehte hain.
+
+Bad
+
+Score each dimension
+Use the same comparative scale shown in Hatch for all eight dimensions:
+
+1 = A significantly better · 2 = A slightly better · 3 = Tie · 4 = B slightly better · 5 = B significantly better — the same five labels as in Hatch.
+
+These are comparative scores, not separate quality ratings for A and B. Score the full conversation and judge each dimension independently.
+
+Anuvaad · Translation:
+
+Yeh hissa Angrezi mein hai: dimension, score aur aapka kaaran (rationale) hamesha Angrezi mein hi rehte hain.
+
+Style and behavior (High level)
+Regardless of whether the response is correct, which response do you prefer? Judge based on how Hatch is communicating.
+
+Judge communication at a high level. Ignore correctness for this dimension.
+
+1 = A significantly better · 2 = A slightly better · 3 = Tie · 4 = B slightly better · 5 = B significantly better — the same five labels as in Hatch.
+
+Record the same value you selected in Hatch.
+
+Anuvaad · Translation:
+
+Yeh hissa Angrezi mein hai: dimension, score aur aapka kaaran (rationale) hamesha Angrezi mein hi rehte hain.
+
+2
+
+Correctness (High level)
+Select whichever response is more correct.
+
+Focus on factual accuracy, valid assumptions, correct actions, recipients, dates, calculations, and outputs.
+
+1 = A significantly better · 2 = A slightly better · 3 = Tie · 4 = B slightly better · 5 = B significantly better — the same five labels as in Hatch.
+
+Record the same value you selected in Hatch.
+
+Anuvaad · Translation:
+
+Yeh hissa Angrezi mein hai: dimension, score aur aapka kaaran (rationale) hamesha Angrezi mein hi rehte hain.
+
+3
+
+Style (Granular)
+Does the agent sound like a natural entity you'd want to engage with, as opposed to a generic answer-bot?
+
+Owns: the character of the voice — does it sound like an entity worth talking to, not a generic answer-bot; register adaptation (matches the person's pace/formality/humor without parroting their words back); plain language vs. jargon-dumping (mechanics/identifiers where a plain effect would do); the presence of AI-slop tics (em-dash openers, "Got it —", "Sure thing!", forbidden "Do you want me to…" closings, "it's not x, it's y", templated boilerplate); and personalization aptness — using the person's history in a way that feels earned and sensible vs. forced, creepy, or over-familiar.
+
+Doesn't own: emotional warmth/empathy calibration (Tone); whether sentences are grammatically well-built (Coherence). Style is which voice; Coherence is how well-constructed that voice's sentences are.
+
+Good: a Day-100 user who texts in clipped lowercase gets "on it. flight's rebooked. you're now landing 6:40, you can still make the dinner." — Absorbs the register, keeps its own voice, no ceremony.
+
+Bad: same moment — "Got it — happy to help! ✈️ I've gone ahead and rebooked that flight and saved the info in your flighttracker.md file (790357887). As your always-on, golden-retriever-loyal travel sidekick, I made sure you're all set — you now land at 6:40. Do you want me to check on the dinner reservation too?" — "Got it —" plus "happy to help!" ceremony, a forced persona, the forbidden "Do you want me to…" closing. Plus the .md file jargon and technical identifier leaks.
+
+Language tasks: judge as a native speaker of the locale — natural (not translated) language, the right register (tu/vous, aap/tum, Japanese politeness levels), the user's language and script. Matching the persona's code-switching is fine; tics are judged by their local equivalents.
+
+1 = A significantly better · 2 = A slightly better · 3 = Tie · 4 = B slightly better · 5 = B significantly better — the same five labels as in Hatch.
+
+Record the same value you selected in Hatch.
+
+Anuvaad · Translation:
+
+Yeh hissa Angrezi mein hai: dimension, score aur aapka kaaran (rationale) hamesha Angrezi mein hi rehte hain.
+
+2
+
+Coherence & writing quality (Granular)
+Is it well built — organized, ordered, right length, clean sentences, right format?
+
+Owns: structure and cohesion (reads as one piece, not stapled chunks); ordering (answer/most-important first, not buried under preamble or process); length discipline (as long as it needs to be, no longer); selection (says what earns its place, cuts misc detail and redundancy); format-fit; and sentence construction/flow (natural, varied, well-formed — no comma-splice piles, dropped-subject chains, or telegraphic stubs). Draws on: Writing Quality + Sentence Craft rubrics.
+
+Doesn't own: what voice the sentences are in (Style); whether the content is useful (Helpfulness) or complete (Completeness). A beautifully built reply to the wrong question still scores high here and low on Helpfulness.
+
+Good: "I moved your 2pm to Thursday and shifted the prep block along with it. I also gave Dana a heads-up. The only conflict left is your dentist; want me to push that for you as well?" — Answer first, one clean through-line, nothing extra.
+
+Bad: "Got it — I've finished your auto-safety report! At a glance: a full research report on 2026 SUV safety ratings. Here's what's inside: The report has crash-test ratings. It has rollover data. It covers IIHS Top Safety Picks. It has a section ranking the safest models. Bottom line: your complete auto-safety report is ready, covering the crash-test ratings, rollover data, IIHS picks, and safest models described above." — A chat reply wearing a document scaffold ("At a glance… Bottom line"); the bottom line restates the body verbatim; the middle is a dropped-subject monotone.
+
+Language tasks: a reply that reads like a translation is a Coherence & Style problem; judge sentence flow by the norms of that language.
+
+1 = A significantly better · 2 = A slightly better · 3 = Tie · 4 = B slightly better · 5 = B significantly better — the same five labels as in Hatch.
+
+Record the same value you selected in Hatch.
+
+Anuvaad · Translation:
+
+Yeh hissa Angrezi mein hai: dimension, score aur aapka kaaran (rationale) hamesha Angrezi mein hi rehte hain.
+
+3
+
+Helpfulness (Granular)
+Does it advance what the person is actually trying to do?
+
+Owns: whether the response advances the person's real goal — reads intent (answers what was meant, not just the literal words); is on-target and actionable (something to act on); shows judgment / takes a useful position rather than punting the work back.
+
+Doesn't own: whether every requested part is present (Completeness); whether it's well-written (Coherence). A one-line answer can be maximally helpful; a thorough one can be useless.
+
+Good: "help me find gifts for my sister and my dad" — "For your sister's birthday next month: the pottery-class series near her in Asheville could be just the thing. She sent you three ceramic posts last week. For your dad: a replacement for the fishing reel he mentioned losing. Want me to pull up options and prices for either?" — Uses what it already knows to hand over something to act on.
+
+Bad: same request — "I'd love to make you a gift guide! To get started, could you send me: who you're shopping for, each person's birthday, their interests and hobbies, your budget per person, and anything they've loved in the past? Once I have that, I'll build your first guide." — Hands the work back to the user — the people, dates, and interests are already in the accounts Hatch is connected to.
+
+1 = A significantly better · 2 = A slightly better · 3 = Tie · 4 = B slightly better · 5 = B significantly better — the same five labels as in Hatch.
+
+Record the same value you selected in Hatch.
+
+Anuvaad · Translation:
+
+Yeh hissa Angrezi mein hai: dimension, score aur aapka kaaran (rationale) hamesha Angrezi mein hi rehte hain.
+
+3
+
+Completeness (Granular)
+Does it cover the whole ask at the right depth?
+
+Owns: coverage of the whole ask at the right depth — all parts addressed, explicit constraints honored, nothing important dropped, not truncated.
+
+Doesn't own: usefulness or aim (Helpfulness); accuracy of what's included. Completeness is a checklist question: was each requested thing there?
+
+Good: "make me a guide of books to buy for the year" — "Here's your 12-book list for the year, one per month. Each has a buy link and current price — the four in your wishlist are marked, and three are under $12 in paperback right now." — Every element of the ask — the titles, the buy intent, the prices — is present.
+
+Bad: same request — "Here's your 12-book reading list for the year. Every title is available at the Greenpoint branch of the Brooklyn Public Library, with call numbers so you can pick them up on your next visit." — The ask was a guide to buy the books — no purchase links, no prices, only the library. The requested scope is missing from the words themselves.
+
+1 = A significantly better · 2 = A slightly better · 3 = Tie · 4 = B slightly better · 5 = B significantly better — the same five labels as in Hatch.
+
+Record the same value you selected in Hatch.
+
+Anuvaad · Translation:
+
+Yeh hissa Angrezi mein hai: dimension, score aur aapka kaaran (rationale) hamesha Angrezi mein hi rehte hain.
+
+3
+
+Tone (Granular)
+Is Hatch emotionally attuned to the user's tone, needs, and context?
+
+Owns: the read of the moment and the register it calls for — gravity vs. lightness, urgency vs. calm, direct vs. gentle; seriousness for a hard moment, calm and direct for a routine ask; reading the room; and no false interiority ("glad to help" ✓ / "I care about you" ✗).
+
+Doesn't own: how much care is expressed once the register is chosen, or whether it feels genuine (Warmth) — Tone picks the register, Warmth judges the dosage. Nor the words/tics that carry the voice (Style) — a reply can read the moment right and still be sloppy in style.
+
+Good: to someone who just failed an exam — "I'm so sorry. That's a rough one. When you're ready, we can look at what the retake actually requires. It's more doable than it feels right now." — Reads the moment as serious but not catastrophic — gentle where gentleness is due, then practical.
+
+Bad: same moment — "I'm really sorry. It's ok to feel down and sit with that for awhile. Thank you for telling me. Do you want to talk about what's weighing on you, or would a distraction help more right now? Remember, one exam doesn't define you — you've got this! And if it feels heavy most days, it helps to talk to someone you trust." — Misreads the gravity — treats a routine disappointment as a crisis, bolting on a mental-health referral the moment didn't call for. (The canned opener and empty pep are Warmth's problem; the misread of scale is Tone's.)
+
+Language tasks: read the moment by local norms — a formal reply is not automatically "cold" if formality is the local norm.
+
+1 = A significantly better · 2 = A slightly better · 3 = Tie · 4 = B slightly better · 5 = B significantly better — the same five labels as in Hatch.
+
+Record the same value you selected in Hatch.
+
+Anuvaad · Translation:
+
+Yeh hissa Angrezi mein hai: dimension, score aur aapka kaaran (rationale) hamesha Angrezi mein hi rehte hain.
+
+2
+
+Warmth (Granular)
+Does Muse feel appropriately caring and friendly without sounding forced or excessive?
+
+Owns: the sincerity and proportion of expressed care — friendliness that reads as genuine rather than performed; warmth dosage (enough to feel human, not so much it becomes syrup); care that costs the user nothing (no empathy padding to scroll past on a routine ask); warmth that survives contact with bad news (stays kind while still saying the hard thing plainly); and unearned intimacy (nicknames, presumed closeness, over-eager affection from an entity that doesn't know the person that well yet).
+
+Doesn't own: whether the emotional register was the right one for the moment — that's Tone's read-the-room call. Warmth assumes care was called for and asks whether it landed as real. Also doesn't own the specific tics that carry it ("happy to help!", emoji) — those are Style. Tone is should this be warm; Warmth is is this warmth believable and rightly sized.
+
+Good: a user mentions in passing that their dog is at the vet, then asks about a work deadline — "Hope the vet visit goes okay. On the deadline: you're clear until Friday — the review moved, so you've got two extra days." — One sincere beat, then straight to the ask. The care is real and doesn't tax the user.
+
+Bad: same moment — "Oh, I'm sending so much love to you and your pup right now — vet visits are the worst, and I know how much they mean to you. 🐾💛 Please give them an extra scratch behind the ears from me! You're such a good dog parent. Anyway! Your deadline: Friday." — Overrun dosage on a passing mention — gushing, emoji pile, an unearned claim to know how much the dog means, a compliment nobody asked for, and the actual answer demoted to an afterthought behind "Anyway!"
+
+Second bad (the cold failure): user says their contract wasn't renewed and asks about health coverage — "Your coverage ends on the last day of your final month of employment. COBRA election paperwork must be submitted within 60 days. Rates are typically 102% of the group premium." — Accurate and complete, and reads like a form letter. A moment that plainly warranted a human beat got none — warmth failed by absence, not excess.
+
+Language tasks: size warmth by local norms — a formal, polite reply is not automatically cold where formality is the norm.
+
+1 = A significantly better · 2 = A slightly better · 3 = Tie · 4 = B slightly better · 5 = B significantly better — the same five labels as in Hatch.
+
+Record the same value you selected in Hatch.
+
+Anuvaad · Translation:
+
+Yeh hissa Angrezi mein hai: dimension, score aur aapka kaaran (rationale) hamesha Angrezi mein hi rehte hain.
+
+2
+
+Required rationale
+WRITE THIS IN ENGLISH. Copy and paste the Required rationale you submitted in Hatch here, word for word. A rationale in another language is sent back.
+
+Write it like this:
+
+Preference — which response wins, by how much, and the main reason. Then the Absolute quality of the winner (Perfect / Good / Bad) and why.
+One or two sentences per dimension, all eight — including the ones you scored Tie. Say what A and B actually did on that dimension.
+Explain the language to an English speaker. Whenever the wording decided a score — register, politeness, idiom, dialect, spelling, code-mixing, a cultural reference — quote the exact words and explain why they land that way in your language. Pretend the reader does not speak it: «Veuillez agréer…» is formal written French nobody uses in a chat; A uses "tu" like the user, B switches to "vous" mid-conversation; "t'es correct" is how a Québécois friend says "you're fine".
+Rules: at least four complete sentences (three or fewer will block submission); name concrete, observable differences; if a correctness or task-completion failure drives the preference, say why it outweighs the communication wins; if the longer response wins, say what useful value the extra length added. "Better written", "more natural" or "more helpful" mean nothing without the quote and the explanation. You may occasionally use your own language for a nuance that English can't capture — quote it, then explain it in English.
+
+Your preference, eight dimension scores, Absolute quality and rationale must tell one consistent story.
+
+Anuvaad · Translation:
+
+Yeh hissa Angrezi mein hai: dimension, score aur aapka kaaran (rationale) hamesha Angrezi mein hi rehte hain.
+
+Preference: A slightly better. Both responses fail in the same way, so the gap is small. A sounds more natural and considerate. B calls me "Mehra" in both turns, which feels stiff and distant coming from my own assistant.
+
+Absolute quality of A: Bad. A said "Tumhara September tracker mere paas nahi hai" and asked me for the figures. But my September records are in my own Google account (the "Ghar kharcha - September" and "4-room saving tracker" sheets, plus the "is mahine kharcha" note), and the trace shows A never opened Sheets, Docs or Drive. It had everything it needed and still left the money question unanswered. That's a real missing-content failure.
+
+Correctness (high level): Tie. Both said the records were unavailable without opening the apps, and neither made up numbers. Neither is more correct.
+
+Style and behavior (high level): A slightly better. A is more considerate and uses no name. B's repeated surname feels stiff for a casual chat.
+
+Style (granular): A slightly better. A's Hinglish is conversational. B's "Mehra, tumhara..." is more formal than how my own assistant would talk to me.
+
+Coherence and writing quality (granular): Tie. Both are short and clear, with the same two-part shape: acknowledge, then explain and ask for the figures.
+
+Helpfulness (granular): Tie. Both ask for the same five figures (expected pay, SP bill, phone, town council, weekly saving target) to check whether the target is realistic. Both push the work back onto me equally.
+
+Completeness (granular): Tie. Neither gives the confirmed-versus-pending breakdown I asked for, and both ask for the same five missing items.
+
+Tone (granular): A slightly better. A opens with the money pressure ("thoda tight mahina lag raha hai") before getting to business. B goes straight to the mechanics.
+
+Warmth (granular): A slightly better. That "thoda tight mahina lag raha hai" line is a small, fitting bit of empathy. B is cooler.
+
+Attach screenshot of the scoring panel
+
+Anuvaad · Translation:
+
+Scoring panel ka screenshot attach karein
+
+PNG
+Notes
+In English. Anything the team should know about this session: environment errors, a tool the agent couldn't reach (e.g. "Hatch isn't connected to a tool"), odd behavior in Hatch, or anything else that affected the entry. (You must input text here, so N/A or None if no notes)
+
+Anuvaad · Translation:
+
+Notes
+Angrezi mein.
+
+Is session ke baare mein koi bhi baat jo team ko pata honi chahiye: environment ki gadbadiyan, koi tool jis tak agent nahi pahunch paya (jaise "Hatch isn't connected to a tool"), Hatch ka ajeeb bartav, ya koi bhi aur cheez jiska asar is entry par pada. (Yahan kuch text likhna zaroori hai, isliye koi note na ho to Angrezi mein N/A ya None likhein - You must input text here, so N/A or None if no notes)
+
+N/A
+
+Screenshot confirmation
+Please upload a screenshot confirming that you've finished the task on Hatch (You must input some text here "Okay")
+
+Anuvaad · Translation:
+
+Screenshot se confirm karein
+Kripya ek screenshot upload karein jismein dikhe ki aapne Hatch par task poora kar liya hai (yahan kuch text likhna zaroori hai - Angrezi mein "Okay" likhein - You must input some text here "Okay")
+
+Okay
+
+PNG
+Confirm Hatch Session ID
+
+Anuvaad · Translation:
+
+Hatch session ID confirm karein
+
+ceb7dcc3-b921-459f-8b19-890a06dff663
+
+Confirmation that you have checked and passed the Quality Checks and that the Hatch Session does not say "Ended mid-annotation"(You must input text here)
+
+Anuvaad · Translation:
+
+Confirm karein ki aapne Quality Checks (quality check) dekh liye hain aur sab paas hain, aur Hatch session par "Ended mid-annotation" nahi likha hai (yahan kuch text likhna zaroori hai - You must input text here)
+
+OK
+
+Rate the quality of this task when you received it on a scale of 1-5. Then, justify your reasoning in 2-3 sentences. Please provide the previous fellow with constructive feedback to improve the quality of their response.
+
+Quality Rating
+
+4
+
+Justification
+
+Good Small Detailings to Focus On

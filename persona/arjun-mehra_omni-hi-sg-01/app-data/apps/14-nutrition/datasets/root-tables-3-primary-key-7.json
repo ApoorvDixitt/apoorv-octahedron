@@ -1,0 +1,7 @@
+{
+  "sourcePath": "root/tables/3/primary_key",
+  "rows": [
+    "plan_id",
+    "entry_id"
+  ]
+}

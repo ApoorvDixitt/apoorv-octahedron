@@ -1,0 +1,110 @@
+{
+  "universe_kind": "sqlite",
+  "apps": [
+    {
+      "name": "gmail",
+      "kind": "sqlite",
+      "source": "google_gaia_pare_universe.db",
+      "item_count": 320,
+      "available": true
+    },
+    {
+      "name": "google-contacts",
+      "kind": "sqlite",
+      "source": "google_gaia_pare_universe.db",
+      "item_count": 133,
+      "available": true
+    },
+    {
+      "name": "google-calendar",
+      "kind": "sqlite",
+      "source": "google_gaia_pare_universe.db",
+      "item_count": 61,
+      "available": true
+    },
+    {
+      "name": "google-drive",
+      "kind": "sqlite",
+      "source": "google_gaia_pare_universe.db",
+      "item_count": 34,
+      "available": true
+    },
+    {
+      "name": "google-sheets",
+      "kind": "sqlite",
+      "source": "google_gaia_pare_universe.db",
+      "item_count": 8,
+      "available": true
+    },
+    {
+      "name": "google-docs",
+      "kind": "sqlite",
+      "source": "google_gaia_pare_universe.db",
+      "item_count": 7,
+      "available": true
+    },
+    {
+      "name": "whatsapp",
+      "kind": "sqlite",
+      "source": "whatsapp_gaia_pare_universe.db",
+      "item_count": 1009,
+      "available": true
+    },
+    {
+      "name": "notion",
+      "kind": "sqlite",
+      "source": "notion_gaia_pare_universe.db",
+      "item_count": 4,
+      "available": true
+    },
+    {
+      "name": "outlook-mail",
+      "kind": "sqlite",
+      "source": "outlook_gaia_pare_universe.db",
+      "item_count": 354,
+      "available": true
+    },
+    {
+      "name": "photos",
+      "kind": "sqlite",
+      "source": "photos_gaia_pare_universe.db",
+      "item_count": 56,
+      "available": true
+    },
+    {
+      "name": "oura",
+      "kind": "sqlite",
+      "source": "oura_gaia_pare_universe.db",
+      "item_count": 30,
+      "available": true
+    },
+    {
+      "name": "instagram",
+      "kind": "sqlite",
+      "source": "instagram_gaia_pare_universe.db",
+      "item_count": 1,
+      "available": true
+    },
+    {
+      "name": "hue",
+      "kind": "sqlite",
+      "source": "philips_hue_gaia_pare_universe.db",
+      "item_count": 7,
+      "available": true
+    },
+    {
+      "name": "nutrition",
+      "kind": "sqlite",
+      "source": "nutrition.db",
+      "item_count": 115,
+      "available": true
+    },
+    {
+      "name": "healthex",
+      "kind": "sqlite",
+      "source": "healthex_gaia_pare_universe.db",
+      "item_count": 14,
+      "available": true
+    }
+  ]
+}

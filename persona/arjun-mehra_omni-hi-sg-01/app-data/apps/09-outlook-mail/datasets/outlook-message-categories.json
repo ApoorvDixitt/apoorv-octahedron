@@ -1,0 +1,258 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "message_id": "msg_da2728bb",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_2c3d46fa",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_e2ceac72",
+      "category": "Meetings"
+    },
+    {
+      "message_id": "msg_e957c3c6",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_e957c3c6",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_75ce4943",
+      "category": "Meetings"
+    },
+    {
+      "message_id": "msg_e7d4e88d",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_da6858ac",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_46273bef",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_52f248b1",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_ffc11a0d",
+      "category": "Meetings"
+    },
+    {
+      "message_id": "msg_f142e177",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_00c41b4d",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_77cd05ef",
+      "category": "Meetings"
+    },
+    {
+      "message_id": "msg_3af1bb04",
+      "category": "Meetings"
+    },
+    {
+      "message_id": "msg_4d1bf6bb",
+      "category": "Meetings"
+    },
+    {
+      "message_id": "msg_4e1fd1c8",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_575f786b",
+      "category": "FYI"
+    },
+    {
+      "message_id": "msg_34bee486",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_af160bc0",
+      "category": "FYI"
+    },
+    {
+      "message_id": "msg_602b153b",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_24fa098b",
+      "category": "Meetings"
+    },
+    {
+      "message_id": "msg_5ee62eae",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_f3cb7e15",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_9fb05b14",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_4eacb36f",
+      "category": "Meetings"
+    },
+    {
+      "message_id": "msg_4eacb36f",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_39613042",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_39613042",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_81b85183",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_f9a64daf",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_f80de807",
+      "category": "Meetings"
+    },
+    {
+      "message_id": "msg_f80de807",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_42afd5a0",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_3527ba04",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_a80f42ac",
+      "category": "FYI"
+    },
+    {
+      "message_id": "msg_96dcdaff",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_52af114b",
+      "category": "Meetings"
+    },
+    {
+      "message_id": "msg_e36a3fe0",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_18beef3b",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_c40431c2",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_c40431c2",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_131bf547",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_24d57eb2",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_23a9a7a7",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_a3d70785",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_db59c9d6",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_fe36eef8",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_08201109",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_2f1a5c67",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_2f1a5c67",
+      "category": "FYI"
+    },
+    {
+      "message_id": "msg_40724023",
+      "category": "Meetings"
+    },
+    {
+      "message_id": "msg_cd6d2e1a",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_a3af07a2",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_a3af07a2",
+      "category": "Action Required"
+    },
+    {
+      "message_id": "msg_f6370ede",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_922c9e21",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_ac3afd4e",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_5c33bddd",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_321eeee7",
+      "category": "Meetings"
+    },
+    {
+      "message_id": "msg_3074adfd",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_80de175c",
+      "category": "Notifications"
+    },
+    {
+      "message_id": "msg_955ce12e",
+      "category": "Notifications"
+    }
+  ]
+}

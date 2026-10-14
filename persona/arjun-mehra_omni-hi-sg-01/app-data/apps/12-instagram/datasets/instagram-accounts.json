@@ -1,0 +1,14 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "user_fbid": "ig_self_50a0210620413909",
+      "username": "arjun.mehra",
+      "full_name": "Arjun Mehra",
+      "is_professional": 0,
+      "profile_picture_url": null,
+      "created_at": "2019-03-01T00:00:00"
+    }
+  ]
+}

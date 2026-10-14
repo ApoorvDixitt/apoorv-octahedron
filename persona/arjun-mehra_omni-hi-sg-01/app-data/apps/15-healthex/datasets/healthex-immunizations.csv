@@ -1,0 +1,4 @@
+"id","vaccine","code","date","status","dose_number","source"
+"hximm_1c95693bc4d9","Influenza, seasonal","150","2025-10-12","completed","","HealthEx"
+"hximm_848cfcacf1c5","Tdap","115","2022-04-12","completed","","HealthEx"
+"hximm_6c244bcf2c86","COVID-19","300","2025-10-12","completed","","HealthEx"

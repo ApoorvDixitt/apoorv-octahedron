@@ -1,0 +1,286 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "user_id": "6593731268",
+      "display_name": "Arjun Mehra",
+      "phone_number": "+65 9373 1268",
+      "is_current_user": 1,
+      "created_at": "2026-09-03T09:37:58"
+    },
+    {
+      "user_id": "6590664810",
+      "display_name": "Sunita Mehra",
+      "phone_number": "+65 9066 4810",
+      "is_current_user": 0,
+      "created_at": "2026-09-03T06:33:34"
+    },
+    {
+      "user_id": "6591173130",
+      "display_name": "Aarav Mehra",
+      "phone_number": "+65 9117 3130",
+      "is_current_user": 0,
+      "created_at": "2026-09-07T08:23:52"
+    },
+    {
+      "user_id": "6593555506",
+      "display_name": "Rohit Mehra",
+      "phone_number": "+65 9355 5506",
+      "is_current_user": 0,
+      "created_at": "2026-09-03T07:53:02"
+    },
+    {
+      "user_id": "6590918388",
+      "display_name": "Suresh Menon",
+      "phone_number": "+65 9091 8388",
+      "is_current_user": 0,
+      "created_at": "2026-09-04T08:44:15"
+    },
+    {
+      "user_id": "6594089232",
+      "display_name": "Latha Sundaram",
+      "phone_number": "+65 9408 9232",
+      "is_current_user": 0,
+      "created_at": "2026-09-04T09:19:15"
+    },
+    {
+      "user_id": "6598500652",
+      "display_name": "Priya Mehra",
+      "phone_number": "+65 9850 0652",
+      "is_current_user": 0,
+      "created_at": "2026-09-05T06:38:39"
+    },
+    {
+      "user_id": "6593857138",
+      "display_name": "Imran Sheikh",
+      "phone_number": "+65 9385 7138",
+      "is_current_user": 0,
+      "created_at": "2026-09-08T09:57:41"
+    },
+    {
+      "user_id": "6593540987",
+      "display_name": "Geeta Bhandari",
+      "phone_number": "+65 9354 0987",
+      "is_current_user": 0,
+      "created_at": "2026-09-08T08:03:28"
+    },
+    {
+      "user_id": "6591001015",
+      "display_name": "Rakesh Yadav",
+      "phone_number": "+65 9100 1015",
+      "is_current_user": 0,
+      "created_at": "2026-09-12T07:44:09"
+    },
+    {
+      "user_id": "6590780437",
+      "display_name": "Vikram Chauhan",
+      "phone_number": "+65 9078 0437",
+      "is_current_user": 0,
+      "created_at": "2026-09-13T08:13:22"
+    },
+    {
+      "user_id": "6593438832",
+      "display_name": "Shopee SG",
+      "phone_number": "+65 9343 8832",
+      "is_current_user": 0,
+      "created_at": "2026-09-03T10:53:25"
+    },
+    {
+      "user_id": "6592126142",
+      "display_name": "Singtel",
+      "phone_number": "+65 9212 6142",
+      "is_current_user": 0,
+      "created_at": "2026-09-04T08:14:47"
+    },
+    {
+      "user_id": "6590412707",
+      "display_name": "VERIFY",
+      "phone_number": "+65 9041 2707",
+      "is_current_user": 0,
+      "created_at": "2026-09-05T09:50:02"
+    },
+    {
+      "user_id": "6597444342",
+      "display_name": "Meena Krishnan",
+      "phone_number": "+65 9744 4342",
+      "is_current_user": 0,
+      "created_at": "2026-09-05T09:33:04"
+    },
+    {
+      "user_id": "6595100596",
+      "display_name": "Raj Murugan",
+      "phone_number": "+65 9510 0596",
+      "is_current_user": 0,
+      "created_at": "2026-09-05T09:33:04"
+    },
+    {
+      "user_id": "6599917666",
+      "display_name": "Lay Hoon Lim",
+      "phone_number": "+65 9991 7666",
+      "is_current_user": 0,
+      "created_at": "2026-09-18T10:42:38"
+    },
+    {
+      "user_id": "6592839320",
+      "display_name": "FairPrice",
+      "phone_number": "+65 9283 9320",
+      "is_current_user": 0,
+      "created_at": "2026-09-06T08:31:01"
+    },
+    {
+      "user_id": "6581247789",
+      "display_name": "+65 8124 7789",
+      "phone_number": "+65 8124 7789",
+      "is_current_user": 0,
+      "created_at": "2026-09-07T07:37:42"
+    },
+    {
+      "user_id": "6591746507",
+      "display_name": "HealthHub",
+      "phone_number": "+65 9174 6507",
+      "is_current_user": 0,
+      "created_at": "2026-09-08T06:33:02"
+    },
+    {
+      "user_id": "6598686966",
+      "display_name": "SP Services",
+      "phone_number": "+65 9868 6966",
+      "is_current_user": 0,
+      "created_at": "2026-09-09T08:12:38"
+    },
+    {
+      "user_id": "6591214566",
+      "display_name": "Syed Akram",
+      "phone_number": "+65 9121 4566",
+      "is_current_user": 0,
+      "created_at": "2026-09-10T10:01:47"
+    },
+    {
+      "user_id": "6596049145",
+      "display_name": "Anil Verma",
+      "phone_number": "+65 9604 9145",
+      "is_current_user": 0,
+      "created_at": "2026-09-23T10:02:46"
+    },
+    {
+      "user_id": "6596403426",
+      "display_name": "Daniel Ong",
+      "phone_number": "+65 9640 3426",
+      "is_current_user": 0,
+      "created_at": "2026-09-29T06:40:55"
+    },
+    {
+      "user_id": "6581932045",
+      "display_name": "+65 8193 2045",
+      "phone_number": "+65 8193 2045",
+      "is_current_user": 0,
+      "created_at": "2026-09-10T09:33:45"
+    },
+    {
+      "user_id": "6592601682",
+      "display_name": "ShopBack",
+      "phone_number": "+65 9260 1682",
+      "is_current_user": 0,
+      "created_at": "2026-09-11T10:54:59"
+    },
+    {
+      "user_id": "6591039805",
+      "display_name": "POSB",
+      "phone_number": "+65 9103 9805",
+      "is_current_user": 0,
+      "created_at": "2026-09-13T07:32:43"
+    },
+    {
+      "user_id": "6583379120",
+      "display_name": "+65 8337 9120",
+      "phone_number": "+65 8337 9120",
+      "is_current_user": 0,
+      "created_at": "2026-09-14T11:00:33"
+    },
+    {
+      "user_id": "6596350110",
+      "display_name": "Grab",
+      "phone_number": "+65 9635 0110",
+      "is_current_user": 0,
+      "created_at": "2026-09-17T10:49:45"
+    },
+    {
+      "user_id": "6584563312",
+      "display_name": "+65 8456 3312",
+      "phone_number": "+65 8456 3312",
+      "is_current_user": 0,
+      "created_at": "2026-09-19T06:55:32"
+    },
+    {
+      "user_id": "6594514873",
+      "display_name": "CDC",
+      "phone_number": "+65 9451 4873",
+      "is_current_user": 0,
+      "created_at": "2026-09-21T06:58:54"
+    },
+    {
+      "user_id": "6582674509",
+      "display_name": "+65 8267 4509",
+      "phone_number": "+65 8267 4509",
+      "is_current_user": 0,
+      "created_at": "2026-09-22T10:08:13"
+    },
+    {
+      "user_id": "6596222333",
+      "display_name": "Jurong-Clementi Town Council",
+      "phone_number": "+65 9622 2333",
+      "is_current_user": 0,
+      "created_at": "2026-09-25T09:27:35"
+    },
+    {
+      "user_id": "6584196733",
+      "display_name": "+65 8419 6733",
+      "phone_number": "+65 8419 6733",
+      "is_current_user": 0,
+      "created_at": "2026-09-26T11:11:56"
+    },
+    {
+      "user_id": "6580721184",
+      "display_name": "+65 8072 1184",
+      "phone_number": "+65 8072 1184",
+      "is_current_user": 0,
+      "created_at": "2026-09-28T11:19:12"
+    },
+    {
+      "user_id": "6592156987",
+      "display_name": "HDB",
+      "phone_number": "+65 9215 6987",
+      "is_current_user": 0,
+      "created_at": "2026-09-30T09:26:50"
+    },
+    {
+      "user_id": "6583652091",
+      "display_name": "+65 8365 2091",
+      "phone_number": "+65 8365 2091",
+      "is_current_user": 0,
+      "created_at": "2026-10-01T08:40:50"
+    },
+    {
+      "user_id": "6587905542",
+      "display_name": "+65 8790 5542",
+      "phone_number": "+65 8790 5542",
+      "is_current_user": 0,
+      "created_at": "2026-09-13T10:54:38"
+    },
+    {
+      "user_id": "6590069201",
+      "display_name": "DBS",
+      "phone_number": "+65 9006 9201",
+      "is_current_user": 0,
+      "created_at": "2026-09-09T07:48:46"
+    },
+    {
+      "user_id": "6581559023",
+      "display_name": "+65 8155 9023",
+      "phone_number": "+65 8155 9023",
+      "is_current_user": 0,
+      "created_at": "2026-09-20T07:21:00"
+    }
+  ]
+}

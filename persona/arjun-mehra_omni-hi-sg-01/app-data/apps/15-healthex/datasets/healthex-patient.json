@@ -1,0 +1,17 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "hxpati_b536828037a0",
+      "given_name": "Arjun",
+      "family_name": "Mehra",
+      "birth_date": "1995-12-06",
+      "sex": "male",
+      "blood_type": "A-",
+      "primary_provider": "Dr Tan Ah Lek",
+      "source": "HealthEx",
+      "created_at": "2026-10-02"
+    }
+  ]
+}

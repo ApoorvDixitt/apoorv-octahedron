@@ -1,0 +1,36 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "comment_id": "ig_c_cfd137078e60bbab",
+      "media_id": "ig_m_757633740e5fac19",
+      "author_id": "ig_u_9e73199acae7a70b",
+      "author_name": "Sunita Mehra",
+      "text": "Arjun beta, dono ko zyada der bahar mat rakhna, thandi hawa lag jayegi. Tum bhi time pe khana kha lena 🙏",
+      "created_at": "2026-09-05 22:15:00",
+      "like_count": 0,
+      "reply_count": null
+    },
+    {
+      "comment_id": "ig_c_372e944d19d95cc5",
+      "media_id": "ig_m_757633740e5fac19",
+      "author_id": "ig_u_5c07c74a9d272567",
+      "author_name": "Aarav Mehra",
+      "text": "Papa, main balcony me tha! Bahut achha laga, phir se chalte hain na 😄",
+      "created_at": "2026-09-05 22:15:00",
+      "like_count": 0,
+      "reply_count": null
+    },
+    {
+      "comment_id": "ig_c_d5a65e85a9eb988f",
+      "media_id": "ig_m_757633740e5fac19",
+      "author_id": "ig_u_9b59317bb1943930",
+      "author_name": "Rohit Mehra",
+      "text": "Bhai full papa duties me hai tu, achha lag raha hai dekh ke. Kabhi Bedok side aaja, bachcho ko park ghumaate hain",
+      "created_at": "2026-09-05 22:15:00",
+      "like_count": 0,
+      "reply_count": null
+    }
+  ]
+}

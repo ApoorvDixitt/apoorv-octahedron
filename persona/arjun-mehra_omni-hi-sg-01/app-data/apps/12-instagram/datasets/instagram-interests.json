@@ -1,0 +1,78 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": 1,
+      "interest_text": "Jurong side mein teen-room se chaar-room HDB flat ke liye pa",
+      "interest_type": "INFERRED_INTERESTED",
+      "topic_type": "BIOGRAPHY"
+    },
+    {
+      "id": 2,
+      "interest_text": "Judwa Aarav aur Vivaan ko achche se bada karna — khana, teek",
+      "interest_type": "INFERRED_INTERESTED",
+      "topic_type": "BIOGRAPHY"
+    },
+    {
+      "id": 3,
+      "interest_text": "Birth cert aur custody wale aadhe-adhure kagaz ka kaam poora",
+      "interest_type": "INFERRED_INTERESTED",
+      "topic_type": "BIOGRAPHY"
+    },
+    {
+      "id": 4,
+      "interest_text": "UP wali joint zameen ke hisse ka koi faisla nikalwana taaki ",
+      "interest_type": "INFERRED_INTERESTED",
+      "topic_type": "BIOGRAPHY"
+    },
+    {
+      "id": 5,
+      "interest_text": "Overtime aur ghar ke time mein balance rakhna taaki Mummy-ji",
+      "interest_type": "INFERRED_INTERESTED",
+      "topic_type": "BIOGRAPHY"
+    },
+    {
+      "id": 6,
+      "interest_text": "Chhe mahine baad infant care ka option dekhna jab dono chaln",
+      "interest_type": "INFERRED_INTERESTED",
+      "topic_type": "BIOGRAPHY"
+    },
+    {
+      "id": 7,
+      "interest_text": "POSB",
+      "interest_type": "INFERRED_INTERESTED",
+      "topic_type": "ENGAGEMENT"
+    },
+    {
+      "id": 8,
+      "interest_text": "HDB",
+      "interest_type": "INFERRED_INTERESTED",
+      "topic_type": "ENGAGEMENT"
+    },
+    {
+      "id": 9,
+      "interest_text": "Shopback",
+      "interest_type": "INFERRED_INTERESTED",
+      "topic_type": "ENGAGEMENT"
+    },
+    {
+      "id": 10,
+      "interest_text": "Shopee diaper price alert",
+      "interest_type": "INFERRED_INTERESTED",
+      "topic_type": "ENGAGEMENT"
+    },
+    {
+      "id": 11,
+      "interest_text": "Carousell twin stroller",
+      "interest_type": "INFERRED_INTERESTED",
+      "topic_type": "ENGAGEMENT"
+    },
+    {
+      "id": 12,
+      "interest_text": "Drypers jumbo pack",
+      "interest_type": "INFERRED_INTERESTED",
+      "topic_type": "ENGAGEMENT"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "hxproc_d5473b75e87e",
+      "name": "Routine dental prophylaxis",
+      "code": "D1110",
+      "date": "2026-01-28",
+      "status": "completed",
+      "performer": "Josephine D'Souza",
+      "note": "Routine screening; no acute findings.",
+      "source": "HealthEx"
+    }
+  ]
+}

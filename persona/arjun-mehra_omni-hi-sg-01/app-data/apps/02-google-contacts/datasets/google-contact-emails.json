@@ -1,0 +1,481 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "contact_resource_name": "people/c9e73199acae7",
+      "email": "sunita.mehra@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c5c07c74a9d27",
+      "email": "aarav.mehra@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c972c02cd05e0",
+      "email": "vivaan.mehra@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c972c02cd05e0",
+      "email": "vivaan.mehra@yahoo.com",
+      "email_type": "other"
+    },
+    {
+      "contact_resource_name": "people/c6d6cd101746d",
+      "email": "divya.rawat@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c9b59317bb194",
+      "email": "rohit.mehra@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c9b59317bb194",
+      "email": "rohit.mehra@icloud.com",
+      "email_type": "other"
+    },
+    {
+      "contact_resource_name": "people/cb139985674c9",
+      "email": "suresh.menon@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cb139985674c9",
+      "email": "suresh.menon@ahhockchickenricekoufujem.com",
+      "email_type": "work"
+    },
+    {
+      "contact_resource_name": "people/c6b38368adb5f",
+      "email": "desmond.toh@ahhockchickenricekoufujem.com",
+      "email_type": "work"
+    },
+    {
+      "contact_resource_name": "people/cb6d37ad481ea",
+      "email": "latha.sundaram@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cb6d37ad481ea",
+      "email": "latha.sundaram@ahhockchickenricekoufujem.com",
+      "email_type": "work"
+    },
+    {
+      "contact_resource_name": "people/c0f20b0de7a76",
+      "email": "syed.akram@ahhockchickenricekoufujem.com",
+      "email_type": "work"
+    },
+    {
+      "contact_resource_name": "people/c9769df38cb99",
+      "email": "vikram.chauhan@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/ca4beea3f34b2",
+      "email": "imran.sheikh@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c9ab05cffb9ae",
+      "email": "lay.lim@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c70a21072cb98",
+      "email": "cheryl.foo@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c686ed8d8477d",
+      "email": "josephine.dsouza@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c1e48d8de78f7",
+      "email": "kumar.velu@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c5b920b76f964",
+      "email": "rajesh.mehra@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c7f0d45d327df",
+      "email": "geeta.bhandari@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cc6bdc6364b39",
+      "email": "rakesh.yadav@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cd7fcd37a9a85",
+      "email": "suresh.yadav@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/ccf6ab1c52a4f",
+      "email": "priya.mehra@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/ccf6ab1c52a4f",
+      "email": "priya.mehra@outlook.com",
+      "email_type": "other"
+    },
+    {
+      "contact_resource_name": "people/c3f26a4f154bf",
+      "email": "harpreet.kaur@ahhockchickenricekoufujem.com",
+      "email_type": "work"
+    },
+    {
+      "contact_resource_name": "people/c97ed71cce25d",
+      "email": "daniel.ong@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c97ed71cce25d",
+      "email": "daniel.ong@ahhockchickenricekoufujem.com",
+      "email_type": "work"
+    },
+    {
+      "contact_resource_name": "people/c3ba02a5e5fa0",
+      "email": "maria.gomes@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c2b53e326c354",
+      "email": "ahmad.ridzuan@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cb018b00675c0",
+      "email": "meena.krishnan@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cd2f3d041eeea",
+      "email": "raj.murugan@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cd2f3d041eeea",
+      "email": "raj.murugan@icloud.com",
+      "email_type": "other"
+    },
+    {
+      "contact_resource_name": "people/c906a48d95afa",
+      "email": "farah.naz@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c906a48d95afa",
+      "email": "farah.naz@hotmail.com",
+      "email_type": "other"
+    },
+    {
+      "contact_resource_name": "people/c939ea992ccb8",
+      "email": "suresh.kumar@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cdafb5600653b",
+      "email": "dr.lek@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c9ff126d678c6",
+      "email": "anil.verma@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c9ff126d678c6",
+      "email": "anil.verma@ahhockchickenricekoufujem.com",
+      "email_type": "work"
+    },
+    {
+      "contact_resource_name": "people/c4cd20ebadd41",
+      "email": "ahhockchickenrice@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c6d8e7e8f379d",
+      "email": "feedback@koufu.com.sg",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c7320333bde82",
+      "email": "enquiry@shengsiong.com.sg",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cb060ce625891",
+      "email": "online@fairprice.com.sg",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cccfd87ca5edc",
+      "email": "no-reply@healthhub.sg",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cbcc29ce057dd",
+      "email": "no-reply@dbs.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cd39ff8e69bc9",
+      "email": "bala@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c766a6e8998ae",
+      "email": "sk@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c272f056a9706",
+      "email": "meena.temple@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c1f5e3fb2e282",
+      "email": "kevin.grab@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cea7aca7121b9",
+      "email": "muthu.barber@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cc98e36003b9f",
+      "email": "jenny.jem@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cd01056ab3413",
+      "email": "parlour.didi@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c3cb39c9d1aea",
+      "email": "mohan.aircon@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cdd81ac3e3f4b",
+      "email": "priya.facial@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cc3546b597a77",
+      "email": "kumar.taxi@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/ca6898536e476",
+      "email": "jia.lim@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/ccb9b7e370d48",
+      "email": "rajesh.yadav@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c4c554793a193",
+      "email": "deepak.sharma@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c92872de3e0de",
+      "email": "mei.ng@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cb3ebdada76e9",
+      "email": "ahmad.yusoff@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cb77973db721b",
+      "email": "priya.nair@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c68f3ff377973",
+      "email": "siti.ahmad@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c9134808b562d",
+      "email": "arun.prakash@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c327c9a705ac1",
+      "email": "divya.krishnan@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cf327fb9dd6c2",
+      "email": "mohamed.sheikh@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c61f14f40b372",
+      "email": "jia.chua@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c9d9097b98cd4",
+      "email": "karthik.subramaniam@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cb92faba762fa",
+      "email": "anita.thakur@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c21eb36a30efd",
+      "email": "jason.jie@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/ca39f365c8876",
+      "email": "farid.ali@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cc26a24c868ff",
+      "email": "pooja.gupta@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cccaa101a5355",
+      "email": "rohini.iyer@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c283273efb797",
+      "email": "zhi.koh@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c7d76b5e7b292",
+      "email": "sunil.pandey@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cbed20d643893",
+      "email": "lakshmi.narayanan@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cba571ab6b242",
+      "email": "manjit.sidhu@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c4fbcbe5f735f",
+      "email": "alvin.kai@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cec1d8252d493",
+      "email": "sanjay.mishra@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c488434bc7059",
+      "email": "abdul.khan@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cdfaa50cad84a",
+      "email": "geeta.verma@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cd2c9aab8e970",
+      "email": "sarah.min@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/ce9e20784278b",
+      "email": "nora.salim@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c605445be6b3f",
+      "email": "kiran.mehra@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c648acb921d83",
+      "email": "boon.lee@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c6847b97bc58c",
+      "email": "shalini.kapoor@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cf049660258ea",
+      "email": "fatima.syed@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c624d20c3e9ab",
+      "email": "ravi.prasad@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c519190ed8807",
+      "email": "hock.yap@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c24d4b94ebf11",
+      "email": "sneha.reddy@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c6f7a37423d97",
+      "email": "marcus.pereira@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c5ecf916c02e5",
+      "email": "lalita.joshi@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c5c671f91fd5f",
+      "email": "arvind.yadav@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c46233eb1d86e",
+      "email": "kim.ng@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/cf700a1d7b7e4",
+      "email": "sharmila.pillai@gmail.com",
+      "email_type": "home"
+    },
+    {
+      "contact_resource_name": "people/c35f98953cf6e",
+      "email": "rajinder.bhatia@gmail.com",
+      "email_type": "home"
+    }
+  ]
+}

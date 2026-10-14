@@ -1,0 +1,8 @@
+{
+  "sourcePath": "root/tables/3/primary_key",
+  "rows": [
+    "owner_id",
+    "target_id",
+    "relationship"
+  ]
+}

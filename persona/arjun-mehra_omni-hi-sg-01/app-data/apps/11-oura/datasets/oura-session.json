@@ -1,0 +1,42 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "session_02406c7f",
+      "day": "2026-09-04",
+      "type": "breathing",
+      "mood": "bad",
+      "duration": 1080,
+      "start_datetime": "2026-09-04T21:48:00",
+      "end_datetime": "2026-09-04T22:06:00",
+      "heart_rate_json": "{}",
+      "hrv_json": "{}",
+      "created_at": "2026-09-04T07:00:00"
+    },
+    {
+      "id": "session_378d0e73",
+      "day": "2026-09-05",
+      "type": "meditation",
+      "mood": "good",
+      "duration": 840,
+      "start_datetime": "2026-09-05T21:04:00",
+      "end_datetime": "2026-09-05T21:18:00",
+      "heart_rate_json": "{}",
+      "hrv_json": "{}",
+      "created_at": "2026-09-05T07:00:00"
+    },
+    {
+      "id": "session_a3da79fd",
+      "day": "2026-09-12",
+      "type": "meditation",
+      "mood": "good",
+      "duration": 780,
+      "start_datetime": "2026-09-12T21:45:00",
+      "end_datetime": "2026-09-12T21:58:00",
+      "heart_rate_json": "{}",
+      "hrv_json": "{}",
+      "created_at": "2026-09-12T07:00:00"
+    }
+  ]
+}

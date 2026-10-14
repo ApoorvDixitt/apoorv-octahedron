@@ -1,0 +1,16 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "me",
+      "age": 30,
+      "weight": 66.5,
+      "height": 1.67,
+      "biological_sex": null,
+      "email": "arjun.mehra@gmail.com",
+      "created_at": "2026-06-05T09:00:00",
+      "updated_at": "2026-09-03T07:00:00"
+    }
+  ]
+}

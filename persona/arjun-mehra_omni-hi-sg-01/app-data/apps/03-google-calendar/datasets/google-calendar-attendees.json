@@ -1,0 +1,161 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "event_id": "evt_40e36af05e",
+      "email": "aarav.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_40e36af05e",
+      "email": "vivaan.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_da077bff8f",
+      "email": "aarav.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_da077bff8f",
+      "email": "vivaan.mehra@gmail.com",
+      "response_status": "needsAction"
+    },
+    {
+      "event_id": "evt_350e6d89b7",
+      "email": "aarav.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_350e6d89b7",
+      "email": "vivaan.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_c6f799f80e",
+      "email": "aarav.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_c6f799f80e",
+      "email": "vivaan.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_60d700a1d5",
+      "email": "aarav.mehra@gmail.com",
+      "response_status": "needsAction"
+    },
+    {
+      "event_id": "evt_60d700a1d5",
+      "email": "vivaan.mehra@gmail.com",
+      "response_status": "declined"
+    },
+    {
+      "event_id": "evt_225be2b8c3",
+      "email": "rohit.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_225be2b8c3",
+      "email": "arjun.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_b2bac79655",
+      "email": "sunita.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_ccd83325b9",
+      "email": "suresh.menon@ahhockchickenricekoufujem.com",
+      "response_status": "declined"
+    },
+    {
+      "event_id": "evt_c9234a748f",
+      "email": "aarav.mehra@gmail.com",
+      "response_status": "tentative"
+    },
+    {
+      "event_id": "evt_c9234a748f",
+      "email": "vivaan.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_96aaf5ddde",
+      "email": "aarav.mehra@gmail.com",
+      "response_status": "needsAction"
+    },
+    {
+      "event_id": "evt_96aaf5ddde",
+      "email": "vivaan.mehra@gmail.com",
+      "response_status": "declined"
+    },
+    {
+      "event_id": "evt_75f2c08359",
+      "email": "rohit.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_75f2c08359",
+      "email": "arjun.mehra@gmail.com",
+      "response_status": "declined"
+    },
+    {
+      "event_id": "evt_41915c50dc",
+      "email": "rohit.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_41915c50dc",
+      "email": "arjun.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_4330aa59f8",
+      "email": "rohit.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_4330aa59f8",
+      "email": "arjun.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_e9aca1f8f1",
+      "email": "sunita.mehra@gmail.com",
+      "response_status": "needsAction"
+    },
+    {
+      "event_id": "evt_e9aca1f8f1",
+      "email": "aarav.mehra@gmail.com",
+      "response_status": "declined"
+    },
+    {
+      "event_id": "evt_e9aca1f8f1",
+      "email": "vivaan.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_5b9f3856e9",
+      "email": "imran.sheikh@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_5b9f3856e9",
+      "email": "arjun.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_6a0ade99b8",
+      "email": "aarav.mehra@gmail.com",
+      "response_status": "accepted"
+    },
+    {
+      "event_id": "evt_6a0ade99b8",
+      "email": "vivaan.mehra@gmail.com",
+      "response_status": "accepted"
+    }
+  ]
+}

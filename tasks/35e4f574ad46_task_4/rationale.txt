@@ -1,0 +1,19 @@
+Preference: B slightly better. Neither arm could read Arjun's WhatsApp, so both made him type out Rohit's messages himself, and the gap is small. Helpfulness is the one dimension that leans to A, because A gives a more concrete reason for its verdict, but B still wins despite that: he asked to just chat like a friend, so I weigh how each arm talks above that one point, and across the two turns B talks more cleanly while A's first turn is crude and stalls.
+
+Absolute quality of B: Bad. B told him "main tera WhatsApp dekh nahi sakta" (I can't see your WhatsApp), yet his chats with Rohit and Latha are in his WhatsApp, and the trace shows B only searched its own memory and skill list and never opened the app. That left him to paste the messages himself before he got any answer, and even then B stalls with an extra line, "abhi batata hu kaun sahi hai" (I'll tell you now who is right), before it replies.
+
+Correctness (high level): Tie. Both made the same WhatsApp miss, and after he pasted the messages neither says anything that the conversation itself contradicts, so on what the transcripts show neither is more correct.
+
+Style and behavior (high level): B slightly better. B sounds like a friend from start to finish, down to "Rohit bas tujhe chhed raha hai" (Rohit is just teasing you). A opens with "chal thodi bakchodi karte hain" and then narrates checks it cannot finish.
+
+Style (granular): B slightly better. "Bakchodi" (messing around) is built on a swear word, and nothing in Arjun's own messages is that crude, so it overshoots his register. B stays in his casual "tu" and "yaar" without that, though both lean on his own words with "dost ki tarah" (like a friend).
+
+Coherence and writing quality (granular): B slightly better. A's first turn is three messages, and two of them announce a check, "Ruk, Rohit ke message zara dekhne de" (wait, let me look at Rohit's messages) and "Tere phone se WhatsApp nikalne ka rasta check karta hu" (I'll find a way into WhatsApp on your phone), before the third admits it cannot see WhatsApp. B answers turn one in a single message and has one filler line, in turn two.
+
+Helpfulness (granular): A slightly better. Both say "Seedhi baat, tu sahi hai" (straight up, you're right) and both answer Rohit's last over jab. A hands him a specific point to throw back at Rohit, "trophy wali baat me KKR aage hai" (on trophies KKR is ahead), while B's backing stays general, "jeetna bhi jaanti hai" (they know how to win too) and "RCB wala jawab ekdum sahi tha" (your RCB reply was spot on). I am not weighing whether A's trophy point is true, since neither arm looked anything up and the transcripts do not settle it; the difference is specific versus general. B still wins overall despite this, because in a casual chat its cleaner, friendlier talk across both turns matters more to him than one sharper debating point.
+
+Completeness (granular): Tie. Arjun asked for four things: chat about his day, read Rohit's WhatsApp, say who is right, and keep it short and friendly. Both give one line on the Children's Day crowd, neither reads the chat, both give a verdict, and both stay short, so neither covers more of the ask than the other.
+
+Tone (granular): Tie, because both read the moment the same way, as light banter after a long shift, and both keep it playful with no lecture, so neither reads the room better than the other.
+
+Warmth (granular): Tie, because each gives one small, believable beat about his tiring day, A's "Bhai aaj to pakka thak gaya hoga" (you must be worn out today) and B's "banda toot hi jaata hai" (a guy just breaks after that), and then moves on, so the care is the same size in both.

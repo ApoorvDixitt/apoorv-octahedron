@@ -1,0 +1,159 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "scene_id": "55645345-c4d6-bb92-2a5d-234fcf923195",
+      "light_id": "94f44f44-9015-05ed-9dc0-f547f5f9ec78",
+      "is_on": 1,
+      "brightness": 38,
+      "mirek": 410,
+      "color_x": null,
+      "color_y": null
+    },
+    {
+      "scene_id": "55645345-c4d6-bb92-2a5d-234fcf923195",
+      "light_id": "b0bdcf06-ddbe-1971-fe40-cda85dd4beeb",
+      "is_on": 1,
+      "brightness": 38,
+      "mirek": null,
+      "color_x": 0.5,
+      "color_y": 0.415
+    },
+    {
+      "scene_id": "55645345-c4d6-bb92-2a5d-234fcf923195",
+      "light_id": "b856da5c-a2d7-00bc-ac76-40ae6c6057f9",
+      "is_on": 1,
+      "brightness": 38,
+      "mirek": null,
+      "color_x": 0.5,
+      "color_y": 0.415
+    },
+    {
+      "scene_id": "ccd7ca50-c34d-be0f-e62f-df3653ef53cf",
+      "light_id": "94f44f44-9015-05ed-9dc0-f547f5f9ec78",
+      "is_on": 1,
+      "brightness": 100,
+      "mirek": 233,
+      "color_x": null,
+      "color_y": null
+    },
+    {
+      "scene_id": "ccd7ca50-c34d-be0f-e62f-df3653ef53cf",
+      "light_id": "b0bdcf06-ddbe-1971-fe40-cda85dd4beeb",
+      "is_on": 1,
+      "brightness": 100,
+      "mirek": 233,
+      "color_x": null,
+      "color_y": null
+    },
+    {
+      "scene_id": "ccd7ca50-c34d-be0f-e62f-df3653ef53cf",
+      "light_id": "b856da5c-a2d7-00bc-ac76-40ae6c6057f9",
+      "is_on": 1,
+      "brightness": 100,
+      "mirek": 233,
+      "color_x": null,
+      "color_y": null
+    },
+    {
+      "scene_id": "ba9ebbeb-4edc-47c8-5a52-788aa474b5a1",
+      "light_id": "94f44f44-9015-05ed-9dc0-f547f5f9ec78",
+      "is_on": 1,
+      "brightness": 12,
+      "mirek": 454,
+      "color_x": null,
+      "color_y": null
+    },
+    {
+      "scene_id": "ba9ebbeb-4edc-47c8-5a52-788aa474b5a1",
+      "light_id": "b0bdcf06-ddbe-1971-fe40-cda85dd4beeb",
+      "is_on": 1,
+      "brightness": 12,
+      "mirek": null,
+      "color_x": 0.167,
+      "color_y": 0.04
+    },
+    {
+      "scene_id": "ba9ebbeb-4edc-47c8-5a52-788aa474b5a1",
+      "light_id": "b856da5c-a2d7-00bc-ac76-40ae6c6057f9",
+      "is_on": 1,
+      "brightness": 12,
+      "mirek": null,
+      "color_x": 0.167,
+      "color_y": 0.04
+    },
+    {
+      "scene_id": "a70d9c96-76f4-b3f6-7ab6-7b3bc0714bb9",
+      "light_id": "e17b9854-e024-4a10-cb32-5ab1d4c943dc",
+      "is_on": 1,
+      "brightness": 100,
+      "mirek": 280,
+      "color_x": null,
+      "color_y": null
+    },
+    {
+      "scene_id": "a70d9c96-76f4-b3f6-7ab6-7b3bc0714bb9",
+      "light_id": "b2f426cb-ef2c-def2-f154-2e77cab7ded9",
+      "is_on": 1,
+      "brightness": 100,
+      "mirek": 280,
+      "color_x": null,
+      "color_y": null
+    },
+    {
+      "scene_id": "ada477b6-7803-86c5-2a8a-fabb39f14da4",
+      "light_id": "e17b9854-e024-4a10-cb32-5ab1d4c943dc",
+      "is_on": 1,
+      "brightness": 8,
+      "mirek": 447,
+      "color_x": null,
+      "color_y": null
+    },
+    {
+      "scene_id": "ada477b6-7803-86c5-2a8a-fabb39f14da4",
+      "light_id": "b2f426cb-ef2c-def2-f154-2e77cab7ded9",
+      "is_on": 1,
+      "brightness": 8,
+      "mirek": 447,
+      "color_x": null,
+      "color_y": null
+    },
+    {
+      "scene_id": "1372fa28-f440-6d83-42b5-15e76fddc750",
+      "light_id": "04f9e853-c561-7cca-d8f4-f9dcc1b4644f",
+      "is_on": 1,
+      "brightness": 100,
+      "mirek": 280,
+      "color_x": null,
+      "color_y": null
+    },
+    {
+      "scene_id": "1372fa28-f440-6d83-42b5-15e76fddc750",
+      "light_id": "6c23ed76-5c5a-1418-4b45-3732eddada2c",
+      "is_on": 1,
+      "brightness": 100,
+      "mirek": 280,
+      "color_x": null,
+      "color_y": null
+    },
+    {
+      "scene_id": "64c8982e-0a82-116f-58e9-10e4111e3a80",
+      "light_id": "04f9e853-c561-7cca-d8f4-f9dcc1b4644f",
+      "is_on": 1,
+      "brightness": 80,
+      "mirek": 366,
+      "color_x": null,
+      "color_y": null
+    },
+    {
+      "scene_id": "64c8982e-0a82-116f-58e9-10e4111e3a80",
+      "light_id": "6c23ed76-5c5a-1418-4b45-3732eddada2c",
+      "is_on": 1,
+      "brightness": 80,
+      "mirek": 366,
+      "color_x": null,
+      "color_y": null
+    }
+  ]
+}

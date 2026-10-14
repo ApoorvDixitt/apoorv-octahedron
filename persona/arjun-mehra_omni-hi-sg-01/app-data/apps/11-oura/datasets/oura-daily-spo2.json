@@ -1,0 +1,276 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "spo2_daf5e9d8",
+      "day": "2026-09-03",
+      "spo2_percentage_avg": 97.9,
+      "spo2_percentage_min": 94.8,
+      "spo2_percentage_max": 98.7,
+      "breathing_disturbance_index": 1.7,
+      "created_at": "2026-09-03T07:00:00"
+    },
+    {
+      "id": "spo2_26eb351d",
+      "day": "2026-09-04",
+      "spo2_percentage_avg": 96.5,
+      "spo2_percentage_min": 93,
+      "spo2_percentage_max": 97.7,
+      "breathing_disturbance_index": 1.5,
+      "created_at": "2026-09-04T07:00:00"
+    },
+    {
+      "id": "spo2_cd49a398",
+      "day": "2026-09-05",
+      "spo2_percentage_avg": 97,
+      "spo2_percentage_min": 93.6,
+      "spo2_percentage_max": 97.9,
+      "breathing_disturbance_index": 3.1,
+      "created_at": "2026-09-05T07:00:00"
+    },
+    {
+      "id": "spo2_c0c552d6",
+      "day": "2026-09-06",
+      "spo2_percentage_avg": 97.1,
+      "spo2_percentage_min": 94.7,
+      "spo2_percentage_max": 98.3,
+      "breathing_disturbance_index": 3,
+      "created_at": "2026-09-06T07:00:00"
+    },
+    {
+      "id": "spo2_fb401593",
+      "day": "2026-09-07",
+      "spo2_percentage_avg": 96.5,
+      "spo2_percentage_min": 94.7,
+      "spo2_percentage_max": 97.4,
+      "breathing_disturbance_index": 2.1,
+      "created_at": "2026-09-07T07:00:00"
+    },
+    {
+      "id": "spo2_788b0ab0",
+      "day": "2026-09-08",
+      "spo2_percentage_avg": 97.6,
+      "spo2_percentage_min": 94.3,
+      "spo2_percentage_max": 99.1,
+      "breathing_disturbance_index": 3.4,
+      "created_at": "2026-09-08T07:00:00"
+    },
+    {
+      "id": "spo2_6eb07c24",
+      "day": "2026-09-09",
+      "spo2_percentage_avg": 96.6,
+      "spo2_percentage_min": 94.2,
+      "spo2_percentage_max": 97.5,
+      "breathing_disturbance_index": 1.6,
+      "created_at": "2026-09-09T07:00:00"
+    },
+    {
+      "id": "spo2_b1c79982",
+      "day": "2026-09-10",
+      "spo2_percentage_avg": 96.6,
+      "spo2_percentage_min": 94.6,
+      "spo2_percentage_max": 98.3,
+      "breathing_disturbance_index": 0.9,
+      "created_at": "2026-09-10T07:00:00"
+    },
+    {
+      "id": "spo2_4ddf56e9",
+      "day": "2026-09-11",
+      "spo2_percentage_avg": 97.6,
+      "spo2_percentage_min": 94.1,
+      "spo2_percentage_max": 99.2,
+      "breathing_disturbance_index": 2.9,
+      "created_at": "2026-09-11T07:00:00"
+    },
+    {
+      "id": "spo2_891ba913",
+      "day": "2026-09-12",
+      "spo2_percentage_avg": 96.1,
+      "spo2_percentage_min": 94.3,
+      "spo2_percentage_max": 97.6,
+      "breathing_disturbance_index": 0.9,
+      "created_at": "2026-09-12T07:00:00"
+    },
+    {
+      "id": "spo2_e2ec32de",
+      "day": "2026-09-13",
+      "spo2_percentage_avg": 98,
+      "spo2_percentage_min": 94.6,
+      "spo2_percentage_max": 99.8,
+      "breathing_disturbance_index": 2.2,
+      "created_at": "2026-09-13T07:00:00"
+    },
+    {
+      "id": "spo2_faee8233",
+      "day": "2026-09-14",
+      "spo2_percentage_avg": 96,
+      "spo2_percentage_min": 92.6,
+      "spo2_percentage_max": 97,
+      "breathing_disturbance_index": 1.7,
+      "created_at": "2026-09-14T07:00:00"
+    },
+    {
+      "id": "spo2_e3fd4b2c",
+      "day": "2026-09-15",
+      "spo2_percentage_avg": 97.5,
+      "spo2_percentage_min": 95.5,
+      "spo2_percentage_max": 99,
+      "breathing_disturbance_index": 0.8,
+      "created_at": "2026-09-15T07:00:00"
+    },
+    {
+      "id": "spo2_4658d162",
+      "day": "2026-09-16",
+      "spo2_percentage_avg": 96.9,
+      "spo2_percentage_min": 94.3,
+      "spo2_percentage_max": 98.3,
+      "breathing_disturbance_index": 1.4,
+      "created_at": "2026-09-16T07:00:00"
+    },
+    {
+      "id": "spo2_38574742",
+      "day": "2026-09-17",
+      "spo2_percentage_avg": 96.2,
+      "spo2_percentage_min": 93.5,
+      "spo2_percentage_max": 97.1,
+      "breathing_disturbance_index": 1.5,
+      "created_at": "2026-09-17T07:00:00"
+    },
+    {
+      "id": "spo2_4f6ffdb2",
+      "day": "2026-09-18",
+      "spo2_percentage_avg": 97.9,
+      "spo2_percentage_min": 96.2,
+      "spo2_percentage_max": 99.7,
+      "breathing_disturbance_index": 0.7,
+      "created_at": "2026-09-18T07:00:00"
+    },
+    {
+      "id": "spo2_f6599db1",
+      "day": "2026-09-19",
+      "spo2_percentage_avg": 97.4,
+      "spo2_percentage_min": 95.9,
+      "spo2_percentage_max": 99,
+      "breathing_disturbance_index": 1.6,
+      "created_at": "2026-09-19T07:00:00"
+    },
+    {
+      "id": "spo2_beda3b2d",
+      "day": "2026-09-20",
+      "spo2_percentage_avg": 96.6,
+      "spo2_percentage_min": 94.5,
+      "spo2_percentage_max": 97.9,
+      "breathing_disturbance_index": 1.5,
+      "created_at": "2026-09-20T07:00:00"
+    },
+    {
+      "id": "spo2_3ef2d301",
+      "day": "2026-09-21",
+      "spo2_percentage_avg": 96.2,
+      "spo2_percentage_min": 93.8,
+      "spo2_percentage_max": 97.8,
+      "breathing_disturbance_index": 2.2,
+      "created_at": "2026-09-21T07:00:00"
+    },
+    {
+      "id": "spo2_23578386",
+      "day": "2026-09-22",
+      "spo2_percentage_avg": 97.7,
+      "spo2_percentage_min": 95.9,
+      "spo2_percentage_max": 99.3,
+      "breathing_disturbance_index": 0.3,
+      "created_at": "2026-09-22T07:00:00"
+    },
+    {
+      "id": "spo2_1f7e7c9b",
+      "day": "2026-09-23",
+      "spo2_percentage_avg": 96.3,
+      "spo2_percentage_min": 93.6,
+      "spo2_percentage_max": 97.9,
+      "breathing_disturbance_index": 1.2,
+      "created_at": "2026-09-23T07:00:00"
+    },
+    {
+      "id": "spo2_86ef2d14",
+      "day": "2026-09-24",
+      "spo2_percentage_avg": 96,
+      "spo2_percentage_min": 93.9,
+      "spo2_percentage_max": 97.2,
+      "breathing_disturbance_index": 2.2,
+      "created_at": "2026-09-24T07:00:00"
+    },
+    {
+      "id": "spo2_b3c6dd43",
+      "day": "2026-09-25",
+      "spo2_percentage_avg": 96,
+      "spo2_percentage_min": 93.1,
+      "spo2_percentage_max": 97.5,
+      "breathing_disturbance_index": 1.9,
+      "created_at": "2026-09-25T07:00:00"
+    },
+    {
+      "id": "spo2_2dd7083d",
+      "day": "2026-09-26",
+      "spo2_percentage_avg": 98,
+      "spo2_percentage_min": 95.3,
+      "spo2_percentage_max": 99.1,
+      "breathing_disturbance_index": 3.1,
+      "created_at": "2026-09-26T07:00:00"
+    },
+    {
+      "id": "spo2_aa97bbd8",
+      "day": "2026-09-27",
+      "spo2_percentage_avg": 97.2,
+      "spo2_percentage_min": 94.5,
+      "spo2_percentage_max": 98.3,
+      "breathing_disturbance_index": 2.7,
+      "created_at": "2026-09-27T07:00:00"
+    },
+    {
+      "id": "spo2_c558760d",
+      "day": "2026-09-28",
+      "spo2_percentage_avg": 97.3,
+      "spo2_percentage_min": 93.9,
+      "spo2_percentage_max": 98.8,
+      "breathing_disturbance_index": 0.5,
+      "created_at": "2026-09-28T07:00:00"
+    },
+    {
+      "id": "spo2_fb9a0fa8",
+      "day": "2026-09-29",
+      "spo2_percentage_avg": 96.2,
+      "spo2_percentage_min": 93.6,
+      "spo2_percentage_max": 97.1,
+      "breathing_disturbance_index": 2.8,
+      "created_at": "2026-09-29T07:00:00"
+    },
+    {
+      "id": "spo2_6c070957",
+      "day": "2026-09-30",
+      "spo2_percentage_avg": 96.3,
+      "spo2_percentage_min": 94.7,
+      "spo2_percentage_max": 98,
+      "breathing_disturbance_index": 1,
+      "created_at": "2026-09-30T07:00:00"
+    },
+    {
+      "id": "spo2_0e65396d",
+      "day": "2026-10-01",
+      "spo2_percentage_avg": 97.4,
+      "spo2_percentage_min": 94,
+      "spo2_percentage_max": 99.1,
+      "breathing_disturbance_index": 2.7,
+      "created_at": "2026-10-01T07:00:00"
+    },
+    {
+      "id": "spo2_286c2830",
+      "day": "2026-10-02",
+      "spo2_percentage_avg": 98,
+      "spo2_percentage_min": 96.5,
+      "spo2_percentage_max": 99.4,
+      "breathing_disturbance_index": 2.4,
+      "created_at": "2026-10-02T07:00:00"
+    }
+  ]
+}

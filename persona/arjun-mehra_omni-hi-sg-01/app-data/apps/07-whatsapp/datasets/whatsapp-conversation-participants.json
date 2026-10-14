@@ -1,0 +1,318 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "conversation_id": "8c40aae4c7f7ce8a0542e330ea1d0786",
+      "user_id": "6590664810"
+    },
+    {
+      "conversation_id": "8c40aae4c7f7ce8a0542e330ea1d0786",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "9c89ea6ed29a370899f353d4e6a97180",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "9c89ea6ed29a370899f353d4e6a97180",
+      "user_id": "6591173130"
+    },
+    {
+      "conversation_id": "adc37f2ef6fa96dfe3fee38d2a5436b7",
+      "user_id": "6593555506"
+    },
+    {
+      "conversation_id": "adc37f2ef6fa96dfe3fee38d2a5436b7",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "46919f96685336f8fc4cc148dc0d11d7",
+      "user_id": "6590918388"
+    },
+    {
+      "conversation_id": "46919f96685336f8fc4cc148dc0d11d7",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "f59e59f13cdf9c3c51c83fdeeb5d62d3",
+      "user_id": "6594089232"
+    },
+    {
+      "conversation_id": "f59e59f13cdf9c3c51c83fdeeb5d62d3",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "ddff978ac189f69566917c0ce5c884f0",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "ddff978ac189f69566917c0ce5c884f0",
+      "user_id": "6598500652"
+    },
+    {
+      "conversation_id": "6839a8abe372730f892bfbe839798ce7",
+      "user_id": "6593857138"
+    },
+    {
+      "conversation_id": "6839a8abe372730f892bfbe839798ce7",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "4c13308deec8e0395a28bbccca68616b",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "4c13308deec8e0395a28bbccca68616b",
+      "user_id": "6593540987"
+    },
+    {
+      "conversation_id": "7f1c0ec7031e65742f2a716a90de9999",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "7f1c0ec7031e65742f2a716a90de9999",
+      "user_id": "6591001015"
+    },
+    {
+      "conversation_id": "296ab9176a4d1c01940cfea5d6f44caf",
+      "user_id": "6590780437"
+    },
+    {
+      "conversation_id": "296ab9176a4d1c01940cfea5d6f44caf",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "25a61a0ae0014824270b4527aec9b709",
+      "user_id": "6593438832"
+    },
+    {
+      "conversation_id": "25a61a0ae0014824270b4527aec9b709",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "c9826cbbfc8874559cd1dd8c9e575d86",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "c9826cbbfc8874559cd1dd8c9e575d86",
+      "user_id": "6592126142"
+    },
+    {
+      "conversation_id": "ddc7f06f7c164c609772adedaf70f9bd",
+      "user_id": "6590412707"
+    },
+    {
+      "conversation_id": "ddc7f06f7c164c609772adedaf70f9bd",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "120353804037655944",
+      "user_id": "6597444342"
+    },
+    {
+      "conversation_id": "120353804037655944",
+      "user_id": "6595100596"
+    },
+    {
+      "conversation_id": "120353804037655944",
+      "user_id": "6599917666"
+    },
+    {
+      "conversation_id": "120353804037655944",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "0254afeebad1681c45d4482384d3be20",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "0254afeebad1681c45d4482384d3be20",
+      "user_id": "6592839320"
+    },
+    {
+      "conversation_id": "7aa1a091ff43f948478e38b2f12fb968",
+      "user_id": "6581247789"
+    },
+    {
+      "conversation_id": "7aa1a091ff43f948478e38b2f12fb968",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "f1fc81bdfb23bfbb0d3607a60908cf67",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "f1fc81bdfb23bfbb0d3607a60908cf67",
+      "user_id": "6591746507"
+    },
+    {
+      "conversation_id": "269a7ca91333bc7f9a8ee42a15d40f24",
+      "user_id": "6598686966"
+    },
+    {
+      "conversation_id": "269a7ca91333bc7f9a8ee42a15d40f24",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "120336821691440698",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "120336821691440698",
+      "user_id": "6594089232"
+    },
+    {
+      "conversation_id": "120336821691440698",
+      "user_id": "6596049145"
+    },
+    {
+      "conversation_id": "120336821691440698",
+      "user_id": "6591214566"
+    },
+    {
+      "conversation_id": "120336821691440698",
+      "user_id": "6596403426"
+    },
+    {
+      "conversation_id": "50b8f4a3b3eb5126ecdd3f47123ce71d",
+      "user_id": "6581932045"
+    },
+    {
+      "conversation_id": "50b8f4a3b3eb5126ecdd3f47123ce71d",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "25cf968370ab63d7dfd41f370d811e1b",
+      "user_id": "6592601682"
+    },
+    {
+      "conversation_id": "25cf968370ab63d7dfd41f370d811e1b",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "7df30541c35da7013a6de75c501f2d30",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "7df30541c35da7013a6de75c501f2d30",
+      "user_id": "6591039805"
+    },
+    {
+      "conversation_id": "94ce898961ff7f425dfbd25eb7b31b2b",
+      "user_id": "6583379120"
+    },
+    {
+      "conversation_id": "94ce898961ff7f425dfbd25eb7b31b2b",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "36876124cf3d87879d1e52db6641eff9",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "36876124cf3d87879d1e52db6641eff9",
+      "user_id": "6596350110"
+    },
+    {
+      "conversation_id": "9e9058ef3fc8e43242eee113233db32c",
+      "user_id": "6584563312"
+    },
+    {
+      "conversation_id": "9e9058ef3fc8e43242eee113233db32c",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "3590094e30220b48c072b8f2c6ba66c2",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "3590094e30220b48c072b8f2c6ba66c2",
+      "user_id": "6594514873"
+    },
+    {
+      "conversation_id": "5b6a666be615255aefdd8996248aec83",
+      "user_id": "6582674509"
+    },
+    {
+      "conversation_id": "5b6a666be615255aefdd8996248aec83",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "5394290b6aef89bced8d2c2fc8e97616",
+      "user_id": "6596222333"
+    },
+    {
+      "conversation_id": "5394290b6aef89bced8d2c2fc8e97616",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "79ec5ae9b35fb17b9e478cfeaf39dbea",
+      "user_id": "6584196733"
+    },
+    {
+      "conversation_id": "79ec5ae9b35fb17b9e478cfeaf39dbea",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "120364842588074615",
+      "user_id": "6590780437"
+    },
+    {
+      "conversation_id": "120364842588074615",
+      "user_id": "6593555506"
+    },
+    {
+      "conversation_id": "120364842588074615",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "399a618ca41abb03f6f1e5b4e3f79ba3",
+      "user_id": "6580721184"
+    },
+    {
+      "conversation_id": "399a618ca41abb03f6f1e5b4e3f79ba3",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "83a7364ce771b59edb31cb9161e0a8f0",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "83a7364ce771b59edb31cb9161e0a8f0",
+      "user_id": "6592156987"
+    },
+    {
+      "conversation_id": "4db0559c80937e7ccebdaf8d6f6dfee8",
+      "user_id": "6583652091"
+    },
+    {
+      "conversation_id": "4db0559c80937e7ccebdaf8d6f6dfee8",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "471d72df900f04c02aad443dc9717261",
+      "user_id": "6587905542"
+    },
+    {
+      "conversation_id": "471d72df900f04c02aad443dc9717261",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "54a3db2421957805d2683114ac284bce",
+      "user_id": "6593731268"
+    },
+    {
+      "conversation_id": "54a3db2421957805d2683114ac284bce",
+      "user_id": "6590069201"
+    },
+    {
+      "conversation_id": "13ca1eebc6a323e8d10aa48a6220ac21",
+      "user_id": "6581559023"
+    },
+    {
+      "conversation_id": "13ca1eebc6a323e8d10aa48a6220ac21",
+      "user_id": "6593731268"
+    }
+  ]
+}

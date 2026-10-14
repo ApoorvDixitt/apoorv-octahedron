@@ -1,0 +1,19 @@
+Preference: A slightly better. Both arms opened Arjun's Gmail, Drive, Docs and Sheets, and both got his main diaper question wrong in the same way, so the gap is small. I picked A because what it adds holds up against his records: it names milk powder as the weekly item missing from the old list and ties it to the 5, 12 and 19 Sep rows of his "ration diaper bachat" sheet. B states that his cupboard stock is already used up and pads the list with promo items. B's reply reads more cleanly, but a shopping list has to match what he actually buys, so I weigh that above polish.
+
+Absolute quality of A: Bad. A tells him "kal ek jumbo le lena safe rahega" (safer to buy a jumbo pack tomorrow). But his own Sheng Siong list says "jumbo pack almari me hai, abhi diaper mat le" (the jumbo is in the cupboard, don't buy diapers yet), and on 1 Oct he wrote to Priya on WhatsApp that the jumbo and the small pack are both in the cupboard. A never opened WhatsApp, so it gets his main question wrong and pushes a purchase of about $37 to $43 on a tight budget. Its chat also calls "ande" (eggs) a weekly item, and nothing in his records backs that.
+
+Correctness (high level): A slightly better. Neither arm checked WhatsApp, both said to buy diapers, and both said no Sheng Siong diaper rate was found. Yet his "Kharcha feed log" has "Drypers jumbo rate note 21.90" in the 12 Sep Sheng Siong row, and B even opened that sheet. Beyond those shared misses, B claims the stock "ab tak nikal gaya" (has already run out), which no record says, and adds "ande 30s, sarso tel 2L, kailan 2 packet" taken from Sheng Siong promo mails and an abandoned FairPrice cart. A's dates and amounts check out, including the Shopee invoice ($40.41 for the item, $42.90 paid in total).
+
+Style and behavior (high level): B slightly better. Setting the facts aside, both post progress lines while they work, but B then gives one finished answer. A's answer promises the list "khulते hi bhej dunga" (I'll send it as soon as it opens) and only delivers it in a later message, as a file.
+
+Style (granular): B slightly better. B keeps to clean romanized Hinglish, as in "Haan check kar liya" (yes, I've checked). A joins clauses with long dashes, a common AI tic, and slips into Devanagari partway through a word in "khulते", which should be the romanized "khulte". That is a script error when Arjun writes only in Roman letters.
+
+Coherence and writing quality (granular): B slightly better. B gives the answer first in short blocks and ends with the list. A's main reply is one long comma-chained paragraph that says eggs were added, while its own list file leaves them out. The file itself is well ordered, with the list at the top, so the gap is small.
+
+Helpfulness (granular): A slightly better. A's list keeps to seven items: the five from his old list, the jumbo pack it decided on, and the milk powder from his sheet, and it explains each change. B's list sits in the chat, which is quicker to read in the shop, but three of its ten items come from promo mails and an old cart, and they add spending he never asked for.
+
+Completeness (granular): A slightly better. The prompt asks for six things: check the old list against his records, say whether diapers are needed, give the lowest September jumbo rate, add the weekly item he forgot, give the CDC balance, and end with a clean list. Both touch all six, but B never says which weekly item was missing; its list just grows to ten items without explanation. A names milk powder and gives its dates.
+
+Tone (granular): Tie. Both treat this as a routine grocery errand and stay calm and direct, which fits the request.
+
+Warmth (granular): Tie. A uses a friendly "bhai" (brother) twice and B uses none, but neither offers care beyond the opening "Samajh gaya" (got it), and this errand doesn't call for more.

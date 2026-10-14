@@ -1,0 +1,8 @@
+{
+  "sourcePath": "root/tables/2/primary_key",
+  "rows": [
+    "message_id",
+    "address",
+    "role"
+  ]
+}

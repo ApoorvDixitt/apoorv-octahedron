@@ -1,0 +1,7 @@
+{
+  "sourcePath": "root/tables/1/primary_key",
+  "rows": [
+    "database_id",
+    "name"
+  ]
+}

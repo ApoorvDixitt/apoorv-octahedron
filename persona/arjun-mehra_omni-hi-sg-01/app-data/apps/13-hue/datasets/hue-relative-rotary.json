@@ -1,0 +1,12 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "5772415a-280a-045b-b6c9-06584c19789a",
+      "device_id": "bc3a5f8c-345c-078e-7be0-575dec76f7fa",
+      "last_action": "repeat",
+      "last_rotation_steps": 15
+    }
+  ]
+}

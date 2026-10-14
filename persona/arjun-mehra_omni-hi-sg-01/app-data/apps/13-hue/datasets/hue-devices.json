@@ -1,0 +1,105 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "dfce36be-7ceb-07ce-b953-7cb889518346",
+      "name": "Ceiling",
+      "archetype": "ceiling_round",
+      "model_id": null,
+      "manufacturer_name": "Signify Netherlands B.V.",
+      "product_name": "Hue white lamp",
+      "software_version": null,
+      "created_at": "2026-10-02T08:00:00",
+      "updated_at": "2026-10-02T08:00:00"
+    },
+    {
+      "id": "7a3cecc2-ced8-d816-82f6-f9e4fd278beb",
+      "name": "Sofa lamp",
+      "archetype": "table_lamp",
+      "model_id": null,
+      "manufacturer_name": "Signify Netherlands B.V.",
+      "product_name": "Hue color lamp",
+      "software_version": null,
+      "created_at": "2026-10-02T08:00:00",
+      "updated_at": "2026-10-02T08:00:00"
+    },
+    {
+      "id": "e7b5244c-62b5-05c0-0de0-9211e3dc2659",
+      "name": "TV backlight",
+      "archetype": "lightstrip",
+      "model_id": null,
+      "manufacturer_name": "Signify Netherlands B.V.",
+      "product_name": "Hue color lamp",
+      "software_version": null,
+      "created_at": "2026-10-02T08:00:00",
+      "updated_at": "2026-10-02T08:00:00"
+    },
+    {
+      "id": "48279291-dad6-13b4-f724-fab9f7bc0d2e",
+      "name": "Ceiling",
+      "archetype": "ceiling_round",
+      "model_id": null,
+      "manufacturer_name": "Signify Netherlands B.V.",
+      "product_name": "Hue white lamp",
+      "software_version": null,
+      "created_at": "2026-10-02T08:00:00",
+      "updated_at": "2026-10-02T08:00:00"
+    },
+    {
+      "id": "b2141fe4-3161-99df-bf5f-c1ecce798ba6",
+      "name": "Bedside lamp",
+      "archetype": "table_lamp",
+      "model_id": null,
+      "manufacturer_name": "Signify Netherlands B.V.",
+      "product_name": "Hue white lamp",
+      "software_version": null,
+      "created_at": "2026-10-02T08:00:00",
+      "updated_at": "2026-10-02T08:00:00"
+    },
+    {
+      "id": "52a65477-5baf-002d-d809-29391aa336c7",
+      "name": "Study desk",
+      "archetype": "table_lamp",
+      "model_id": null,
+      "manufacturer_name": "Signify Netherlands B.V.",
+      "product_name": "Hue white lamp",
+      "software_version": null,
+      "created_at": "2026-10-02T08:00:00",
+      "updated_at": "2026-10-02T08:00:00"
+    },
+    {
+      "id": "912a58f9-04be-3af5-0a1e-db74fa475dd6",
+      "name": "Bedside Hue Go",
+      "archetype": "hue_go",
+      "model_id": null,
+      "manufacturer_name": "Signify Netherlands B.V.",
+      "product_name": "Hue color lamp",
+      "software_version": null,
+      "created_at": "2026-10-02T08:00:00",
+      "updated_at": "2026-10-02T08:00:00"
+    },
+    {
+      "id": "e4b9cbbd-a246-d736-c442-4bd02a76aa0c",
+      "name": "Hallway dimmer",
+      "archetype": "hue_dimmer_switch",
+      "model_id": null,
+      "manufacturer_name": "Signify Netherlands B.V.",
+      "product_name": "Hue dimmer switch",
+      "software_version": null,
+      "created_at": "2026-10-02T08:00:00",
+      "updated_at": "2026-10-02T08:00:00"
+    },
+    {
+      "id": "bc3a5f8c-345c-078e-7be0-575dec76f7fa",
+      "name": "Living Room dial",
+      "archetype": "hue_tap_dial_switch",
+      "model_id": null,
+      "manufacturer_name": "Signify Netherlands B.V.",
+      "product_name": "Hue tap dial switch",
+      "software_version": null,
+      "created_at": "2026-10-02T08:00:00",
+      "updated_at": "2026-10-02T08:00:00"
+    }
+  ]
+}

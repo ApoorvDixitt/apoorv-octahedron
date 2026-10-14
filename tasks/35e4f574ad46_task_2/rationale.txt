@@ -1,0 +1,19 @@
+Preference: B slightly better. Neither arm could reach Arjun's Hue lights, because the Hue tool returned the same connection error in both traces, so nothing changed in either and I see the gap as small. I picked B because its reply is cleaner: it tells him plainly "kuch badla nahi hai" (nothing has changed), stays in the casual "tu" register he uses, and gives him exact settings he can use tonight.
+
+Absolute quality of B: Bad. Arjun's lights are still exactly as they were, and B hands the whole job back to him. Its fallback tells him to put "Nightlight" on in the kids' room, but when I checked his Hue setup, the scenes saved for the Kids' bedroom are Study and Bedtime, and Nightlight is saved under the Master bedroom. B also never suggests reconnecting Hue, so he has no fix for next time.
+
+Correctness (high level): A slightly better. I read both traces and they show the same Hue connection error, and both arms honestly said nothing was changed. The one wrong detail I found is B's "Nightlight" for the kids' room, while A's "halki peeli 10%" (soft yellow at 10%) makes no claim about which scenes he has.
+
+Style and behavior (high level): B slightly better. Setting correctness aside, B reads like one natural speaker matching the user, while A opens with a broken sentence and switches register partway through.
+
+Style (granular): B slightly better. A's opener "Tune sambhal raha hai raat" is not correct Hindi, because "tune" only goes with a completed action; a native speaker would say "Tu raat sambhal raha hai" (you're handling the night). A also mixes the more distant "rakho" with the casual "chhod de" in one sentence, while B keeps the casual "kar de" and "rakh" throughout, which matches how Arjun writes to his assistant.
+
+Coherence and writing quality (granular): Tie. Both replies are two short messages with the same shape: first they announce the change ("lagata hoon" / "dim karta hoon", I'm doing it), then they admit Hue couldn't be reached and give manual settings.
+
+Helpfulness (granular): B slightly better. B says where to do it ("Hue app me", in the Hue app) and gives two exact levels, 10% warm for the kids' room and 15% for the living room. A gives one number, 10% for the kids' room, and only "thodi dim" (a bit dim) for the living room, although its "Connect kar dega" does point the user toward reconnecting.
+
+Completeness (granular): B slightly better. The prompt asks for five things: a soft light in the kids' room, an existing scene if one suits, the other lights off, a little light in the living room, and a report of what changed. B touches all five; A covers four and never names an existing scene for tonight, only promising a "raat wala scene" (night scene) once Hue is connected.
+
+Tone (granular): Tie. Both stay quiet and practical, which suits a late-night request with a baby still awake, and neither makes a drama out of the failure.
+
+Warmth (granular): Tie. Each has one small human beat, A acknowledging that he is taking the night ("raat sambhal raha hai") and B saying the settings are "Aarav ke feed ke liye best rahega" (best for Aarav's feed), and neither overdoes it.

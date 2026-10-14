@@ -1,0 +1,7 @@
+{
+  "sourcePath": "root/tables/7/primary_key",
+  "rows": [
+    "scene_id",
+    "light_id"
+  ]
+}

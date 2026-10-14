@@ -1,0 +1,7 @@
+{
+  "sourcePath": "root/tables/4/primary_key",
+  "rows": [
+    "zone_id",
+    "light_id"
+  ]
+}

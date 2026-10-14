@@ -1,0 +1,734 @@
+00:00:03  [0] Hi everyone, welcome to Project Octahedron.
+00:00:07  My name is Nathan. I'm a DLL on the project and delivery operations lead,
+00:00:11  and I'm working with the project team to get you guys set up here
+00:00:14  on this. Before we start the task,
+00:00:17  I'd like to give a quick overview of what we are doing and how
+00:00:21  the platforms fit together, essentially.
+00:00:24  So Project Octahedron is a project for evaluating
+00:00:28  how well AI assistants help people with everyday needs.
+00:00:32  The goal is to write a realistic request,
+00:00:34  compare two responses that it outputs,
+00:00:38  labeled A and B, and then you, check their facts and actions and explain
+00:00:41  which serves the person better. In the case of this multilingual version of
+00:00:46  the project, we also care about how the responses communicate
+00:00:51  in their assigned language and locale.
+00:00:54  Each task will take place in a simulated world called a universe.
+00:00:59  You can think of this as essentially a snapshot
+00:01:04  of a fictional person's digital life, who they are,
+00:01:08  what work they do, what their goals are, and the records in their connected
+00:01:12  apps. Your job will to ask,
+00:01:14  will be asked for help as that person and use their situation to create
+00:01:19  a request. makes sense for them.
+00:01:28  Apps are the simulated services inside that universe and they include things such
+00:01:32  as email, messages, calendars,
+00:01:35  contacts or photos and many more.
+00:01:38  They contain the records that you are meant to explore.
+00:01:42  The assistant, the AI agent that you'll be asking questions to,
+00:01:45  can use the available tools to look at the information and in most of
+00:01:49  the apps situations it can actually take action such as creating a draft,
+00:01:54  changing a calendar entry, or even creating photo collages.
+00:01:58  Each universe has its own available app. and we use those records to ground
+00:02:02  our request to the agent and then to later check what the responses
+00:02:07  actually did. For this project we use two platforms.
+00:02:11  Hatch is the customer's platform and it contains the universe,
+00:02:14  the person's profile and apps, and the actual UI where the
+00:02:19  comparison is where you will send the same request to both Model A and
+00:02:23  Model B. Hub,
+00:02:26  as I will say in this call here,
+00:02:29  is our task platform. It's where you claim the task,
+00:02:32  track your task time, enter the prompt,
+00:02:35  save the evidence and judgments, review quality checks,
+00:02:38  and submit the finished task. Quality checks or QCs,
+00:02:41  which you'll hear me going or saying often in this call,
+00:02:44  basically give you real-time feedback on your work as you complete it on Hub.
+00:02:49  It's super important to start the Hub task before you work on Hatch,
+00:02:54  since all paid time is tracked on Hub,
+00:02:56  including the time that you work on Hatch. So you are supposed to start
+00:03:00  the Hub Task Timer before beginning the work on Hatch and then keep it
+00:03:04  open while you work through it. I'll be going over the controls in a
+00:03:07  second here. One
+00:03:12  Hub task is tied to one comparison.
+00:03:14  You're supposed to keep both platforms open as you go,
+00:03:17  and I will also be moving between them as. you will so we can
+00:03:21  catch mistakes and improve the work before final submission on Hatch.
+00:03:26  So I will start off here with claiming a task on Hub.
+00:03:28  This will show up as project octahedron comparisons on your dashboard here.
+00:03:32  You will click start task and this will take you to the
+00:03:37  starting page here where it will show your paid time here and then depending
+00:03:41  on your language and locale it will have your assigned language up top
+00:03:46  here. You will claim it and start the timer.
+00:03:49  This will start your paid time. For this,
+00:03:52  since this is an English India task, there is no translation on the bottom
+00:03:57  here, but for the other languages, there will be a Translation in
+00:04:01  your home language below this as well as the English on top of it.
+00:04:04  So you can go back and forth and see any linguistic nuances between the
+00:04:08  two of them if you need to understand what a definition means and it's
+00:04:12  not clear. So first you
+00:04:18  will read welcome, the opening disclaimers here and the updated hatch instructions.
+00:04:24  You'll check your assigned language, country, universe,
+00:04:27  and protocol. Use the exact person assigned to you and you
+00:04:31  will create the hatch conversation,
+00:04:34  which is grounded in that persona.
+00:04:45  It's super important while you are going through this that you read each instruction
+00:04:48  block in full before clicking continue.
+00:04:52  And you also need to complete the required fields in each of these text
+00:04:55  blocks while advancing.
+00:04:59  Some blocks will say text is required here.
+00:05:01  This does mean that an acknowledgement is required.
+00:05:03  Normally an OK or an understood or yes is OK for
+00:05:09  this. If you do fill out a if you progress
+00:05:13  a task with the blank field, you will get a red error on the
+00:05:17  bottom right hand side of the page, which is Indicative that you have forgotten
+00:05:22  to enter some amount of text inside the task.
+00:05:33  As you can see here, so first of all, for this block,
+00:05:35  this will link out to our project instructions here,
+00:05:38  which you can translate into your home language.
+00:05:42  For me, it's English, and this will walk you through the tasks from end
+00:05:45  to end, along with VPN setup, hatch setup,
+00:05:48  and so on and so forth.
+00:05:58  Quick thing: if for some Reason your task or your access to
+00:06:03  the platform is missing, please contact your pod lead and tag
+00:06:08  them, and they will refer that information to us so we can get this
+00:06:11  sorted out for you. But first, to progress through this task,
+00:06:14  like we said before, we will just acknowledge that first,
+00:06:17  do not submit this hatch session on hatch until you have submitted it here
+00:06:20  and pass the quality checks. So we'll say we'll say okay to
+00:06:25  that, and then we will acknowledge
+00:06:30  this do not submit a hatch that's ended mid annotation here.
+00:06:39  This will Show you the updated hatch instructions,
+00:06:42  which is what we will be using to create our session on the other
+00:06:46  platform. So,
+00:06:50  firstly, the mode is going to be preference. Gaia is an older
+00:06:55  reference, it's just called preference on hatch.
+00:06:58  The protocol will be this hatch RM style task multilingual v1,
+00:07:02  and the universe will tell you you can pick any of the ones listed
+00:07:06  here below. And I'll explain what that is in a second here.
+00:07:15  So, firstly, let's just acknowledge this.
+00:07:19  So, English India. I'm going to pick Rahul for this case and just keep
+00:07:23  that in your mind for a second here. And we'll click agree
+00:07:28  to here. After you read through this entire block here.
+00:07:49  So let's go over to the customers platform now,
+00:07:51  which is you need a VPN to access,
+00:07:55  which will be provisioned to you when you onboard to the project.
+00:08:03  As you can see here, this is the customer's platform here.
+00:08:08  Hatch. You can see that there's a few different options on the top here.
+00:08:12  You have rubrics, you have education, and you have preference.
+00:08:15  So for this case, we are choosing preference,
+00:08:18  and then we will name it something.
+00:08:22  We will select the person we selected earlier, and then we will select the
+00:08:25  correct protocol. So if we go back here,
+00:08:28  we will see that we could select any one of these people.
+00:08:30  I believe I selected Rahul. So I'll go ahead and select him here.
+00:08:38  So selecting your locale. And then going to Rohul,
+00:08:44  and then you'll see there's a section to name it here,
+00:08:47  and then the protocol is already on this correct one,
+00:08:50  v1 here.
+00:08:57  A hatch session is basically your individual run of the assigned universe for this
+00:09:01  task, and the protocol contains the instructions and scoring rules for the comparison.
+00:09:06  So that's why it's important to select the correct one here.
+00:09:10  As far as the name goes, you will find this partially
+00:09:15  in Chat and partially with this format.
+00:09:20  is Chat alias underscore task underscore one where
+00:09:24  the beginning part of it is going to be your Chat alias.
+00:09:27  In order to find this you can go to Chat here
+00:09:35  you can click your profile here which will take you
+00:09:39  on the right hand side to your
+00:09:44  alias. You can copy and paste that and
+00:09:48  then go ahead and paste that into here. And this is what the correct
+00:09:51  session name should look like for each task you do.
+00:09:54  If it's your first task, it's task number one.
+00:09:56  If it's your second task, it's task number two.
+00:09:59  And if it's just feature 100 task with task number 100 and so on
+00:10:02  and so forth
+00:10:11  at this point we are supposed to do a gut check on this to
+00:10:15  make sure we have the right things done before we create the session so
+00:10:18  we will confirm over here that the mode is preference
+00:10:23  which is correct here We did this properly.
+00:10:27  We named this alias underscore task underscore n correctly We
+00:10:33  selected a universe that was listed up here,
+00:10:36  so a proper one And
+00:10:41  then we selected the correct protocol here on hatch as well.
+00:10:46  At this point, we can actually go back to hatch here,
+00:10:48  and we can go ahead and click create session.
+00:10:52  Just another call
+00:10:57  out. This is only being done in preference here.
+00:10:59  Please do not select rubrics or education. This is only for preference here.
+00:11:09  So now we will return to hatch and click create session like we did.
+00:11:13  It will say provisioning, which means it's still getting ready.
+00:11:16  It will go through a few other stages. What we are looking for is
+00:11:19  for this to say. running and that will actually enable us to open
+00:11:23  the session and get started here. However,
+00:11:26  at this point we can actually slow down a bit and copy and paste
+00:11:29  our session name back into Hub.
+00:11:32  So we'll do that. Paste it here,
+00:11:36  continue, and then we will also grab our session ID,
+00:11:39  which is always going to be this number directly up below it.
+00:11:45  And then we will copy and paste that into here.
+00:11:52  Please keep this continuous throughout the use of the entire task.
+00:11:55  If you do go on hatch, you will notice that there are two of
+00:11:59  these numbers. If you drop down here, we are only going to be using
+00:12:03  the first session ID here on the top throughout the whole task.
+00:12:07  So please make note of that. This
+00:12:13  will ask you to select the universe you chose at this point.
+00:12:15  So like we said before, it was Rahul Joseph
+00:12:21  here. So let's select that person. He'll be at the bottom where the multilingual
+00:12:25  ones are.
+00:13:06  Here it was. Click continue,
+00:13:09  and then this will have you confirm that the use case.
+00:13:12  Please choose a new one you haven't done before so we can have variation
+00:13:15  within the task that you guys are doing.
+00:13:21  And then at this point we can click continue here.
+00:13:28  Select a preliminary use case category. This will just be the category that your
+00:13:32  question will be asked in. So let's say I want to do travel,
+00:13:38  for example. This will include planning a trip,
+00:13:41  building an itinerary, destination, or restaurant ideas,
+00:13:43  etc. You can ask a question within any of these categories here.
+00:13:47  There'll be plenty of options. You will confirm
+00:13:52  that you will remember to click start annotation before rewriting your prompt and hatch.
+00:13:56  So let's say OK to that. And
+00:14:00  at this point we will be left at the Apps Utilized section here.
+00:14:07  So at this point we can actually go back over to Hatch and
+00:14:12  we can start looking for a question to ask within travel category as
+00:14:17  we had discussed. So the first thing that happens here when
+00:14:21  you open it is it will open up the annotation guidelines here.
+00:14:26  It will tell you who the person is, what day it is,
+00:14:29  which will be different normally from the day it is in reality today.
+00:14:32  If it has internet available to it,
+00:14:35  let this tailor your questions as well,
+00:14:37  because if this does not have internet, it will not be able to pull.
+00:14:40  up live information and then it will tell you a bit about the
+00:14:45  person. It has annotation instructions and when
+00:14:50  to stop. When do you stop chatting with this is you stop chatting with
+00:14:53  it when it has completely answered the goal of your original ask.
+00:15:01  We have two different avenues to be able to look for data to ask
+00:15:05  questions. The first one is going to be Apps Utilized
+00:15:10  here and this will let you know all of the data
+00:15:15  that is available in this person. So they have Gmail,
+00:15:18  Google Contacts, Google Calendar, Google Drive,
+00:15:21  WhatsApp, Notion, nutrition data,
+00:15:24  health records, even photos.
+00:15:26  There's a ton of different information here. You can also search all the apps
+00:15:30  to look up things, and you can hide all the apps.
+00:15:33  You can also search within the apps themselves. So in the case of a
+00:15:37  travel question, I may be looking at Gmail,
+00:15:40  for example, for travel here.
+00:15:44  Maybe seeing if there's any trips that we have going on.
+00:15:48  Maybe this person has gone somewhere here.
+00:15:53  Maybe they have Instagram posts. There is a ton of different stuff that you
+00:15:57  can ask for here. And you can search.
+00:16:09  So, this is the first kind of area that you can look for stuff
+00:16:12  in any of these apps and search up for travel-related things.
+00:16:15  And the second area that you will use for context regarding a question is
+00:16:18  going to be the user area here.
+00:16:22  So, this will tell us who the person is.
+00:16:26  You'll be able to read about their work,
+00:16:29  life, current goals, and basically how to help.
+00:16:34  This will tell them about a snapshot of who they are,
+00:16:36  how old they are, what they are doing currently.
+00:16:40  You should like Let this drive kind of the context and how you expect
+00:16:43  to chat with the model and how it is expected to chat back to
+00:16:47  you. For example, in some languages,
+00:16:49  an older person in their 60s or 70s may be expected to be replied
+00:16:53  to in a more polite manner, whereas somebody in their early teens or 20s
+00:16:58  will be probably expected to be responded to in a more informal manner.
+00:17:03  So besides that,
+00:17:06  besides grading the two responses essentially,
+00:17:09  on the criterion that we have, correctness,
+00:17:11  formatting, things like that, we are also looking for the linguistic nuance
+00:17:17  and how well this actually replies to these people based on Your knowledge of
+00:17:21  your home language and how that impacts the responses.
+00:17:37  So, for the case of travel, we're going to look for here and look
+00:17:41  for any information that the request can be based on.
+00:17:45  So, their messages, emails, notes,
+00:17:47  other available information. We're looking for something that we could
+00:17:52  reasonably ask for help with. For example,
+00:17:57  let's see.
+00:18:22  So it looks like this person may be planning a December trip home to
+00:18:26  Corolla, which would be in the future since the date today in the model
+00:18:30  is October 2nd. So you could base an ask,
+00:18:32  for example, based on this reference email here,
+00:18:35  and then you could also pull up some other data. Since it has internet
+00:18:38  available, you could ask it for some sightseeing options. there and you could create
+00:18:42  a question that is based on this information and that's essentially
+00:18:47  how we are going to be asking a question to the model is
+00:18:52  we're using their age and work and history as context and then we are
+00:18:58  noticing how they actually communicate in their writing as well so notice their
+00:19:02  wording formality script and any other natural mixing of languages while you are exploring
+00:19:08  these
+00:19:24  So at this point we'll be able to write the prompt in Hub and
+00:19:28  we'll be able to receive feedback on it.
+00:19:31  So just based off of this, let's write a quick grounded
+00:19:37  one based on this. So
+00:20:17  Let's have a question be based off of the travel time.
+00:20:19  So initially I'm going to expect this to pull data from Gmail most likely.
+00:20:24  So let's select that as an example here.
+00:20:27  Normally though your questions should be seeking to synthesize two or three apps at
+00:20:31  the same time. So Gmail, how it connects to Google Calendar,
+00:20:34  how that connects to contacts. An example may be I
+00:20:40  may You use a synthetic example here for a travel question,
+00:20:44  but let's just say this will do Gmail, Google Calendar.
+00:20:47  Let's say that this person had information about possibly the specific travel
+00:20:52  dates there, and that you saw that they were wanting maybe
+00:20:59  information on the sites around the city. So we'll do that.
+00:21:02  And then we will also
+00:21:11  let's also pretend that it did Google contacts
+00:21:16  here.
+00:21:22  Let's see if this person has any buddy important here.
+00:21:25  So he has a younger sister.
+00:21:30  Or sorry, not his younger sister.
+00:21:40  Mother. This will be probably useful to us.
+00:21:44  So let's take a note of this. And then let's just kind of develop
+00:21:49  our synthetic question here. So it should be pulling data from Gmail,
+00:21:53  Google Context, and Google Calendar. We're creating something in those.
+00:21:57  And let's write the prompt. So I.
+00:22:00  Would like to go travel to
+00:22:05  travel to Corala Corala in
+00:22:10  December. I think I
+00:22:14  received some travel recommendations
+00:22:20  through email. Can you recap
+00:22:26  those? Recap those,
+00:22:30  give me advice on which I should do and
+00:22:38  then
+00:22:49  And then once that plan is finalized,
+00:22:54  send a message to mom letting
+00:22:59  her know.
+00:23:08  Also, please create a calendar reminder
+00:23:13  for the week before the trip.
+00:23:21  So this question is asking a few things. It's asking it to find that
+00:23:24  information in Gmail. It's asking it to,
+00:23:27  you know, find out who mom is and to send a message to them.
+00:23:31  Oops. So that needs to find that out through Google Calendar
+00:23:36  or contacts. And then it's also asking to create a calendar reminder for the
+00:23:39  week before the trip. I would say that this is something that is
+00:23:44  normal for a person to ask to an AI assistant.
+00:23:47  And this is kind of the bar that we are looking for.
+00:23:50  Something that doesn't get too explicit on the ask,
+00:23:53  so it lets the model have room for reasoning here.
+00:23:56  But it should be written in your natural language for your assigned locale.
+00:24:00  Super important. That the prompt is always going to be written in the agent
+00:24:05  or the language here,
+00:24:07  the way the persona would write it.
+00:24:10  So, like I was saying, if this is an 80-year-old person,
+00:24:13  maybe the red, maybe this language will be more polite,
+00:24:17  and if it's a younger person, maybe it will be more informal.
+00:24:20  But those are the type of things that we are looking for in this.
+00:24:24  And there are some additional instructions for the other languages here.
+00:24:29  So, let's do continue for this, and you'll see this will start to run
+00:24:32  some QC checks here. Please do not use
+00:24:35  em dashes or en dashes inside the prompt.
+00:24:39  It won't be able to pass. for that. This will have you confirm that
+00:24:43  you are not allowed to reuse similar or identical prompts previously
+00:24:49  or to prepare for phrase them.
+00:24:53  And yeah,
+00:24:56  just to recap, the prompts looking for useful connections across the person's record.
+00:25:01  Let their goal determine which information is needed in it.
+00:25:05  And there is no need to force extra apps into a request that doesn't
+00:25:09  call for them. So just do what's available and be reasonable with
+00:25:13  it. And also, when you are writing your prompt,
+00:25:16  it's important to also check that the available apps can do.
+00:25:20  what you ask. There's information in the project instructions about the apps and their
+00:25:24  specific capabilities. And
+00:25:30  if the request needs public information or public web information,
+00:25:34  the universe must be one that has the internet access enabled
+00:25:39  on it, which we saw earlier.
+00:25:43  And then let's agree to this here.
+00:25:46  So okay, I'm not going to reuse similar or identical prompts or paraphrase
+00:25:51  them. And I'm going to explain here how the prompt relates to the universe
+00:25:55  I chose. So I'll say this person has some emails.
+00:26:00  notating potential travel plans to
+00:26:05  Kerala. Um it makes
+00:26:10  sense for a son to let his mother know
+00:26:15  if he is traveling and
+00:26:21  it is reasonable to create a calendar
+00:26:26  reminder before a trip for organization.
+00:26:34  So I think this will be fine here for the explanation here.
+00:26:38  Let's see.
+00:26:47  So, yep, it looks like those past are QCs here.
+00:26:51  As you can see, if there's an issue with it, it will be under
+00:26:54  needs attention here as yellow. And if there is no issue,
+00:26:57  it will turn green here as well. And you can always pull this up
+00:27:01  and look at the reasoning as well if you are concerned.
+00:27:06  So, since we got the green to use this question here,
+00:27:09  I'm going to go ahead and copy this over on a hatch here.
+00:27:13  So, I'm going to go ahead and go to here. I'm going to click
+00:27:17  start annotation. Super important that we click this before we ask the question.
+00:27:21  So click start annotation, paste our question in there,
+00:27:24  since it's returned green.
+00:27:29  I'm going to actually change the distance to be grammatically correct just so it
+00:27:33  can be the best version it is here. And
+00:27:38  let's just copy this over here and then fix this.
+00:27:44  This will rerun this. And
+00:27:49  then at this point, we'll just make sure that it returns green.
+00:27:53  Anytime you change the prompt or anything about
+00:27:58  it.
+00:28:03  Um you will need to oh my bad
+00:28:09  it looks like I accidentally uh copied and pasted the
+00:28:24  it looks like I copied and pasted into the wrong block here,
+00:28:27  so let's fix this and then let's change the explanation to
+00:28:32  reflect um the correct
+00:28:37  one here. Um this person Has a
+00:28:42  potential travel opportunity from
+00:28:48  their emails from
+00:28:53  their emails that notates options to travel
+00:28:57  to Corallo. Um it
+00:29:05  makes sense to ask an assistant for recommendations for
+00:29:12  recommendations regarding this
+00:29:19  and it makes sense.
+00:29:45  And let's fix that and click continue here.
+00:29:48  These will be run. Let's just wait for these to turn green again.
+00:29:52  I would like you guys to get in the habit of making sure that
+00:29:55  every time you edit this, that these return green.
+00:29:58  Because if they are not, then you will need to fix them.
+00:30:01  Or fix your prompt. And then what we change in here,
+00:30:06  you know, we will make sure is done the same in hatch.
+00:30:10  So let's make sure these are identical.
+00:30:13  Nice. And we can go ahead and click start annotation.
+00:30:17  This means that the agent is sending the prompt to response A
+00:30:21  and response B, so don't worry if it says that here.
+00:30:35  A quick blurb here: please do not copy the
+00:30:44  demonstration that I am giving right now or any other demonstrations that have been
+00:30:48  given. As you do tasks,
+00:30:51  explore different needs across tasks. Don't reuse,
+00:30:54  paraphrase, or copy your previous prompt. And on the task,
+00:30:58  it will obviously have you read the prompt duplication agreement and
+00:31:04  enter agree. So we've already checked the prompts,
+00:31:08  feedback, and Hub. They've returned a green there.
+00:31:16  [0] As you can see here, both of the responses have
+00:31:21  been completed by the agent. It's this one here.
+00:31:24  It's going to be having a bit of an emoji reaction for this one,
+00:31:27  and then this one is this response here.
+00:31:32  Before scoring, I always recommend checking the facts and the claimed actions in the
+00:31:37  app section here. So you look for the draft it says it created.
+00:31:40  If it says it changed in an event, you check the event,
+00:31:42  date, and time. Names, numbers,
+00:31:44  and recipients matter just as much as the main summary does.
+00:31:47  I'm also going to be using the trace to see which tools the model
+00:31:50  actually called. And I'm going to record the apps used by either ARM in
+00:31:54  apps utilized. My very first
+00:31:58  impression here is going to be that B is easier to read a little
+00:32:03  bit. And this is because it says, it separates already done here from recommendations
+00:32:08  in the inbox here, where A does the same,
+00:32:11  but it also puts most of the recap into this
+00:32:16  pretty long and dense paragraph here,
+00:32:19  which makes it a bit harder to read for
+00:32:24  me. I'm going to compare the booking claims with the email
+00:32:30  thread. So The three births that I referenced
+00:32:35  were actually already arranged in the app section.
+00:32:38  So, acknowledging that would help Rahul avoid planning the same thing twice,
+00:32:42  which is a nuance here. I also checked the recommendations that it says here
+00:32:46  against the actual travel emails. If,
+00:32:50  for example, an answer added a price or an option beyond what I had
+00:32:53  verified, I'm going to check that and to see if
+00:32:58  it's accurate or not. B does
+00:33:03  say this right
+00:33:08  here. It says I'll message mom.
+00:33:11  I have ANSI Joseph on file. This sounds like okay on on
+00:33:16  paper here, but in reality when you go to the apps over here and
+00:33:21  you go to Google Context and you go to ANSI,
+00:33:27  you'll see that this person is actually the cousin sister in Cocondwa,
+00:33:31  whereas his actual mother is El Sama.
+00:33:36  And so this is a correctness issue here,
+00:33:39  and it's a specific factual error in B.
+00:33:44  A does something similar. So it does sound,
+00:33:48  it asks which contact is mom.
+00:33:50  It says Is it Auntie Joseph or El Sama Joseph?
+00:33:55  Which asks you to confirm this,
+00:33:58  but it also doesn't explicitly call this one mom.
+00:34:03  So it's a bit better on correctness there.
+00:34:10  And at this point, in terms of like grading this,
+00:34:13  you also ask like what the mistake would mean for the user,
+00:34:16  which is some of the nuance that we are looking for.
+00:34:18  For example, if you are asking an agent to message your mother,
+00:34:24  choosing the recipient is part of carrying out the instruction and is very important
+00:34:27  to the completion of the task. If it followed through and messaged the wrong,
+00:34:31  person. The travel dates and family plans could not go to a relative
+00:34:36  that you asked for, and the mother would still be uninformed,
+00:34:40  and you may continue planning under the false impression that she knows.
+00:34:44  And so which that that affects privacy coordination and whether you can trust the
+00:34:48  agent to act on your behalf.
+00:34:50  So I'm careful about the stage that we have reached here.
+00:34:54  B has proposed the wrong person, has not actually sent the message.
+00:34:59  I was explaining the distinction there and the consequence of it possibly doing so.
+00:35:07  I'm also going to check what is missing for the reminder.
+00:35:10  The booking email that we had. Originally, in the app section here,
+00:35:13  refers to the December dates the family had written down,
+00:35:16  but did not give me an exact departure date. The calendar entry I inspected
+00:35:20  is also a planning meeting, not the departure.
+00:35:25  So, both arms asking for the exact date is actually reasonable at this stage.
+00:35:30  In terms of like the visible interaction,
+00:35:32  A did react to the original request here with like a house and garden
+00:35:38  emoji, which is a little bit of evidence for warmth here as compared to
+00:35:42  BB. And I'm going to be using evidence like that
+00:35:47  to support my justification overall.
+00:35:54  So at this point, I'm going to copy
+00:35:59  and paste response A and response B for Hub.
+00:36:02  So I'm going to go back here. You can see it was asking me
+00:36:05  to paste here. So I'm going to go to hatch, and I'm going to
+00:36:07  drag and drop this entire message here and copy it,
+00:36:11  paste it. And then I'm going to do the same for
+00:36:16  B. I'm going to drag and drop this entire thing here.
+00:36:33  And I'm going to copy and paste the trace Which
+00:36:38  is going to be in hatch tab. So I'm going to go to hatch
+00:36:41  I'm going to click trace. I'm going to copy Arm A trace here paste
+00:36:47  it And then I'm going to copy and paste Arm
+00:36:52  B's traced here and paste it
+00:37:04  The traces basically includes tool calls and tool outputs so people can check
+00:37:09  what actually happened along one is normal here.
+00:37:19  At this point, we'll also take a screenshot of both of the model responses
+00:37:22  so people can see the formatting. So I
+00:37:27  will do this. It doesn't have to be of the entire thing,
+00:37:31  just of a bit of it. It's acceptable.
+00:37:37  And then I'm going to copy this and put it into here.
+00:38:12  So at this point, it will have you look at the preference calibration here.
+00:38:17  You're supposed to read these blocks as a reminder.
+00:38:19  Length alone does not decide quality. You are judging the whole response and conversation,
+00:38:23  including follow-ups. Each of the eight scores compare A with B.
+00:38:28  A one means A significantly better. A two is B slightly better.
+00:38:31  is a tie, a four is B slightly better, and a five is B
+00:38:34  significantly better. These are comparative grades,
+00:38:37  and the preferred response is absolute quality is a separate decision from this.
+00:38:41  So I'm going to approach each dimension by asking what it measures,
+00:38:44  what I can point to in the two replies, and what difference that makes
+00:38:47  for Rahul. I'll also explain the biggery.
+00:38:50  A small wording advantage and a major organization difference should not receive the same
+00:38:53  strength automatically unless you justify it why.
+00:38:58  I'm going to continue here. For style and behavior,
+00:39:02  high level, you are setting correctness aside and considering the communication overall.
+00:39:07  For this one, I slightly preferred B here,
+00:39:09  so I'm going to choose for. Let
+00:39:14  me explain why. I'm just going to go through these confirmation steps to get
+00:39:18  to the grading No
+00:39:23  ties may be selected overall though, so there's no option for a tie overall
+00:39:28  But we did do a slightly better here and then for style and behavior
+00:39:32  high level
+00:39:39  I chose a four Its separation of the existing
+00:39:44  booking from the recommendation, in my opinion, gives Rahul a clearer way into the
+00:39:47  answer and this is an even though there's
+00:39:52  a recipient error, every score is not following the
+00:39:57  eventual winner. So it's okay to have disagreement here as long as you explain
+00:40:00  it. On correctness, high level, I'm going with A is slightly better.
+00:40:05  Two. B identifying ANC as his mother
+00:40:10  contradicts the contract, the contact's relationship label.
+00:40:15  And A includes the actual mother as an option, so it's a bit better
+00:40:17  on correctness. A should have resolved it and said that this is the mother,
+00:40:21  so it still is a bit lesser on correctness here.
+00:40:25  However, it's going to be better on correctness because B explicitly
+00:40:30  calls the wrong person. His mother.
+00:40:35  For granular style here, I'm focusing on the voice of the responses,
+00:40:39  and I slightly prefer a two.
+00:40:43  When the response says, so that base,
+00:40:46  it sounds like, or so that base is covered.
+00:40:49  It sounds like someone is acknowledging what Rahul has already sorted.
+00:40:52  Whereas B says
+00:40:59  like got it in this dash sentence here,
+00:41:03  it feels more formulaic. B
+00:41:08  also uses Rahul's name naturally.
+00:41:16  So both replies are ultimately understandable,
+00:41:18  and it's not a large difference, but the context
+00:41:23  and the voice judgment here prefers A a little bit.
+00:41:26  So on coherence and writing quality,
+00:41:33  the granular version, I'm going to say it's a stronger win for B,
+00:41:37  a five. A moves through several travel providers and types of advice
+00:41:42  in a single long paragraph like we saw earlier.
+00:41:45  However, B groups it under labels such as homestays and backwaters
+00:41:50  and and this way he can find a stay or a boat option and
+00:41:53  compare it without rereading the entire recap.
+00:41:57  And this changes how usable the answer is.
+00:41:59  So I'm going to rate B as significantly better here,
+00:42:02  a five. For helpfulness,
+00:42:06  I'm going to ask how each reply moves the actual goal forward.
+00:42:11  I'm choosing A as slightly better in this position or in this condition because
+00:42:16  both give useful travel advice and B asks what homestay and day triple who
+00:42:20  wants to finalize. But the goal also ultimately includes informing the persona's
+00:42:25  mom. And B's proposed recipient would leave that part undone and it would do
+00:42:30  it incorrectly if it acted on. its mistake and A's question gives Rahul a
+00:42:34  chance to clarify and follow up. So I'm writing it a two for
+00:42:39  that. On completeness, I actually slightly prefer B.
+00:42:43  It does ask about the homestay and day trip choice needed to finalize the
+00:42:46  plan and includes the return booking and vikallup recommendation.
+00:42:51  A has useful coverage including leaving a Sunday for a feast
+00:42:55  and family visits so the advantage is ultimately small here.
+00:42:59  Both responses address the recap advice message and reminder.
+00:43:03  At this stage, I'm just comparing the coverage without counting either feature
+00:43:08  promise as a completed action here. So
+00:43:13  ultimately I'm going to keep tone as I'm
+00:43:20  going to keep it as a tie, fairness.
+00:43:24  Both responses use kind of the same calm,
+00:43:27  practical wordage.
+00:43:31  And neither of them really create urgency or makes an ordinary
+00:43:36  trip overly emotional in any way.
+00:43:40  They have similar register here, and I can't see that there is
+00:43:45  a meaningful difference in these two.
+00:43:48  I'm going to say they're identical on register here.
+00:43:51  So, I'm giving it a three. As a reminder,
+00:43:54  a tie may only be selected if you truly believe that each response has
+00:43:58  identical on that dimension.
+00:44:02  For warmth, I'm going to say A is slightly better here.
+00:44:06  I'm including the house and garden emoji reaction in this.
+00:44:12  A also gives a little reassurance when it says so that
+00:44:16  the base is covered
+00:44:23  here. B is friendly
+00:44:28  too, but the reaction contributes a little bit more.
+00:44:31  For me here on this dimension, and it adds a little care without distracting
+00:44:35  from the overall request. So, I'm going to say it's a two on warmth.
+00:44:42  Overall, you should notice how the
+00:44:46  judgments differ. B wins on overall communication,
+00:44:49  organization, and coverage, but A has small advantages in correctness,
+00:44:52  voice, helpfulness, and warmth, tone ties.
+00:44:56  Overall, we're going to ask you to explain your dimensions and the rationale here
+00:45:01  and explain in detail why you ranked it
+00:45:05  the way you did. And so, after I'm considering here,
+00:45:10  you consider the dimensions you've graded. You choose your overall preference.
+00:45:15  A or B, slightly or significantly better.
+00:45:18  Overall, ties are not allowed, like I said earlier.
+00:45:21  This is your judgment of what matters most for this request.
+00:45:26  You should not be manufacturing any differences here.
+00:45:29  If you truly don't think you can support one response better than the other,
+00:45:33  contact one of your pod leads.
+00:45:39  You're going to rank your preferred response whether it's perfect,
+00:45:42  good, or bad. Perfect means nothing needs fixing.
+00:45:44  Good means it does a job with small faults. And bad means it has
+00:45:48  a real problem there. The better of two responses
+00:45:53  can still be bad. For B in this grading,
+00:45:58  correctness and helpfulness carry the most weight,
+00:46:01  I believe, here, because he's asking an agent to take an action involving another
+00:46:04  person. And so it needs to understand who he means and keep that action
+00:46:07  within his request. And if it doesn't, it's a major issue.
+00:46:11  B does have clearer organization and fuller coverage,
+00:46:14  which is useful. But to me, it does not outweigh identifying the wrong relative
+00:46:18  as mom, which will have more disastrous consequences for the user.
+00:46:22  So I'm choosing A slightly better overall.
+00:46:25  I'm going to explain all my parts of that choice here.
+00:46:30  A does have its own faults. And I'm going to write
+00:46:34  A as good as its own. It's recap and has practical advice,
+00:46:38  but has issues with the organization, like we said earlier.
+00:46:41  And I will not call it perfect.
+00:46:44  It still has some awkward wording.
+00:46:46  We're going to write the rationale. I've written it already here to save some
+00:46:51  time. So I'll just go over it in Hub
+00:46:56  here.
+00:47:18  So I have copied and pasted my justification over here to
+00:47:22  read through. It's supposed to explain your judgment to somebody who may not speak
+00:47:26  your language. It must be written in English paragraphs without headings or bullet
+00:47:31  points. You can use basic spelling or grammar or
+00:47:36  translation tools to help write it in English.
+00:47:45  You're going to start with your overall preference and explain how strong it is.
+00:47:48  So for me, response A is slightly better overall,
+00:47:51  and I would rate A. good on its own. You're also going to explain
+00:47:53  right after if the response is the preferred one is perfect,
+00:47:57  good or bad. You're going to explain real quickly why.
+00:48:00  It gives me a useful recap, makes recommendations that I fit traveling with parents
+00:48:03  on an allowance, and recognizes that the trained births are already arranged.
+00:48:07  I would still want the recap broken up and two little homestays is awkward
+00:48:10  wording. It also asks me who mom is when the context already gives that
+00:48:14  answer. Those are things that I would change so I'm not call a perfect.
+00:48:19  From here you can continue to score each of the eight dimensions using the
+00:48:23  exact English name, stating your selected grade,
+00:48:26  and quoting the relevant original language wording from the correct response.
+00:48:30  You're going to explain the difference or tie. and why it matters to this
+00:48:33  person. Compare quotations from both terms when possible.
+00:48:38  If the point depends on formality and expression, script,
+00:48:40  or local usage, explain that nuance in English.
+00:48:43  Please keep the quoted words in their original language.
+00:48:46  If something is missing, describe the omission and point to the relevant passage.
+00:48:49  Don't invent a quote for it. You're going to end by naming the differences
+00:48:53  that drove your overall preference, or which ones mattered most to you when you
+00:48:57  were thinking about which response was better.
+00:49:02  And yeah, this is what makes the comparison ultimately useful to our client as
+00:49:05  well. A specific difference between A and B and why that difference changes the
+00:49:09  quality for this person. This form requires.
+00:49:12  At least four complete sentences. That's a minimum, not the quality target here.
+00:49:16  They will end up being most likely a lot longer than that.
+00:49:20  When I explain my reasoning, I want the reader to be able to follow
+00:49:23  the same path I did through grading it.
+00:49:26  I'm going to start with what I observed, point to the exact word in
+00:49:28  your source, connect it to the dimension, and explain the effect on.
+00:49:32  I'm going to say why that effect supports a slight difference,
+00:49:35  a significant difference, or a tie. And that gives the grade a basis someone
+00:49:39  else can assess. I'm not going to stop at B picked the
+00:49:43  wrong contact for my grade. I'm going to explain that B names Auntie's cousin
+00:49:48  as mom, or sisters, the sister cousin as mom.
+00:49:51  while contacts labels ANC as the cousin and Osama as the mother.
+00:49:56  I'm going to explain why it matters. If acted on, this would inform the
+00:49:58  wrong person, leave mom uninformed, and make Rohul think his attrition has had been
+00:50:02  completed. That's the detailed level I want in the rationale,
+00:50:06  the actual finding, the user consequence, and the limit of what the evidence shows.
+00:50:11  I'm going to do the same for the positive differences as well.
+00:50:18  For example, when I explain that B's headings exist
+00:50:24  there, I'm going to also explain that they make the locating the stay in
+00:50:27  the boat options he needs to choose between easier for him rather than saying
+00:50:30  I simply I like the format. of B more.
+00:50:34  For worth, I'm going to mention A's reaction and explain why it fits the
+00:50:37  family context while giving B credit for its family rewarding.
+00:50:41  It's okay to give one response credit for something and then still say the
+00:50:44  other is better as long as you explain it.
+00:50:50  Then we'll return to the decisive issue.
+00:50:52  So overall, this is how I wrote
+00:50:57  it here. I prefer B's presentation.
+00:51:01  It separates already done for these reasons. The difference is stronger here.
+00:51:07  The main issue for B is this. So this is why I rated it
+00:51:11  basically the way I, I did, and I explained the nuance here and what
+00:51:14  would happen if it did not hear.
+00:51:19  This also makes A slightly better on helpfulness because if it is
+00:51:23  sending it to a wrong person, it's not going to be helpful here.
+00:52:19  And when you are finished writing your justification,
+00:52:24  you will send it here and wait until the quality checks run on
+00:52:28  them.
+00:52:34  At this point, we're going to wait for these quality checks to run here
+00:52:37  so we can get feedback on our um justification.
+00:53:10  I swear.
+00:53:36  After you are done with writing
+00:53:41  your rationale, the quality checks have all returned green here.
+00:53:46  There's nothing underneath attention. If they are yellow,
+00:53:49  it means you need to look at what the reasoning is on.
+00:53:52  Them and if it gives you, if it will give you feedback,
+00:53:54  and you will use that feedback to edit your rationale or ratings if you
+00:53:58  have to. When they all turn green,
+00:54:01  you're going to go ahead and go back to Hub here or say Hatch,
+00:54:04  sorry, and you're going to go ahead and take a screenshot of the scoring
+00:54:07  panel, as much of it as you can.
+00:54:27  If you have any notes about how Hatch was acting,
+00:54:31  you can put it in here. For me, I have none.
+00:54:33  It returned everything fine. And then it will
+00:54:38  have at this point we'll go back to hatch and we'll submit the task.
+00:54:43  As a reminder, whatever you change on Hub here,
+00:54:46  whether it's through rationale or your ratings above here,
+00:54:49  you do have to change them on here.
+00:54:52  But when you are done, you can go ahead
+00:54:57  and
+00:55:02  submit preference here. Let's
+00:55:07  just reload this real quick.
+00:55:22  And we'll do this and then we'll click submit when everything is good here.
+00:55:28  It will say recording preference.
+00:55:34  And then at this point, it will say preference recorded here.
+00:55:38  And then to get our completion screenshot, there's a few things you can do.
+00:55:41  You can take a screenshot here of history.
+00:55:43  This will say concluded annotation. This is acceptable as a completion screenshot.
+00:55:48  You can click, you do click end comparison here.
+00:55:52  And then it will show this.
+00:55:55  Comparison ended. This is an acceptable screenshot here with this entire screen
+00:56:00  showing this comparison is completed. But the one that we prefer,
+00:56:04  and when this does this, it will say disconnected.
+00:56:07  That's fine. Just exit out of this. We prefer you to go to annotations
+00:56:11  here, go to preference, and then open up this here.
+00:56:15  And then take a screenshot of this is what we prefer for the completion
+00:56:19  screenshot. If you have a task sent back to you,
+00:56:23  you can go ahead and edit it yourself with this. If you have edits
+00:56:26  to make, you can go ahead and find it here,
+00:56:29  and you do this, and you can also edit your rationale.
+00:56:32  or the ratings here if the reviewer review sends the task back to you.
+00:56:37  So let's put our screenshot in here of this finally continue.
+00:56:46  And then lastly we will confirm the hatch session ID.
+00:56:48  So let's go back here to that task under sessions
+00:56:54  will be this one here. Let's take this,
+00:56:58  paste it in here. Confirm
+00:57:04  that you have checked and passed the quality checks. Yep,
+00:57:06  all of these are green. Hatch does not say end admit annotation.
+00:57:11  As you can see here, it does. Not it says stop session.
+00:57:13  It would say end admit annotation here. If that's the case,
+00:57:15  it cannot be submitted, but it does not,
+00:57:18  so that's fine. I'll say OK to this,
+00:57:25  and then from this point, you'll be able to submit the task,
+00:57:28  and that is the Hub task completed.
+00:57:30  And Hatch is completed. You click the end comparison,
+00:57:34  and everything is good. And that is it.

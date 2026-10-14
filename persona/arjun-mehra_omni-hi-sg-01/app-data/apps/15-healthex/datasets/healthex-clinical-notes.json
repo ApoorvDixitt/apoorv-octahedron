@@ -1,0 +1,16 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "hxnote_868367ea9fe7",
+      "encounter_id": "hxenc_55d299f285c3",
+      "date": "2026-08-15",
+      "author": "Dr Tan Ah Lek",
+      "specialty": "Primary Care",
+      "title": "lagatar khade rehne se pairon me dard aur kamar me halka khinchaav",
+      "text": "Din bhar stall par khade rehne se pairon me thakaan aur kamar me halka strain hai, koi chot ya sunpan nahi. BP aur general check theek, dawai ki zaroorat nahi, posture, break me baithne aur halki walk ki salah di.",
+      "source": "HealthEx"
+    }
+  ]
+}

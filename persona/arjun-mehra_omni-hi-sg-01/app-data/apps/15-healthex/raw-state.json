@@ -1,0 +1,427 @@
+{
+  "kind": "sqlite",
+  "name": "healthex",
+  "tables": [
+    {
+      "name": "healthex_patient",
+      "rows": [
+        {
+          "id": "hxpati_b536828037a0",
+          "given_name": "Arjun",
+          "family_name": "Mehra",
+          "birth_date": "1995-12-06",
+          "sex": "male",
+          "blood_type": "A-",
+          "primary_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx",
+          "created_at": "2026-10-02"
+        }
+      ],
+      "row_count": 1,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "healthex_conditions",
+      "rows": [],
+      "row_count": 0,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "healthex_medications",
+      "rows": [],
+      "row_count": 0,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "healthex_allergies",
+      "rows": [],
+      "row_count": 0,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "healthex_observations",
+      "rows": [
+        {
+          "id": "hxobs_1b03e35e1c91",
+          "panel": "Lipid Panel",
+          "name": "Total Cholesterol",
+          "loinc_code": "",
+          "value": 127.9,
+          "value_text": null,
+          "unit": "mg/dL",
+          "reference_low": null,
+          "reference_high": 200,
+          "interpretation": "normal",
+          "effective_date": "2026-08-17",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_cb42b6dff545",
+          "panel": "Lipid Panel",
+          "name": "LDL Cholesterol",
+          "loinc_code": "",
+          "value": 51.9,
+          "value_text": null,
+          "unit": "mg/dL",
+          "reference_low": null,
+          "reference_high": 100,
+          "interpretation": "normal",
+          "effective_date": "2026-08-17",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_c4713b363982",
+          "panel": "Lipid Panel",
+          "name": "HDL Cholesterol",
+          "loinc_code": "",
+          "value": 56.7,
+          "value_text": null,
+          "unit": "mg/dL",
+          "reference_low": 40,
+          "reference_high": null,
+          "interpretation": "normal",
+          "effective_date": "2026-08-17",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_86e1b754c969",
+          "panel": "Lipid Panel",
+          "name": "Triglycerides",
+          "loinc_code": "",
+          "value": 96.5,
+          "value_text": null,
+          "unit": "mg/dL",
+          "reference_low": null,
+          "reference_high": 150,
+          "interpretation": "normal",
+          "effective_date": "2026-08-17",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_bb6673238198",
+          "panel": "Comprehensive Metabolic Panel",
+          "name": "Fasting Glucose",
+          "loinc_code": "",
+          "value": 79.9,
+          "value_text": null,
+          "unit": "mg/dL",
+          "reference_low": 70,
+          "reference_high": 99,
+          "interpretation": "normal",
+          "effective_date": "2026-08-17",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_956279f80d7e",
+          "panel": "Comprehensive Metabolic Panel",
+          "name": "Creatinine",
+          "loinc_code": "",
+          "value": 0.9,
+          "value_text": null,
+          "unit": "mg/dL",
+          "reference_low": 0.7,
+          "reference_high": 1.3,
+          "interpretation": "normal",
+          "effective_date": "2026-08-17",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_97c5b887e795",
+          "panel": "Comprehensive Metabolic Panel",
+          "name": "ALT",
+          "loinc_code": "",
+          "value": 22.5,
+          "value_text": null,
+          "unit": "U/L",
+          "reference_low": 7,
+          "reference_high": 56,
+          "interpretation": "normal",
+          "effective_date": "2026-08-17",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_a63fd0a8a30e",
+          "panel": "Comprehensive Metabolic Panel",
+          "name": "AST",
+          "loinc_code": "",
+          "value": 19.3,
+          "value_text": null,
+          "unit": "U/L",
+          "reference_low": 10,
+          "reference_high": 40,
+          "interpretation": "normal",
+          "effective_date": "2026-08-17",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_d70cbb524fd7",
+          "panel": "Comprehensive Metabolic Panel",
+          "name": "Sodium",
+          "loinc_code": "",
+          "value": 141.6,
+          "value_text": null,
+          "unit": "mmol/L",
+          "reference_low": 135,
+          "reference_high": 145,
+          "interpretation": "normal",
+          "effective_date": "2026-08-17",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_a220a6b6ceed",
+          "panel": "Comprehensive Metabolic Panel",
+          "name": "Potassium",
+          "loinc_code": "",
+          "value": 4.6,
+          "value_text": null,
+          "unit": "mmol/L",
+          "reference_low": 3.5,
+          "reference_high": 5.1,
+          "interpretation": "normal",
+          "effective_date": "2026-08-17",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_80db49f0fe38",
+          "panel": "CBC",
+          "name": "Hemoglobin",
+          "loinc_code": "",
+          "value": 14.9,
+          "value_text": null,
+          "unit": "g/dL",
+          "reference_low": 13.5,
+          "reference_high": 17.5,
+          "interpretation": "normal",
+          "effective_date": "2026-08-15",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_44b4e4456397",
+          "panel": "CBC",
+          "name": "White Blood Cell Count",
+          "loinc_code": "",
+          "value": 7.8,
+          "value_text": null,
+          "unit": "10^3/uL",
+          "reference_low": 4,
+          "reference_high": 11,
+          "interpretation": "normal",
+          "effective_date": "2026-08-15",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_52faf81abad7",
+          "panel": "CBC",
+          "name": "Platelet Count",
+          "loinc_code": "",
+          "value": 291.9,
+          "value_text": null,
+          "unit": "10^3/uL",
+          "reference_low": 150,
+          "reference_high": 400,
+          "interpretation": "normal",
+          "effective_date": "2026-08-15",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxobs_fe52d9bfcf65",
+          "panel": "HbA1c",
+          "name": "HbA1c",
+          "loinc_code": "",
+          "value": 5.1,
+          "value_text": null,
+          "unit": "%",
+          "reference_low": 4,
+          "reference_high": 5.7,
+          "interpretation": "normal",
+          "effective_date": "2026-08-18",
+          "ordering_provider": "Dr Tan Ah Lek",
+          "source": "HealthEx"
+        }
+      ],
+      "row_count": 14,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "healthex_vitals",
+      "rows": [
+        {
+          "id": "hxvit_e36367cd03ef",
+          "type": "blood_pressure",
+          "value": 125,
+          "value2": 74,
+          "unit": "mmHg",
+          "effective_date": "2026-08-15",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxvit_f2a042a010ce",
+          "type": "heart_rate",
+          "value": 63,
+          "value2": null,
+          "unit": "bpm",
+          "effective_date": "2026-08-15",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxvit_e5f69a418908",
+          "type": "weight",
+          "value": 67.1,
+          "value2": null,
+          "unit": "kg",
+          "effective_date": "2026-08-15",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxvit_91dd474f044b",
+          "type": "height",
+          "value": 167,
+          "value2": null,
+          "unit": "cm",
+          "effective_date": "2026-08-15",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hxvit_42dec4a400e8",
+          "type": "bmi",
+          "value": 24.1,
+          "value2": null,
+          "unit": "kg/m2",
+          "effective_date": "2026-08-15",
+          "source": "HealthEx"
+        }
+      ],
+      "row_count": 5,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "healthex_immunizations",
+      "rows": [
+        {
+          "id": "hximm_1c95693bc4d9",
+          "vaccine": "Influenza, seasonal",
+          "code": "150",
+          "date": "2025-10-12",
+          "status": "completed",
+          "dose_number": "",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hximm_848cfcacf1c5",
+          "vaccine": "Tdap",
+          "code": "115",
+          "date": "2022-04-12",
+          "status": "completed",
+          "dose_number": "",
+          "source": "HealthEx"
+        },
+        {
+          "id": "hximm_6c244bcf2c86",
+          "vaccine": "COVID-19",
+          "code": "300",
+          "date": "2025-10-12",
+          "status": "completed",
+          "dose_number": "",
+          "source": "HealthEx"
+        }
+      ],
+      "row_count": 3,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "healthex_procedures",
+      "rows": [
+        {
+          "id": "hxproc_d5473b75e87e",
+          "name": "Routine dental prophylaxis",
+          "code": "D1110",
+          "date": "2026-01-28",
+          "status": "completed",
+          "performer": "Josephine D'Souza",
+          "note": "Routine screening; no acute findings.",
+          "source": "HealthEx"
+        }
+      ],
+      "row_count": 1,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "healthex_encounters",
+      "rows": [
+        {
+          "id": "hxenc_55d299f285c3",
+          "type": "office-visit",
+          "specialty": "Primary Care",
+          "provider": "Dr Tan Ah Lek",
+          "facility": "",
+          "date": "2026-08-15",
+          "reason": "lagatar khade rehne se pairon me dard aur kamar me halka khinchaav",
+          "source": "HealthEx"
+        }
+      ],
+      "row_count": 1,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "healthex_clinical_notes",
+      "rows": [
+        {
+          "id": "hxnote_868367ea9fe7",
+          "encounter_id": "hxenc_55d299f285c3",
+          "date": "2026-08-15",
+          "author": "Dr Tan Ah Lek",
+          "specialty": "Primary Care",
+          "title": "lagatar khade rehne se pairon me dard aur kamar me halka khinchaav",
+          "text": "Din bhar stall par khade rehne se pairon me thakaan aur kamar me halka strain hai, koi chot ya sunpan nahi. BP aur general check theek, dawai ki zaroorat nahi, posture, break me baithne aur halki walk ki salah di.",
+          "source": "HealthEx"
+        }
+      ],
+      "row_count": 1,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    }
+  ],
+  "row_limit": 10000
+}

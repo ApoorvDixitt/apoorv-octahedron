@@ -1,0 +1,2670 @@
+{
+  "kind": "sqlite",
+  "name": "google-contacts",
+  "tables": [
+    {
+      "name": "google_contacts",
+      "rows": [
+        {
+          "resource_name": "people/c9e73199acae7",
+          "given_name": "Sunita",
+          "family_name": "Mehra",
+          "display_name": "Sunita Mehra",
+          "organization": "",
+          "title": "Mother",
+          "notes": "Mother",
+          "photo_url": "portrait_e_c466ca4534f9.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c5c07c74a9d27",
+          "given_name": "Aarav",
+          "family_name": "Mehra",
+          "display_name": "Aarav Mehra",
+          "organization": "",
+          "title": "Son",
+          "notes": "Son",
+          "photo_url": "portrait_e_77d366d585ed.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c972c02cd05e0",
+          "given_name": "Vivaan",
+          "family_name": "Mehra",
+          "display_name": "Vivaan Mehra",
+          "organization": "",
+          "title": "Son",
+          "notes": "Son",
+          "photo_url": "portrait_e_05fda5b190ba.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c6d6cd101746d",
+          "given_name": "Divya",
+          "family_name": "Rawat",
+          "display_name": "Divya Rawat",
+          "organization": "",
+          "title": "Children's mother",
+          "notes": "Children's mother",
+          "photo_url": "portrait_e_8d8c3cabc22c.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c9b59317bb194",
+          "given_name": "Rohit",
+          "family_name": "Mehra",
+          "display_name": "Rohit Mehra",
+          "organization": "",
+          "title": "Cousin brother",
+          "notes": "Cousin brother",
+          "photo_url": "portrait_e_252e13719981.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cb139985674c9",
+          "given_name": "Suresh",
+          "family_name": "Menon",
+          "display_name": "Suresh Menon",
+          "organization": "",
+          "title": "Supervisor",
+          "notes": "Supervisor",
+          "photo_url": "portrait_e_be088f198617.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c6b38368adb5f",
+          "given_name": "Desmond",
+          "family_name": "Toh",
+          "display_name": "Desmond Toh",
+          "organization": "",
+          "title": "Stall owner",
+          "notes": "Stall owner",
+          "photo_url": "portrait_e_e2b6638b6223.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cb6d37ad481ea",
+          "given_name": "Latha",
+          "family_name": "Sundaram",
+          "display_name": "Latha Sundaram",
+          "organization": "",
+          "title": "Coworker",
+          "notes": "Coworker",
+          "photo_url": "portrait_e_8d0ed4207d25.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c0f20b0de7a76",
+          "given_name": "Syed",
+          "family_name": "Akram",
+          "display_name": "Syed Akram",
+          "organization": "",
+          "title": "Drinks stall helper",
+          "notes": "Drinks stall helper",
+          "photo_url": "portrait_e_c8aee353c3d5.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c9769df38cb99",
+          "given_name": "Vikram",
+          "family_name": "Chauhan",
+          "display_name": "Vikram Chauhan",
+          "organization": "",
+          "title": "Childhood friend",
+          "notes": "Childhood friend",
+          "photo_url": "portrait_e_1d4894cc3ad8.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/ca4beea3f34b2",
+          "given_name": "Imran",
+          "family_name": "Sheikh",
+          "display_name": "Imran Sheikh",
+          "organization": "",
+          "title": "Friend",
+          "notes": "Friend",
+          "photo_url": "portrait_e_d1800f7b59ec.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c9ab05cffb9ae",
+          "given_name": "Lay",
+          "family_name": "Hoon Lim",
+          "display_name": "Lay Hoon Lim",
+          "organization": "",
+          "title": "Neighbour",
+          "notes": "Neighbour",
+          "photo_url": "portrait_e_3ab70f1ecc26.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c70a21072cb98",
+          "given_name": "Cheryl",
+          "family_name": "Foo",
+          "display_name": "Cheryl Foo",
+          "organization": "",
+          "title": "Carousell seller",
+          "notes": "Carousell seller",
+          "photo_url": "portrait_e_cc8f25c442ae.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c686ed8d8477d",
+          "given_name": "Josephine",
+          "family_name": "D'Souza",
+          "display_name": "Josephine D'Souza",
+          "organization": "",
+          "title": "Polyclinic nurse",
+          "notes": "Polyclinic nurse",
+          "photo_url": "portrait_e_1cab40354a51.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c1e48d8de78f7",
+          "given_name": "Kumar",
+          "family_name": "Velu",
+          "display_name": "Kumar Velu",
+          "organization": "",
+          "title": "Coffeeshop uncle",
+          "notes": "Coffeeshop uncle",
+          "photo_url": "portrait_e_e99cf90dafff.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c5b920b76f964",
+          "given_name": "Rajesh",
+          "family_name": "Mehra",
+          "display_name": "Rajesh Mehra",
+          "organization": "",
+          "title": "Late father (deceased)",
+          "notes": "Late father (deceased)",
+          "photo_url": "portrait_e_8573a55d981e.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c7f0d45d327df",
+          "given_name": "Geeta",
+          "family_name": "Bhandari",
+          "display_name": "Geeta Bhandari",
+          "organization": "",
+          "title": "Aunt",
+          "notes": "Aunt",
+          "photo_url": "portrait_e_3f8c72da2179.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cc6bdc6364b39",
+          "given_name": "Rakesh",
+          "family_name": "Yadav",
+          "display_name": "Rakesh Yadav",
+          "organization": "",
+          "title": "Maternal uncle",
+          "notes": "Maternal uncle",
+          "photo_url": "portrait_e_be6f1d1ae3eb.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cd7fcd37a9a85",
+          "given_name": "Suresh",
+          "family_name": "Yadav",
+          "display_name": "Suresh Yadav",
+          "organization": "",
+          "title": "Maternal uncle",
+          "notes": "Maternal uncle",
+          "photo_url": "portrait_e_e61202af6ea4.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/ccf6ab1c52a4f",
+          "given_name": "Priya",
+          "family_name": "Mehra",
+          "display_name": "Priya Mehra",
+          "organization": "",
+          "title": "Cousin sister",
+          "notes": "Cousin sister",
+          "photo_url": "portrait_e_fc36cfeae5be.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c3f26a4f154bf",
+          "given_name": "Harpreet",
+          "family_name": "Kaur",
+          "display_name": "Harpreet Kaur",
+          "organization": "",
+          "title": "Stall assistant",
+          "notes": "Stall assistant",
+          "photo_url": "portrait_e_7064aa05c332.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c97ed71cce25d",
+          "given_name": "Daniel",
+          "family_name": "Ong",
+          "display_name": "Daniel Ong",
+          "organization": "",
+          "title": "Koufu cleaner",
+          "notes": "Koufu cleaner",
+          "photo_url": "portrait_e_00c6239432e3.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c3ba02a5e5fa0",
+          "given_name": "Maria",
+          "family_name": "Gomes",
+          "display_name": "Maria Gomes",
+          "organization": "",
+          "title": "Clinic staff",
+          "notes": "Clinic staff",
+          "photo_url": "portrait_e_218a1d3b2430.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c2b53e326c354",
+          "given_name": "Ahmad",
+          "family_name": "Ridzuan",
+          "display_name": "Ahmad Ridzuan",
+          "organization": "",
+          "title": "Sheng Siong cashier",
+          "notes": "Sheng Siong cashier",
+          "photo_url": "portrait_e_95599675a542.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cb018b00675c0",
+          "given_name": "Meena",
+          "family_name": "Krishnan",
+          "display_name": "Meena Krishnan",
+          "organization": "",
+          "title": "Neighbour",
+          "notes": "Neighbour",
+          "photo_url": "portrait_e_9447148e346b.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cd2f3d041eeea",
+          "given_name": "Raj",
+          "family_name": "Murugan",
+          "display_name": "Raj Murugan",
+          "organization": "",
+          "title": "RC volunteer",
+          "notes": "RC volunteer",
+          "photo_url": "portrait_e_6bfe72cd74cf.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c906a48d95afa",
+          "given_name": "Farah",
+          "family_name": "Naz",
+          "display_name": "Farah Naz",
+          "organization": "",
+          "title": "School friend",
+          "notes": "School friend",
+          "photo_url": "portrait_e_862b9a45af75.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c939ea992ccb8",
+          "given_name": "Suresh",
+          "family_name": "Kumar",
+          "display_name": "Suresh Kumar",
+          "organization": "",
+          "title": "Barber",
+          "notes": "Barber",
+          "photo_url": "portrait_e_656eaa9d3e3c.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cdafb5600653b",
+          "given_name": "Dr",
+          "family_name": "Tan Ah Lek",
+          "display_name": "Dr Tan Ah Lek",
+          "organization": "",
+          "title": "GP",
+          "notes": "GP",
+          "photo_url": "portrait_e_237fcc131b89.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c9ff126d678c6",
+          "given_name": "Anil",
+          "family_name": "Verma",
+          "display_name": "Anil Verma",
+          "organization": "",
+          "title": "Coworker friend",
+          "notes": "Coworker friend",
+          "photo_url": "portrait_e_afc5025639c1.jpg",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c4cd20ebadd41",
+          "given_name": "Ah",
+          "family_name": "Hock Chicken Rice stall",
+          "display_name": "Ah Hock Chicken Rice stall",
+          "organization": "",
+          "title": "place",
+          "notes": "place",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c6d8e7e8f379d",
+          "given_name": "Koufu",
+          "family_name": "JEM Level 5",
+          "display_name": "Koufu JEM Level 5",
+          "organization": "",
+          "title": "place",
+          "notes": "place",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c9fd7b134f81d",
+          "given_name": "JEM",
+          "family_name": "Jurong East",
+          "display_name": "JEM Jurong East",
+          "organization": "",
+          "title": "place",
+          "notes": "place",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c7320333bde82",
+          "given_name": "Sheng",
+          "family_name": "Siong Jurong East St 21",
+          "display_name": "Sheng Siong Jurong East St 21",
+          "organization": "",
+          "title": "place",
+          "notes": "place",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cb060ce625891",
+          "given_name": "FairPrice",
+          "family_name": "JEM",
+          "display_name": "FairPrice JEM",
+          "organization": "",
+          "title": "place",
+          "notes": "place",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c5440792d1e23",
+          "given_name": "IMM",
+          "family_name": "",
+          "display_name": "IMM",
+          "organization": "",
+          "title": "place",
+          "notes": "place",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cccfd87ca5edc",
+          "given_name": "Jurong",
+          "family_name": "Polyclinic",
+          "display_name": "Jurong Polyclinic",
+          "organization": "",
+          "title": "place",
+          "notes": "place",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c10dc933ba30c",
+          "given_name": "Block",
+          "family_name": "coffeeshop",
+          "display_name": "Block coffeeshop",
+          "organization": "",
+          "title": "place",
+          "notes": "place",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cc2648fd59b12",
+          "given_name": "Jurong",
+          "family_name": "East MRT",
+          "display_name": "Jurong East MRT",
+          "organization": "",
+          "title": "place",
+          "notes": "place",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c391749145e6d",
+          "given_name": "Jurong",
+          "family_name": "West",
+          "display_name": "Jurong West",
+          "organization": "",
+          "title": "place",
+          "notes": "place",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/ccc5d72163b56",
+          "given_name": "Tuas",
+          "family_name": "",
+          "display_name": "Tuas",
+          "organization": "",
+          "title": "place",
+          "notes": "place",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c3db7f3411ff8",
+          "given_name": "UP",
+          "family_name": "paitrik zameen",
+          "display_name": "UP paitrik zameen",
+          "organization": "",
+          "title": "place",
+          "notes": "place",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cbcc29ce057dd",
+          "given_name": "POSB",
+          "family_name": "",
+          "display_name": "POSB",
+          "organization": "",
+          "title": "org",
+          "notes": "org",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cfeb759d75129",
+          "given_name": "HDB",
+          "family_name": "",
+          "display_name": "HDB",
+          "organization": "",
+          "title": "org",
+          "notes": "org",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/ca5380591b2d2",
+          "given_name": "KKR",
+          "family_name": "IPL",
+          "display_name": "KKR IPL",
+          "organization": "",
+          "title": "org",
+          "notes": "org",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c41ef977151bc",
+          "given_name": "Raju",
+          "family_name": "Plumber",
+          "display_name": "Raju Plumber",
+          "organization": "",
+          "title": "Jurong ka plumber, ek baar sink repair kiya tha",
+          "notes": "Jurong ka plumber, ek baar sink repair kiya tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cd39ff8e69bc9",
+          "given_name": "Bala",
+          "family_name": "",
+          "display_name": "Bala",
+          "organization": "",
+          "title": "purane school ka classmate, Jurong Primary se",
+          "notes": "purane school ka classmate, Jurong Primary se",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cb4608bb54c09",
+          "given_name": "Big",
+          "family_name": "Mani",
+          "display_name": "Big Mani",
+          "organization": "",
+          "title": "Koufu me pehle saath kaam karta tha",
+          "notes": "Koufu me pehle saath kaam karta tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c766a6e8998ae",
+          "given_name": "SK",
+          "family_name": "",
+          "display_name": "SK",
+          "organization": "",
+          "title": "football ground ka jaan-pehchaan, Jurong East me mila tha",
+          "notes": "football ground ka jaan-pehchaan, Jurong East me mila tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c25beee3bfcfa",
+          "given_name": "Asha",
+          "family_name": "gym",
+          "display_name": "Asha gym",
+          "organization": "",
+          "title": "ActiveSG gym ki jaan-pehchaan",
+          "notes": "ActiveSG gym ki jaan-pehchaan",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cb386223fdb01",
+          "given_name": "Dr.",
+          "family_name": "Wong",
+          "display_name": "Dr. Wong",
+          "organization": "",
+          "title": "Jurong Polyclinic wale doctor",
+          "notes": "Jurong Polyclinic wale doctor",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c272f056a9706",
+          "given_name": "Meena",
+          "family_name": "temple",
+          "display_name": "Meena temple",
+          "organization": "",
+          "title": "Sri Vishnu mandir ki volunteer aunty",
+          "notes": "Sri Vishnu mandir ki volunteer aunty",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c1f5e3fb2e282",
+          "given_name": "Kevin",
+          "family_name": "Grab",
+          "display_name": "Kevin Grab",
+          "organization": "",
+          "title": "Grab driver, kabhi kabhi late night lift",
+          "notes": "Grab driver, kabhi kabhi late night lift",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c1b850a87fc61",
+          "given_name": "Auntie",
+          "family_name": "Geetha",
+          "display_name": "Auntie Geetha",
+          "organization": "",
+          "title": "mummy ki door ki rishtedaar, Tampines me rehti hai",
+          "notes": "mummy ki door ki rishtedaar, Tampines me rehti hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/ce58c55c4b388",
+          "given_name": "Cousin",
+          "family_name": "Ravi",
+          "display_name": "Cousin Ravi",
+          "organization": "",
+          "title": "door ka kazin bhai, KL me rehta hai",
+          "notes": "door ka kazin bhai, KL me rehta hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c45283448efb9",
+          "given_name": "Farah",
+          "family_name": "tuition",
+          "display_name": "Farah tuition",
+          "organization": "",
+          "title": "bachcho ki purani tuition teacher",
+          "notes": "bachcho ki purani tuition teacher",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cea7aca7121b9",
+          "given_name": "Muthu",
+          "family_name": "Barber",
+          "display_name": "Muthu Barber",
+          "organization": "",
+          "title": "Jurong East ka naai, regular cutting wala",
+          "notes": "Jurong East ka naai, regular cutting wala",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cc98e36003b9f",
+          "given_name": "Jenny",
+          "family_name": "JEM",
+          "display_name": "Jenny JEM",
+          "organization": "",
+          "title": "JEM Watsons ki salesgirl, jaan-pehchaan",
+          "notes": "JEM Watsons ki salesgirl, jaan-pehchaan",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c60d7a3fbe645",
+          "given_name": "Uncle",
+          "family_name": "Raj",
+          "display_name": "Uncle Raj",
+          "organization": "",
+          "title": "papa ke purane dost, Toa Payoh wale",
+          "notes": "papa ke purane dost, Toa Payoh wale",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cd01056ab3413",
+          "given_name": "Parlour",
+          "family_name": "Didi",
+          "display_name": "Parlour Didi",
+          "organization": "",
+          "title": "Divya ki parlour wali didi",
+          "notes": "Divya ki parlour wali didi",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c4168f648b3b9",
+          "given_name": "Ah",
+          "family_name": "Lim Chicken",
+          "display_name": "Ah Lim Chicken",
+          "organization": "",
+          "title": "murgi supplier ka driver, stall par aata hai",
+          "notes": "murgi supplier ka driver, stall par aata hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c3cb39c9d1aea",
+          "given_name": "Mohan",
+          "family_name": "aircon",
+          "display_name": "Mohan aircon",
+          "organization": "",
+          "title": "aircon repair wala, HDB flat ka kaam kiya tha",
+          "notes": "aircon repair wala, HDB flat ka kaam kiya tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cdd81ac3e3f4b",
+          "given_name": "Priya",
+          "family_name": "facial",
+          "display_name": "Priya facial",
+          "organization": "",
+          "title": "Divya ki friend, beauty parlour chalati hai",
+          "notes": "Divya ki friend, beauty parlour chalati hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c68a658b44bba",
+          "given_name": "JK",
+          "family_name": "",
+          "display_name": "JK",
+          "organization": "",
+          "title": "purane hawker ka helper, Boon Lay me mila tha",
+          "notes": "purane hawker ka helper, Boon Lay me mila tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cddb7fa9d0b6b",
+          "given_name": "Masi",
+          "family_name": "Nisha",
+          "display_name": "Masi Nisha",
+          "organization": "",
+          "title": "mausi ji ki taraf se door ki rishtedaar",
+          "notes": "mausi ji ki taraf se door ki rishtedaar",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c22995cd083ec",
+          "given_name": "Daniel",
+          "family_name": "church",
+          "display_name": "Daniel church",
+          "organization": "",
+          "title": "Jurong East football dost, church se hai",
+          "notes": "Jurong East football dost, church se hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cc3546b597a77",
+          "given_name": "Kumar",
+          "family_name": "Taxi",
+          "display_name": "Kumar Taxi",
+          "organization": "",
+          "title": "Comfort taxi driver, JEM stand wala",
+          "notes": "Comfort taxi driver, JEM stand wala",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/ca7d1f7f5a4dd",
+          "given_name": "Wei",
+          "family_name": "Lun Tan",
+          "display_name": "Wei Lun Tan",
+          "organization": "",
+          "title": "secondary school ka classmate, Jurong Secondary se",
+          "notes": "secondary school ka classmate, Jurong Secondary se",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/ca6898536e476",
+          "given_name": "Jia",
+          "family_name": "Hao Lim",
+          "display_name": "Jia Hao Lim",
+          "organization": "",
+          "title": "purana Koufu colleague, drinks stall par tha",
+          "notes": "purana Koufu colleague, drinks stall par tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cdc4025bef59d",
+          "given_name": "Nurul",
+          "family_name": "Ain Binte Roslan",
+          "display_name": "Nurul Ain Binte Roslan",
+          "organization": "",
+          "title": "JEM food court ki cleaner aunty ki beti",
+          "notes": "JEM food court ki cleaner aunty ki beti",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/ccb9b7e370d48",
+          "given_name": "Rajesh",
+          "family_name": "Kumar Yadav",
+          "display_name": "Rajesh Kumar Yadav",
+          "organization": "",
+          "title": "UP se door ka rishtedaar, Singapore me worker hai",
+          "notes": "UP se door ka rishtedaar, Singapore me worker hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cdb02c597770a",
+          "given_name": "Kavitha",
+          "family_name": "Rajan",
+          "display_name": "Kavitha Rajan",
+          "organization": "",
+          "title": "mummy ki mandir wali saheli",
+          "notes": "mummy ki mandir wali saheli",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c4c554793a193",
+          "given_name": "Deepak",
+          "family_name": "Sharma",
+          "display_name": "Deepak Sharma",
+          "organization": "",
+          "title": "purane roommate ka dost, Tuas me kaam karta hai",
+          "notes": "purane roommate ka dost, Tuas me kaam karta hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c92872de3e0de",
+          "given_name": "Mei",
+          "family_name": "Chen Ng",
+          "display_name": "Mei Chen Ng",
+          "organization": "",
+          "title": "JEM Koufu ki cashier, pehle saath shift thi",
+          "notes": "JEM Koufu ki cashier, pehle saath shift thi",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cb3ebdada76e9",
+          "given_name": "Ahmad",
+          "family_name": "Zaki Bin Yusoff",
+          "display_name": "Ahmad Zaki Bin Yusoff",
+          "organization": "",
+          "title": "Jurong East ka padosi, 32nd floor wala",
+          "notes": "Jurong East ka padosi, 32nd floor wala",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cb77973db721b",
+          "given_name": "Priya",
+          "family_name": "Nair",
+          "display_name": "Priya Nair",
+          "organization": "",
+          "title": "bachcho ki school ki dusri mummy, jaan-pehchaan",
+          "notes": "bachcho ki school ki dusri mummy, jaan-pehchaan",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/ce2a10f649e7b",
+          "given_name": "Harpreet",
+          "family_name": "Singh Gill",
+          "display_name": "Harpreet Singh Gill",
+          "organization": "",
+          "title": "Punjabi Association ka jaan-pehchaan, wedding me mila tha",
+          "notes": "Punjabi Association ka jaan-pehchaan, wedding me mila tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c68f3ff377973",
+          "given_name": "Siti",
+          "family_name": "Mariam Ahmad",
+          "display_name": "Siti Mariam Ahmad",
+          "organization": "",
+          "title": "Latha ki dost, Jurong Market me kaam karti hai",
+          "notes": "Latha ki dost, Jurong Market me kaam karti hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c9134808b562d",
+          "given_name": "Arun",
+          "family_name": "Prakash",
+          "display_name": "Arun Prakash",
+          "organization": "",
+          "title": "primary school ka classmate, ab Woodlands me hai",
+          "notes": "primary school ka classmate, ab Woodlands me hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c327c9a705ac1",
+          "given_name": "Divya",
+          "family_name": "Krishnan",
+          "display_name": "Divya Krishnan",
+          "organization": "",
+          "title": "mandir bhajan group wali aunty ki beti",
+          "notes": "mandir bhajan group wali aunty ki beti",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cf327fb9dd6c2",
+          "given_name": "Mohamed",
+          "family_name": "Rafiq Sheikh",
+          "display_name": "Mohamed Rafiq Sheikh",
+          "organization": "",
+          "title": "Tekka Market ka purana sabzi wala",
+          "notes": "Tekka Market ka purana sabzi wala",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c61f14f40b372",
+          "given_name": "Jia",
+          "family_name": "Wen Chua",
+          "display_name": "Jia Wen Chua",
+          "organization": "",
+          "title": "secondary school ki classmate",
+          "notes": "secondary school ki classmate",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c9d9097b98cd4",
+          "given_name": "Karthik",
+          "family_name": "Subramaniam",
+          "display_name": "Karthik Subramaniam",
+          "organization": "",
+          "title": "Little India me phone shop wala dost",
+          "notes": "Little India me phone shop wala dost",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cb92faba762fa",
+          "given_name": "Anita",
+          "family_name": "Devi Thakur",
+          "display_name": "Anita Devi Thakur",
+          "organization": "",
+          "title": "mummy ki kitty party wali saheli",
+          "notes": "mummy ki kitty party wali saheli",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c21eb36a30efd",
+          "given_name": "Jason",
+          "family_name": "Ong Wei Jie",
+          "display_name": "Jason Ong Wei Jie",
+          "organization": "",
+          "title": "NS ke time ka platoon mate, ab SMRT me hai",
+          "notes": "NS ke time ka platoon mate, ab SMRT me hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/ca39f365c8876",
+          "given_name": "Farid",
+          "family_name": "Hassan Ali",
+          "display_name": "Farid Hassan Ali",
+          "organization": "",
+          "title": "purana food delivery wala dost, Foodpanda karta tha",
+          "notes": "purana food delivery wala dost, Foodpanda karta tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cc26a24c868ff",
+          "given_name": "Pooja",
+          "family_name": "Rani Gupta",
+          "display_name": "Pooja Rani Gupta",
+          "organization": "",
+          "title": "Divya ki college friend, Yishun me rehti hai",
+          "notes": "Divya ki college friend, Yishun me rehti hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c767c4ac4e161",
+          "given_name": "Suresh",
+          "family_name": "Babu Nair",
+          "display_name": "Suresh Babu Nair",
+          "organization": "",
+          "title": "Jurong East HDB ka neighbour, 4th floor wala",
+          "notes": "Jurong East HDB ka neighbour, 4th floor wala",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c6334e3bef083",
+          "given_name": "Li",
+          "family_name": "Ting Ho",
+          "display_name": "Li Ting Ho",
+          "organization": "",
+          "title": "JEM FairPrice ki cashier, roz dikhti hai",
+          "notes": "JEM FairPrice ki cashier, roz dikhti hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cee203e0111d9",
+          "given_name": "Vijay",
+          "family_name": "Anand Murugan",
+          "display_name": "Vijay Anand Murugan",
+          "organization": "",
+          "title": "football teammate, Bukit Batok ground wala",
+          "notes": "football teammate, Bukit Batok ground wala",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cccaa101a5355",
+          "given_name": "Rohini",
+          "family_name": "Iyer",
+          "display_name": "Rohini Iyer",
+          "organization": "",
+          "title": "bachcho ki purani childcare teacher",
+          "notes": "bachcho ki purani childcare teacher",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c283273efb797",
+          "given_name": "Zhi",
+          "family_name": "Hao Koh",
+          "display_name": "Zhi Hao Koh",
+          "organization": "",
+          "title": "Ah Hock ke purane customer, regular uncle ka beta",
+          "notes": "Ah Hock ke purane customer, regular uncle ka beta",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c7d76b5e7b292",
+          "given_name": "Sunil",
+          "family_name": "Kumar Pandey",
+          "display_name": "Sunil Kumar Pandey",
+          "organization": "",
+          "title": "gaon ka door ka rishtedaar, Jurong dorm me tha",
+          "notes": "gaon ka door ka rishtedaar, Jurong dorm me tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c092bb16e3d71",
+          "given_name": "Aishwarya",
+          "family_name": "Menon",
+          "display_name": "Aishwarya Menon",
+          "organization": "",
+          "title": "Suresh supervisor ki rishtedaar, ek shaadi me mile the",
+          "notes": "Suresh supervisor ki rishtedaar, ek shaadi me mile the",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c574060c337cb",
+          "given_name": "Hafizuddin",
+          "family_name": "Rahman",
+          "display_name": "Hafizuddin Rahman",
+          "organization": "",
+          "title": "motor repair shop wala, Bukit Batok me dukaan hai",
+          "notes": "motor repair shop wala, Bukit Batok me dukaan hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/ce43fda34bb9d",
+          "given_name": "Neha",
+          "family_name": "Singh Rawat",
+          "display_name": "Neha Singh Rawat",
+          "organization": "",
+          "title": "Divya ki chhoti behen, shaadi me mile the",
+          "notes": "Divya ki chhoti behen, shaadi me mile the",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c71a801ea444c",
+          "given_name": "Kenneth",
+          "family_name": "Goh Kim Seng",
+          "display_name": "Kenneth Goh Kim Seng",
+          "organization": "",
+          "title": "JEM mall ka security guard",
+          "notes": "JEM mall ka security guard",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cbed20d643893",
+          "given_name": "Lakshmi",
+          "family_name": "Narayanan",
+          "display_name": "Lakshmi Narayanan",
+          "organization": "",
+          "title": "Sri Ruthra Kali mandir ki mami ji",
+          "notes": "Sri Ruthra Kali mandir ki mami ji",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cba571ab6b242",
+          "given_name": "Manjit",
+          "family_name": "Kaur Sidhu",
+          "display_name": "Manjit Kaur Sidhu",
+          "organization": "",
+          "title": "Jurong gurudware ki volunteer aunty",
+          "notes": "Jurong gurudware ki volunteer aunty",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c4fbcbe5f735f",
+          "given_name": "Alvin",
+          "family_name": "Teo Jun Kai",
+          "display_name": "Alvin Teo Jun Kai",
+          "organization": "",
+          "title": "purana GrabFood delivery dost",
+          "notes": "purana GrabFood delivery dost",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cd5f06c3567ae",
+          "given_name": "Rekha",
+          "family_name": "Devi Chauhan",
+          "display_name": "Rekha Devi Chauhan",
+          "organization": "",
+          "title": "Vikram ki bhabhi, ek baar ghar aayi thi",
+          "notes": "Vikram ki bhabhi, ek baar ghar aayi thi",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cec1d8252d493",
+          "given_name": "Sanjay",
+          "family_name": "Mishra",
+          "display_name": "Sanjay Mishra",
+          "organization": "",
+          "title": "Tuas factory me kaam karne wala purana dost",
+          "notes": "Tuas factory me kaam karne wala purana dost",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c6c92ee686fbe",
+          "given_name": "Michelle",
+          "family_name": "Wong Li Ping",
+          "display_name": "Michelle Wong Li Ping",
+          "organization": "",
+          "title": "bachcho ke school ki admin aunty",
+          "notes": "bachcho ke school ki admin aunty",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c488434bc7059",
+          "given_name": "Abdul",
+          "family_name": "Malik Khan",
+          "display_name": "Abdul Malik Khan",
+          "organization": "",
+          "title": "Syed Akram ka dost, drinks supply karta hai",
+          "notes": "Syed Akram ka dost, drinks supply karta hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cdfaa50cad84a",
+          "given_name": "Geeta",
+          "family_name": "Devi Verma",
+          "display_name": "Geeta Devi Verma",
+          "organization": "",
+          "title": "mummy ki door ki mami, India se aayi thi",
+          "notes": "mummy ki door ki mami, India se aayi thi",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c435f97858a66",
+          "given_name": "Vignesh",
+          "family_name": "Kumar Selvam",
+          "display_name": "Vignesh Kumar Selvam",
+          "organization": "",
+          "title": "ITE classmate, Nitec course me saath tha",
+          "notes": "ITE classmate, Nitec course me saath tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cd2c9aab8e970",
+          "given_name": "Sarah",
+          "family_name": "Lim Hui Min",
+          "display_name": "Sarah Lim Hui Min",
+          "organization": "",
+          "title": "JEM clinic ki receptionist",
+          "notes": "JEM clinic ki receptionist",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c2f7f822e5975",
+          "given_name": "Ramesh",
+          "family_name": "Chandra Tiwari",
+          "display_name": "Ramesh Chandra Tiwari",
+          "organization": "",
+          "title": "satsang wale pandit ji ke chele",
+          "notes": "satsang wale pandit ji ke chele",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/ce9e20784278b",
+          "given_name": "Nora",
+          "family_name": "Binte Salim",
+          "display_name": "Nora Binte Salim",
+          "organization": "",
+          "title": "pados wali makcik, kuih deti hai",
+          "notes": "pados wali makcik, kuih deti hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c50ed56364d75",
+          "given_name": "Prakash",
+          "family_name": "Rao Dandamudi",
+          "display_name": "Prakash Rao Dandamudi",
+          "organization": "",
+          "title": "Jurong East CC ke yoga class ka jaan-pehchaan",
+          "notes": "Jurong East CC ke yoga class ka jaan-pehchaan",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c012ae0e0091c",
+          "given_name": "Hui",
+          "family_name": "Ling Tay",
+          "display_name": "Hui Ling Tay",
+          "organization": "",
+          "title": "purani Koufu drinks stall wali colleague",
+          "notes": "purani Koufu drinks stall wali colleague",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cd95c548f9df7",
+          "given_name": "Amit",
+          "family_name": "Kumar Jha",
+          "display_name": "Amit Kumar Jha",
+          "organization": "",
+          "title": "Bihar Association ka member, Chhath me mila tha",
+          "notes": "Bihar Association ka member, Chhath me mila tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c605445be6b3f",
+          "given_name": "Kiran",
+          "family_name": "Devi Mehra",
+          "display_name": "Kiran Devi Mehra",
+          "organization": "",
+          "title": "chacha ji ki patni ki taraf se rishtedaar",
+          "notes": "chacha ji ki patni ki taraf se rishtedaar",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c648acb921d83",
+          "given_name": "Boon",
+          "family_name": "Huat Lee",
+          "display_name": "Boon Huat Lee",
+          "organization": "",
+          "title": "HDB town council ka officer, lift issue me mila tha",
+          "notes": "HDB town council ka officer, lift issue me mila tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c6847b97bc58c",
+          "given_name": "Shalini",
+          "family_name": "Kapoor",
+          "display_name": "Shalini Kapoor",
+          "organization": "",
+          "title": "Divya ki parlour wali dost",
+          "notes": "Divya ki parlour wali dost",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c00decc220a16",
+          "given_name": "Dinesh",
+          "family_name": "Ramachandran",
+          "display_name": "Dinesh Ramachandran",
+          "organization": "",
+          "title": "Clementi hawker ka purana helper dost",
+          "notes": "Clementi hawker ka purana helper dost",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c5e60d731b29e",
+          "given_name": "Xiao",
+          "family_name": "Ming Zhang",
+          "display_name": "Xiao Ming Zhang",
+          "organization": "",
+          "title": "Jurong wet market ka pork seller ka beta",
+          "notes": "Jurong wet market ka pork seller ka beta",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cf049660258ea",
+          "given_name": "Fatima",
+          "family_name": "Begum Syed",
+          "display_name": "Fatima Begum Syed",
+          "organization": "",
+          "title": "Syed Akram ki rishtedaar, eid me mile the",
+          "notes": "Syed Akram ki rishtedaar, eid me mile the",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c624d20c3e9ab",
+          "given_name": "Ravi",
+          "family_name": "Shankar Prasad",
+          "display_name": "Ravi Shankar Prasad",
+          "organization": "",
+          "title": "MRT me roz milne wala jaan-pehchaan",
+          "notes": "MRT me roz milne wala jaan-pehchaan",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cf65fb6ba3310",
+          "given_name": "Grace",
+          "family_name": "Kaur Dhillon",
+          "display_name": "Grace Kaur Dhillon",
+          "organization": "",
+          "title": "Vikram ki colleague, birthday party me mili thi",
+          "notes": "Vikram ki colleague, birthday party me mili thi",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c519190ed8807",
+          "given_name": "Hock",
+          "family_name": "Seng Yap",
+          "display_name": "Hock Seng Yap",
+          "organization": "",
+          "title": "Koufu JEM ke purane cleaning supervisor",
+          "notes": "Koufu JEM ke purane cleaning supervisor",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c4211924f4b01",
+          "given_name": "Anil",
+          "family_name": "Kumar Sahu",
+          "display_name": "Anil Kumar Sahu",
+          "organization": "",
+          "title": "Mustafa Centre ka salesman, phone liya tha",
+          "notes": "Mustafa Centre ka salesman, phone liya tha",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c24d4b94ebf11",
+          "given_name": "Sneha",
+          "family_name": "Reddy",
+          "display_name": "Sneha Reddy",
+          "organization": "",
+          "title": "bachcho ki school bus wali aunty ki beti",
+          "notes": "bachcho ki school bus wali aunty ki beti",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c6f7a37423d97",
+          "given_name": "Marcus",
+          "family_name": "Pereira",
+          "display_name": "Marcus Pereira",
+          "organization": "",
+          "title": "Jurong East football ground ka referee",
+          "notes": "Jurong East football ground ka referee",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c5ecf916c02e5",
+          "given_name": "Lalita",
+          "family_name": "Devi Joshi",
+          "display_name": "Lalita Devi Joshi",
+          "organization": "",
+          "title": "Karva Chauth satsang wali aunty",
+          "notes": "Karva Chauth satsang wali aunty",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c32c1cb6c7b04",
+          "given_name": "Vinod",
+          "family_name": "Kumar Bharti",
+          "display_name": "Vinod Kumar Bharti",
+          "organization": "",
+          "title": "dental clinic ka assistant, Raffles Place wala",
+          "notes": "dental clinic ka assistant, Raffles Place wala",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cbb5e66a6ea23",
+          "given_name": "Pei",
+          "family_name": "Shan Low",
+          "display_name": "Pei Shan Low",
+          "organization": "",
+          "title": "JEM bubble tea shop wali ladki",
+          "notes": "JEM bubble tea shop wali ladki",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cfb7b94f70adb",
+          "given_name": "Ismail",
+          "family_name": "Bin Abdullah",
+          "display_name": "Ismail Bin Abdullah",
+          "organization": "",
+          "title": "Jurong car workshop ka mechanic",
+          "notes": "Jurong car workshop ka mechanic",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c1f0429988c46",
+          "given_name": "Seema",
+          "family_name": "Agarwal",
+          "display_name": "Seema Agarwal",
+          "organization": "",
+          "title": "realtor aunty, ek baar room rent ke liye baat hui thi",
+          "notes": "realtor aunty, ek baar room rent ke liye baat hui thi",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c5c671f91fd5f",
+          "given_name": "Arvind",
+          "family_name": "Kejriwal Yadav",
+          "display_name": "Arvind Kejriwal Yadav",
+          "organization": "",
+          "title": "Holi event me mila tha, Boon Lay wala",
+          "notes": "Holi event me mila tha, Boon Lay wala",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c46233eb1d86e",
+          "given_name": "Kim",
+          "family_name": "Huat Ng",
+          "display_name": "Kim Huat Ng",
+          "organization": "",
+          "title": "Ah Hock ke rice supplier ka towkay",
+          "notes": "Ah Hock ke rice supplier ka towkay",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/cf700a1d7b7e4",
+          "given_name": "Sharmila",
+          "family_name": "Devi Pillai",
+          "display_name": "Sharmila Devi Pillai",
+          "organization": "",
+          "title": "Latha ki cousin sister, Deepavali open house me mili thi",
+          "notes": "Latha ki cousin sister, Deepavali open house me mili thi",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        },
+        {
+          "resource_name": "people/c35f98953cf6e",
+          "given_name": "Rajinder",
+          "family_name": "Singh Bhatia",
+          "display_name": "Rajinder Singh Bhatia",
+          "organization": "",
+          "title": "used furniture wala sardar ji, Jurong me dukaan hai",
+          "notes": "used furniture wala sardar ji, Jurong me dukaan hai",
+          "photo_url": "",
+          "created_at": "2026-09-03T08:22:59",
+          "updated_at": "2026-09-03T08:22:59"
+        }
+      ],
+      "row_count": 133,
+      "truncated": false,
+      "primary_key": [
+        "resource_name"
+      ]
+    },
+    {
+      "name": "google_contact_emails",
+      "rows": [
+        {
+          "contact_resource_name": "people/c9e73199acae7",
+          "email": "sunita.mehra@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c5c07c74a9d27",
+          "email": "aarav.mehra@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c972c02cd05e0",
+          "email": "vivaan.mehra@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c972c02cd05e0",
+          "email": "vivaan.mehra@yahoo.com",
+          "email_type": "other"
+        },
+        {
+          "contact_resource_name": "people/c6d6cd101746d",
+          "email": "divya.rawat@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c9b59317bb194",
+          "email": "rohit.mehra@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c9b59317bb194",
+          "email": "rohit.mehra@icloud.com",
+          "email_type": "other"
+        },
+        {
+          "contact_resource_name": "people/cb139985674c9",
+          "email": "suresh.menon@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cb139985674c9",
+          "email": "suresh.menon@ahhockchickenricekoufujem.com",
+          "email_type": "work"
+        },
+        {
+          "contact_resource_name": "people/c6b38368adb5f",
+          "email": "desmond.toh@ahhockchickenricekoufujem.com",
+          "email_type": "work"
+        },
+        {
+          "contact_resource_name": "people/cb6d37ad481ea",
+          "email": "latha.sundaram@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cb6d37ad481ea",
+          "email": "latha.sundaram@ahhockchickenricekoufujem.com",
+          "email_type": "work"
+        },
+        {
+          "contact_resource_name": "people/c0f20b0de7a76",
+          "email": "syed.akram@ahhockchickenricekoufujem.com",
+          "email_type": "work"
+        },
+        {
+          "contact_resource_name": "people/c9769df38cb99",
+          "email": "vikram.chauhan@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/ca4beea3f34b2",
+          "email": "imran.sheikh@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c9ab05cffb9ae",
+          "email": "lay.lim@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c70a21072cb98",
+          "email": "cheryl.foo@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c686ed8d8477d",
+          "email": "josephine.dsouza@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c1e48d8de78f7",
+          "email": "kumar.velu@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c5b920b76f964",
+          "email": "rajesh.mehra@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c7f0d45d327df",
+          "email": "geeta.bhandari@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cc6bdc6364b39",
+          "email": "rakesh.yadav@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cd7fcd37a9a85",
+          "email": "suresh.yadav@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/ccf6ab1c52a4f",
+          "email": "priya.mehra@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/ccf6ab1c52a4f",
+          "email": "priya.mehra@outlook.com",
+          "email_type": "other"
+        },
+        {
+          "contact_resource_name": "people/c3f26a4f154bf",
+          "email": "harpreet.kaur@ahhockchickenricekoufujem.com",
+          "email_type": "work"
+        },
+        {
+          "contact_resource_name": "people/c97ed71cce25d",
+          "email": "daniel.ong@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c97ed71cce25d",
+          "email": "daniel.ong@ahhockchickenricekoufujem.com",
+          "email_type": "work"
+        },
+        {
+          "contact_resource_name": "people/c3ba02a5e5fa0",
+          "email": "maria.gomes@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c2b53e326c354",
+          "email": "ahmad.ridzuan@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cb018b00675c0",
+          "email": "meena.krishnan@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cd2f3d041eeea",
+          "email": "raj.murugan@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cd2f3d041eeea",
+          "email": "raj.murugan@icloud.com",
+          "email_type": "other"
+        },
+        {
+          "contact_resource_name": "people/c906a48d95afa",
+          "email": "farah.naz@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c906a48d95afa",
+          "email": "farah.naz@hotmail.com",
+          "email_type": "other"
+        },
+        {
+          "contact_resource_name": "people/c939ea992ccb8",
+          "email": "suresh.kumar@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cdafb5600653b",
+          "email": "dr.lek@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c9ff126d678c6",
+          "email": "anil.verma@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c9ff126d678c6",
+          "email": "anil.verma@ahhockchickenricekoufujem.com",
+          "email_type": "work"
+        },
+        {
+          "contact_resource_name": "people/c4cd20ebadd41",
+          "email": "ahhockchickenrice@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c6d8e7e8f379d",
+          "email": "feedback@koufu.com.sg",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c7320333bde82",
+          "email": "enquiry@shengsiong.com.sg",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cb060ce625891",
+          "email": "online@fairprice.com.sg",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cccfd87ca5edc",
+          "email": "no-reply@healthhub.sg",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cbcc29ce057dd",
+          "email": "no-reply@dbs.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cd39ff8e69bc9",
+          "email": "bala@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c766a6e8998ae",
+          "email": "sk@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c272f056a9706",
+          "email": "meena.temple@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c1f5e3fb2e282",
+          "email": "kevin.grab@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cea7aca7121b9",
+          "email": "muthu.barber@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cc98e36003b9f",
+          "email": "jenny.jem@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cd01056ab3413",
+          "email": "parlour.didi@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c3cb39c9d1aea",
+          "email": "mohan.aircon@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cdd81ac3e3f4b",
+          "email": "priya.facial@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cc3546b597a77",
+          "email": "kumar.taxi@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/ca6898536e476",
+          "email": "jia.lim@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/ccb9b7e370d48",
+          "email": "rajesh.yadav@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c4c554793a193",
+          "email": "deepak.sharma@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c92872de3e0de",
+          "email": "mei.ng@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cb3ebdada76e9",
+          "email": "ahmad.yusoff@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cb77973db721b",
+          "email": "priya.nair@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c68f3ff377973",
+          "email": "siti.ahmad@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c9134808b562d",
+          "email": "arun.prakash@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c327c9a705ac1",
+          "email": "divya.krishnan@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cf327fb9dd6c2",
+          "email": "mohamed.sheikh@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c61f14f40b372",
+          "email": "jia.chua@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c9d9097b98cd4",
+          "email": "karthik.subramaniam@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cb92faba762fa",
+          "email": "anita.thakur@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c21eb36a30efd",
+          "email": "jason.jie@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/ca39f365c8876",
+          "email": "farid.ali@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cc26a24c868ff",
+          "email": "pooja.gupta@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cccaa101a5355",
+          "email": "rohini.iyer@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c283273efb797",
+          "email": "zhi.koh@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c7d76b5e7b292",
+          "email": "sunil.pandey@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cbed20d643893",
+          "email": "lakshmi.narayanan@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cba571ab6b242",
+          "email": "manjit.sidhu@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c4fbcbe5f735f",
+          "email": "alvin.kai@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cec1d8252d493",
+          "email": "sanjay.mishra@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c488434bc7059",
+          "email": "abdul.khan@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cdfaa50cad84a",
+          "email": "geeta.verma@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cd2c9aab8e970",
+          "email": "sarah.min@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/ce9e20784278b",
+          "email": "nora.salim@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c605445be6b3f",
+          "email": "kiran.mehra@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c648acb921d83",
+          "email": "boon.lee@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c6847b97bc58c",
+          "email": "shalini.kapoor@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cf049660258ea",
+          "email": "fatima.syed@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c624d20c3e9ab",
+          "email": "ravi.prasad@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c519190ed8807",
+          "email": "hock.yap@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c24d4b94ebf11",
+          "email": "sneha.reddy@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c6f7a37423d97",
+          "email": "marcus.pereira@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c5ecf916c02e5",
+          "email": "lalita.joshi@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c5c671f91fd5f",
+          "email": "arvind.yadav@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c46233eb1d86e",
+          "email": "kim.ng@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/cf700a1d7b7e4",
+          "email": "sharmila.pillai@gmail.com",
+          "email_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c35f98953cf6e",
+          "email": "rajinder.bhatia@gmail.com",
+          "email_type": "home"
+        }
+      ],
+      "row_count": 95,
+      "truncated": false,
+      "primary_key": [
+        "contact_resource_name",
+        "email"
+      ]
+    },
+    {
+      "name": "google_contact_phones",
+      "rows": [
+        {
+          "contact_resource_name": "people/c9e73199acae7",
+          "phone": "+65 9066 4810",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c5c07c74a9d27",
+          "phone": "+65 9117 3130",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c972c02cd05e0",
+          "phone": "+65 9042 2239",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c6d6cd101746d",
+          "phone": "+65 9924 5058",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c9b59317bb194",
+          "phone": "+65 9355 5506",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cb139985674c9",
+          "phone": "+65 9091 8388",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cb139985674c9",
+          "phone": "+65 9336 4030",
+          "phone_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c6b38368adb5f",
+          "phone": "+65 9191 6211",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cb6d37ad481ea",
+          "phone": "+65 9408 9232",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c0f20b0de7a76",
+          "phone": "+65 9121 4566",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c9769df38cb99",
+          "phone": "+65 9078 0437",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/ca4beea3f34b2",
+          "phone": "+65 9385 7138",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c9ab05cffb9ae",
+          "phone": "+65 9991 7666",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c70a21072cb98",
+          "phone": "+65 9632 2276",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c70a21072cb98",
+          "phone": "+65 9263 4017",
+          "phone_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c686ed8d8477d",
+          "phone": "+65 9589 7264",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c686ed8d8477d",
+          "phone": "+65 9300 3293",
+          "phone_type": "home"
+        },
+        {
+          "contact_resource_name": "people/c1e48d8de78f7",
+          "phone": "+65 9127 1455",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c5b920b76f964",
+          "phone": "+65 9313 4298",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c7f0d45d327df",
+          "phone": "+65 9354 0987",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cc6bdc6364b39",
+          "phone": "+65 9100 1015",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cd7fcd37a9a85",
+          "phone": "+65 9911 6110",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/ccf6ab1c52a4f",
+          "phone": "+65 9850 0652",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c3f26a4f154bf",
+          "phone": "+65 9053 7217",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c97ed71cce25d",
+          "phone": "+65 9640 3426",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c3ba02a5e5fa0",
+          "phone": "+65 9001 7365",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c2b53e326c354",
+          "phone": "+65 9863 9109",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cb018b00675c0",
+          "phone": "+65 9744 4342",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cd2f3d041eeea",
+          "phone": "+65 9510 0596",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c906a48d95afa",
+          "phone": "+65 9278 1702",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c939ea992ccb8",
+          "phone": "+65 9773 8432",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cdafb5600653b",
+          "phone": "+65 9703 0280",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c9ff126d678c6",
+          "phone": "+65 9604 9145",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c4cd20ebadd41",
+          "phone": "+65 4344 8024",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c6d8e7e8f379d",
+          "phone": "+65 3651 8911",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c9fd7b134f81d",
+          "phone": "+65 3628 1202",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c7320333bde82",
+          "phone": "+65 4520 8893",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cb060ce625891",
+          "phone": "+65 8229 2319",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c5440792d1e23",
+          "phone": "+65 2175 8335",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cccfd87ca5edc",
+          "phone": "+65 5161 0526",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c10dc933ba30c",
+          "phone": "+65 4303 4182",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cc2648fd59b12",
+          "phone": "+65 8356 6494",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c391749145e6d",
+          "phone": "+65 5704 1829",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/ccc5d72163b56",
+          "phone": "+65 9194 6089",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c3db7f3411ff8",
+          "phone": "+65 5793 1143",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cbcc29ce057dd",
+          "phone": "+65 1039 8052",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cfeb759d75129",
+          "phone": "+65 2156 9871",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/ca5380591b2d2",
+          "phone": "+65 0270 2559",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cb4608bb54c09",
+          "phone": "+65 7630 2635",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c25beee3bfcfa",
+          "phone": "+65 0328 0849",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cb386223fdb01",
+          "phone": "+65 6841 0507",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c1f5e3fb2e282",
+          "phone": "+65 6780 0611",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/ce58c55c4b388",
+          "phone": "+65 3669 6275",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c45283448efb9",
+          "phone": "+65 0335 3005",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cea7aca7121b9",
+          "phone": "+65 5769 5348",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cc98e36003b9f",
+          "phone": "+65 3775 2982",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c60d7a3fbe645",
+          "phone": "+65 1624 7554",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cd01056ab3413",
+          "phone": "+65 7026 0912",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c3cb39c9d1aea",
+          "phone": "+65 9577 4811",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cdd81ac3e3f4b",
+          "phone": "+65 0619 4869",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c68a658b44bba",
+          "phone": "+65 5311 6796",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cddb7fa9d0b6b",
+          "phone": "+65 4837 6454",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cc3546b597a77",
+          "phone": "+65 7913 3514",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/ca7d1f7f5a4dd",
+          "phone": "+65 6377 0967",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cdc4025bef59d",
+          "phone": "+65 5321 4118",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/ccb9b7e370d48",
+          "phone": "+65 1257 5106",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cdb02c597770a",
+          "phone": "+65 0290 9808",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cb3ebdada76e9",
+          "phone": "+65 4107 9285",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cb77973db721b",
+          "phone": "+65 7439 2205",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/ce2a10f649e7b",
+          "phone": "+65 9423 9050",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c327c9a705ac1",
+          "phone": "+65 8604 2518",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cf327fb9dd6c2",
+          "phone": "+65 1051 9962",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c9d9097b98cd4",
+          "phone": "+65 7829 8600",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cb92faba762fa",
+          "phone": "+65 1856 6589",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c21eb36a30efd",
+          "phone": "+65 3697 6564",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cc26a24c868ff",
+          "phone": "+65 1191 3761",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c767c4ac4e161",
+          "phone": "+65 7676 0645",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c6334e3bef083",
+          "phone": "+65 6847 9000",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cee203e0111d9",
+          "phone": "+65 0995 5386",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c283273efb797",
+          "phone": "+65 5472 4393",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c092bb16e3d71",
+          "phone": "+65 8304 5785",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c574060c337cb",
+          "phone": "+65 2019 2518",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/ce43fda34bb9d",
+          "phone": "+65 0318 5325",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c71a801ea444c",
+          "phone": "+65 8885 6637",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cbed20d643893",
+          "phone": "+65 7890 1142",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cba571ab6b242",
+          "phone": "+65 5733 2171",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c4fbcbe5f735f",
+          "phone": "+65 4301 4029",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cd5f06c3567ae",
+          "phone": "+65 2112 5966",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cec1d8252d493",
+          "phone": "+65 9998 0392",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cdfaa50cad84a",
+          "phone": "+65 3831 5159",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cd2c9aab8e970",
+          "phone": "+65 1810 9697",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c2f7f822e5975",
+          "phone": "+65 6184 6304",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/ce9e20784278b",
+          "phone": "+65 7551 7133",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c50ed56364d75",
+          "phone": "+65 6412 7736",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c012ae0e0091c",
+          "phone": "+65 4398 4079",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cd95c548f9df7",
+          "phone": "+65 2492 9969",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c605445be6b3f",
+          "phone": "+65 0847 8802",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c6847b97bc58c",
+          "phone": "+65 3682 0135",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c5e60d731b29e",
+          "phone": "+65 7168 1563",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cf049660258ea",
+          "phone": "+65 3339 9925",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c624d20c3e9ab",
+          "phone": "+65 2278 9563",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cf65fb6ba3310",
+          "phone": "+65 9982 9032",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c519190ed8807",
+          "phone": "+65 9927 9111",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c4211924f4b01",
+          "phone": "+65 4098 0121",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c6f7a37423d97",
+          "phone": "+65 7599 6780",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c5ecf916c02e5",
+          "phone": "+65 1084 8693",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c32c1cb6c7b04",
+          "phone": "+65 5822 3707",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cbb5e66a6ea23",
+          "phone": "+65 3116 0941",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/cfb7b94f70adb",
+          "phone": "+65 3341 9466",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c1f0429988c46",
+          "phone": "+65 9342 4888",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c5c671f91fd5f",
+          "phone": "+65 8732 4925",
+          "phone_type": "mobile"
+        },
+        {
+          "contact_resource_name": "people/c35f98953cf6e",
+          "phone": "+65 3938 2103",
+          "phone_type": "mobile"
+        }
+      ],
+      "row_count": 112,
+      "truncated": false,
+      "primary_key": [
+        "contact_resource_name",
+        "phone"
+      ]
+    }
+  ],
+  "row_limit": 10000
+}

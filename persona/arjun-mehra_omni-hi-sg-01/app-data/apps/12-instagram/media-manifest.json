@@ -1,0 +1,21 @@
+{
+  "references": [
+    {
+      "sourcePath": "root/tables/4/rows/0/image_file",
+      "key": "image_file",
+      "sourceValue": "med_5063bac1bb214e8d.jpg",
+      "path": "media/med_5063bac1bb214e8d.jpg",
+      "status": "downloaded",
+      "localPath": "sessions/6ea0c9a3-bb7c-4e39-99c3-14ad37fb44c5/apps/12-instagram/media/med_5063bac1bb214e8d.webp",
+      "contentType": "image/webp",
+      "optimized": true,
+      "originalBytes": 590601,
+      "storedBytes": 236254,
+      "originalWidth": 1600,
+      "originalHeight": 1600,
+      "storedWidth": 1600,
+      "storedHeight": 1600,
+      "compressionRatio": 0.4
+    }
+  ]
+}

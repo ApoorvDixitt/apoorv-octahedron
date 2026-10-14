@@ -1,0 +1,18 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "zone_id": "2ed111db-d3b6-81b8-43c0-1482a76b1478",
+      "light_id": "94f44f44-9015-05ed-9dc0-f547f5f9ec78"
+    },
+    {
+      "zone_id": "2ed111db-d3b6-81b8-43c0-1482a76b1478",
+      "light_id": "b0bdcf06-ddbe-1971-fe40-cda85dd4beeb"
+    },
+    {
+      "zone_id": "2ed111db-d3b6-81b8-43c0-1482a76b1478",
+      "light_id": "b856da5c-a2d7-00bc-ac76-40ae6c6057f9"
+    }
+  ]
+}

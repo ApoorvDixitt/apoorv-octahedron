@@ -1,0 +1,38 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "att_0df0e3bf125f",
+      "message_id": "msg_b166f11c91",
+      "filename": "Shopee_receipt_SP-SG-99042177.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 8817,
+      "content": null
+    },
+    {
+      "id": "att_35a6962ccdce",
+      "message_id": "msg_e669ce59fc",
+      "filename": "Shopee_order_SP-SG-99108834_confirmation.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 9589,
+      "content": null
+    },
+    {
+      "id": "att_4d5b14b59dc1",
+      "message_id": "msg_9773760aec",
+      "filename": "POSB_transfer_confirmation_30Sep2026.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 8747,
+      "content": null
+    },
+    {
+      "id": "att_80810b2da16f",
+      "message_id": "msg_6225234d1c",
+      "filename": "Shopee_Receipt_SP-SG-99108834.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 8960,
+      "content": null
+    }
+  ]
+}

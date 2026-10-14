@@ -1,0 +1,258 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "8c40aae4c7f7ce8a0542e330ea1d0786",
+      "title": "Sunita Mehra",
+      "is_group": 0,
+      "last_updated": "2026-10-02T10:22:18",
+      "created_at": "2026-09-03T12:03:34"
+    },
+    {
+      "id": "9c89ea6ed29a370899f353d4e6a97180",
+      "title": "Aarav Mehra",
+      "is_group": 0,
+      "last_updated": "2026-09-07T19:53:52",
+      "created_at": "2026-09-07T19:53:52"
+    },
+    {
+      "id": "adc37f2ef6fa96dfe3fee38d2a5436b7",
+      "title": "Rohit Mehra",
+      "is_group": 0,
+      "last_updated": "2026-10-02T08:20:33",
+      "created_at": "2026-09-03T17:23:02"
+    },
+    {
+      "id": "46919f96685336f8fc4cc148dc0d11d7",
+      "title": "Suresh Menon",
+      "is_group": 0,
+      "last_updated": "2026-09-27T08:35:11",
+      "created_at": "2026-09-04T16:14:15"
+    },
+    {
+      "id": "f59e59f13cdf9c3c51c83fdeeb5d62d3",
+      "title": "Latha Sundaram",
+      "is_group": 0,
+      "last_updated": "2026-10-02T17:05:39",
+      "created_at": "2026-09-04T22:19:15"
+    },
+    {
+      "id": "ddff978ac189f69566917c0ce5c884f0",
+      "title": "Priya Mehra",
+      "is_group": 0,
+      "last_updated": "2026-10-01T15:30:17",
+      "created_at": "2026-09-05T12:08:39"
+    },
+    {
+      "id": "6839a8abe372730f892bfbe839798ce7",
+      "title": "Imran Sheikh",
+      "is_group": 0,
+      "last_updated": "2026-10-01T18:59:32",
+      "created_at": "2026-09-08T13:27:41"
+    },
+    {
+      "id": "4c13308deec8e0395a28bbccca68616b",
+      "title": "Geeta Bhandari",
+      "is_group": 0,
+      "last_updated": "2026-09-28T14:01:58",
+      "created_at": "2026-09-08T22:03:28"
+    },
+    {
+      "id": "7f1c0ec7031e65742f2a716a90de9999",
+      "title": "Rakesh Yadav",
+      "is_group": 0,
+      "last_updated": "2026-09-28T12:46:24",
+      "created_at": "2026-09-12T17:14:09"
+    },
+    {
+      "id": "296ab9176a4d1c01940cfea5d6f44caf",
+      "title": "Vikram Chauhan",
+      "is_group": 0,
+      "last_updated": "2026-09-13T10:08:22",
+      "created_at": "2026-09-13T09:43:22"
+    },
+    {
+      "id": "25a61a0ae0014824270b4527aec9b709",
+      "title": "Shopee SG",
+      "is_group": 0,
+      "last_updated": "2026-10-02T15:11:18",
+      "created_at": "2026-09-03T21:53:25"
+    },
+    {
+      "id": "c9826cbbfc8874559cd1dd8c9e575d86",
+      "title": "Singtel",
+      "is_group": 0,
+      "last_updated": "2026-09-28T09:51:39",
+      "created_at": "2026-09-04T13:44:47"
+    },
+    {
+      "id": "ddc7f06f7c164c609772adedaf70f9bd",
+      "title": "VERIFY",
+      "is_group": 0,
+      "last_updated": "2026-09-26T16:25:15",
+      "created_at": "2026-09-05T18:50:02"
+    },
+    {
+      "id": "120353804037655944",
+      "title": "Jurong East St 21 Neighbours",
+      "is_group": 1,
+      "last_updated": "2026-10-02T22:32:02",
+      "created_at": "2026-09-05T20:33:04"
+    },
+    {
+      "id": "0254afeebad1681c45d4482384d3be20",
+      "title": "FairPrice",
+      "is_group": 0,
+      "last_updated": "2026-09-06T19:01:01",
+      "created_at": "2026-09-06T19:01:01"
+    },
+    {
+      "id": "7aa1a091ff43f948478e38b2f12fb968",
+      "title": "+65 8124 7789",
+      "is_group": 0,
+      "last_updated": "2026-09-07T17:07:42",
+      "created_at": "2026-09-07T17:07:42"
+    },
+    {
+      "id": "f1fc81bdfb23bfbb0d3607a60908cf67",
+      "title": "HealthHub",
+      "is_group": 0,
+      "last_updated": "2026-10-02T21:48:26",
+      "created_at": "2026-09-08T20:33:02"
+    },
+    {
+      "id": "269a7ca91333bc7f9a8ee42a15d40f24",
+      "title": "SP Services",
+      "is_group": 0,
+      "last_updated": "2026-09-21T20:49:48",
+      "created_at": "2026-09-09T17:12:38"
+    },
+    {
+      "id": "120336821691440698",
+      "title": "Koufu Helpers JEM L5",
+      "is_group": 1,
+      "last_updated": "2026-09-29T06:48:55",
+      "created_at": "2026-09-10T10:01:47"
+    },
+    {
+      "id": "50b8f4a3b3eb5126ecdd3f47123ce71d",
+      "title": "+65 8193 2045",
+      "is_group": 0,
+      "last_updated": "2026-09-10T15:03:45",
+      "created_at": "2026-09-10T15:03:45"
+    },
+    {
+      "id": "25cf968370ab63d7dfd41f370d811e1b",
+      "title": "ShopBack",
+      "is_group": 0,
+      "last_updated": "2026-09-11T19:54:59",
+      "created_at": "2026-09-11T19:54:59"
+    },
+    {
+      "id": "7df30541c35da7013a6de75c501f2d30",
+      "title": "POSB",
+      "is_group": 0,
+      "last_updated": "2026-09-29T21:25:18",
+      "created_at": "2026-09-13T19:02:43"
+    },
+    {
+      "id": "94ce898961ff7f425dfbd25eb7b31b2b",
+      "title": "+65 8337 9120",
+      "is_group": 0,
+      "last_updated": "2026-09-14T18:00:33",
+      "created_at": "2026-09-14T18:00:33"
+    },
+    {
+      "id": "36876124cf3d87879d1e52db6641eff9",
+      "title": "Grab",
+      "is_group": 0,
+      "last_updated": "2026-10-01T17:16:58",
+      "created_at": "2026-09-17T10:49:45"
+    },
+    {
+      "id": "9e9058ef3fc8e43242eee113233db32c",
+      "title": "+65 8456 3312",
+      "is_group": 0,
+      "last_updated": "2026-09-19T18:55:32",
+      "created_at": "2026-09-19T18:55:32"
+    },
+    {
+      "id": "3590094e30220b48c072b8f2c6ba66c2",
+      "title": "CDC",
+      "is_group": 0,
+      "last_updated": "2026-09-21T12:28:54",
+      "created_at": "2026-09-21T12:28:54"
+    },
+    {
+      "id": "5b6a666be615255aefdd8996248aec83",
+      "title": "+65 8267 4509",
+      "is_group": 0,
+      "last_updated": "2026-09-22T22:08:13",
+      "created_at": "2026-09-22T22:08:13"
+    },
+    {
+      "id": "5394290b6aef89bced8d2c2fc8e97616",
+      "title": "Jurong-Clementi Town Council",
+      "is_group": 0,
+      "last_updated": "2026-09-25T14:57:35",
+      "created_at": "2026-09-25T14:57:35"
+    },
+    {
+      "id": "79ec5ae9b35fb17b9e478cfeaf39dbea",
+      "title": "+65 8419 6733",
+      "is_group": 0,
+      "last_updated": "2026-09-26T11:11:56",
+      "created_at": "2026-09-26T11:11:56"
+    },
+    {
+      "id": "120364842588074615",
+      "title": "Rohit BBQ Group",
+      "is_group": 1,
+      "last_updated": "2026-09-27T10:16:03",
+      "created_at": "2026-09-27T10:12:03"
+    },
+    {
+      "id": "399a618ca41abb03f6f1e5b4e3f79ba3",
+      "title": "+65 8072 1184",
+      "is_group": 0,
+      "last_updated": "2026-09-28T16:49:12",
+      "created_at": "2026-09-28T16:49:12"
+    },
+    {
+      "id": "83a7364ce771b59edb31cb9161e0a8f0",
+      "title": "HDB",
+      "is_group": 0,
+      "last_updated": "2026-09-30T18:26:50",
+      "created_at": "2026-09-30T18:26:50"
+    },
+    {
+      "id": "4db0559c80937e7ccebdaf8d6f6dfee8",
+      "title": "+65 8365 2091",
+      "is_group": 0,
+      "last_updated": "2026-10-01T20:40:50",
+      "created_at": "2026-10-01T20:40:50"
+    },
+    {
+      "id": "471d72df900f04c02aad443dc9717261",
+      "title": "+65 8790 5542",
+      "is_group": 0,
+      "last_updated": "2026-09-13T20:24:38",
+      "created_at": "2026-09-13T20:24:38"
+    },
+    {
+      "id": "54a3db2421957805d2683114ac284bce",
+      "title": "DBS",
+      "is_group": 0,
+      "last_updated": "2026-09-09T20:18:46",
+      "created_at": "2026-09-09T20:18:46"
+    },
+    {
+      "id": "13ca1eebc6a323e8d10aa48a6220ac21",
+      "title": "+65 8155 9023",
+      "is_group": 0,
+      "last_updated": "2026-09-20T17:51:00",
+      "created_at": "2026-09-20T17:51:00"
+    }
+  ]
+}

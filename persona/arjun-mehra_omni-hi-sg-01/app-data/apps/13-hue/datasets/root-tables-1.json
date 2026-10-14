@@ -1,0 +1,690 @@
+{
+  "sourcePath": "root/tables",
+  "rows": [
+    {
+      "name": "hue_devices",
+      "rows": [
+        {
+          "id": "dfce36be-7ceb-07ce-b953-7cb889518346",
+          "name": "Ceiling",
+          "archetype": "ceiling_round",
+          "model_id": null,
+          "manufacturer_name": "Signify Netherlands B.V.",
+          "product_name": "Hue white lamp",
+          "software_version": null,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "7a3cecc2-ced8-d816-82f6-f9e4fd278beb",
+          "name": "Sofa lamp",
+          "archetype": "table_lamp",
+          "model_id": null,
+          "manufacturer_name": "Signify Netherlands B.V.",
+          "product_name": "Hue color lamp",
+          "software_version": null,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "e7b5244c-62b5-05c0-0de0-9211e3dc2659",
+          "name": "TV backlight",
+          "archetype": "lightstrip",
+          "model_id": null,
+          "manufacturer_name": "Signify Netherlands B.V.",
+          "product_name": "Hue color lamp",
+          "software_version": null,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "48279291-dad6-13b4-f724-fab9f7bc0d2e",
+          "name": "Ceiling",
+          "archetype": "ceiling_round",
+          "model_id": null,
+          "manufacturer_name": "Signify Netherlands B.V.",
+          "product_name": "Hue white lamp",
+          "software_version": null,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "b2141fe4-3161-99df-bf5f-c1ecce798ba6",
+          "name": "Bedside lamp",
+          "archetype": "table_lamp",
+          "model_id": null,
+          "manufacturer_name": "Signify Netherlands B.V.",
+          "product_name": "Hue white lamp",
+          "software_version": null,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "52a65477-5baf-002d-d809-29391aa336c7",
+          "name": "Study desk",
+          "archetype": "table_lamp",
+          "model_id": null,
+          "manufacturer_name": "Signify Netherlands B.V.",
+          "product_name": "Hue white lamp",
+          "software_version": null,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "912a58f9-04be-3af5-0a1e-db74fa475dd6",
+          "name": "Bedside Hue Go",
+          "archetype": "hue_go",
+          "model_id": null,
+          "manufacturer_name": "Signify Netherlands B.V.",
+          "product_name": "Hue color lamp",
+          "software_version": null,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "e4b9cbbd-a246-d736-c442-4bd02a76aa0c",
+          "name": "Hallway dimmer",
+          "archetype": "hue_dimmer_switch",
+          "model_id": null,
+          "manufacturer_name": "Signify Netherlands B.V.",
+          "product_name": "Hue dimmer switch",
+          "software_version": null,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "bc3a5f8c-345c-078e-7be0-575dec76f7fa",
+          "name": "Living Room dial",
+          "archetype": "hue_tap_dial_switch",
+          "model_id": null,
+          "manufacturer_name": "Signify Netherlands B.V.",
+          "product_name": "Hue tap dial switch",
+          "software_version": null,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        }
+      ],
+      "row_count": 9,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "hue_rooms",
+      "rows": [
+        {
+          "id": "a91313d1-6181-08d4-ee77-f9383c42cfea",
+          "name": "Living room",
+          "archetype": "living_room",
+          "created_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "4cdabf60-5b2a-5a5f-30d3-84a14a2f50f5",
+          "name": "Master bedroom",
+          "archetype": "bedroom",
+          "created_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "de245b55-4642-a07f-bb29-6c73d52c5414",
+          "name": "Kids' bedroom",
+          "archetype": "bedroom",
+          "created_at": "2026-10-02T08:00:00"
+        }
+      ],
+      "row_count": 3,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "hue_zones",
+      "rows": [
+        {
+          "id": "2ed111db-d3b6-81b8-43c0-1482a76b1478",
+          "name": "Downstairs",
+          "archetype": "ground_floor",
+          "created_at": "2026-10-02T08:00:00"
+        }
+      ],
+      "row_count": 1,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "hue_lights",
+      "rows": [
+        {
+          "id": "94f44f44-9015-05ed-9dc0-f547f5f9ec78",
+          "name": "Ceiling",
+          "archetype": "ceiling_round",
+          "owner_device_id": "dfce36be-7ceb-07ce-b953-7cb889518346",
+          "room_id": "a91313d1-6181-08d4-ee77-f9383c42cfea",
+          "is_on": 0,
+          "brightness": 0,
+          "min_dim_level": 1,
+          "mirek": 366,
+          "color_x": null,
+          "color_y": null,
+          "gamut_type": null,
+          "effect": "no_effect",
+          "reachable": 1,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "b0bdcf06-ddbe-1971-fe40-cda85dd4beeb",
+          "name": "Sofa lamp",
+          "archetype": "table_lamp",
+          "owner_device_id": "7a3cecc2-ced8-d816-82f6-f9e4fd278beb",
+          "room_id": "a91313d1-6181-08d4-ee77-f9383c42cfea",
+          "is_on": 1,
+          "brightness": 60,
+          "min_dim_level": 1,
+          "mirek": 366,
+          "color_x": 0.45,
+          "color_y": 0.41,
+          "gamut_type": "C",
+          "effect": "no_effect",
+          "reachable": 1,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "b856da5c-a2d7-00bc-ac76-40ae6c6057f9",
+          "name": "TV backlight",
+          "archetype": "lightstrip",
+          "owner_device_id": "e7b5244c-62b5-05c0-0de0-9211e3dc2659",
+          "room_id": "a91313d1-6181-08d4-ee77-f9383c42cfea",
+          "is_on": 0,
+          "brightness": 0,
+          "min_dim_level": 1,
+          "mirek": 366,
+          "color_x": 0.45,
+          "color_y": 0.41,
+          "gamut_type": "C",
+          "effect": "no_effect",
+          "reachable": 1,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "e17b9854-e024-4a10-cb32-5ab1d4c943dc",
+          "name": "Ceiling",
+          "archetype": "ceiling_round",
+          "owner_device_id": "48279291-dad6-13b4-f724-fab9f7bc0d2e",
+          "room_id": "4cdabf60-5b2a-5a5f-30d3-84a14a2f50f5",
+          "is_on": 1,
+          "brightness": 60,
+          "min_dim_level": 1,
+          "mirek": 366,
+          "color_x": null,
+          "color_y": null,
+          "gamut_type": null,
+          "effect": "no_effect",
+          "reachable": 1,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "b2f426cb-ef2c-def2-f154-2e77cab7ded9",
+          "name": "Bedside lamp",
+          "archetype": "table_lamp",
+          "owner_device_id": "b2141fe4-3161-99df-bf5f-c1ecce798ba6",
+          "room_id": "4cdabf60-5b2a-5a5f-30d3-84a14a2f50f5",
+          "is_on": 0,
+          "brightness": 0,
+          "min_dim_level": 1,
+          "mirek": 366,
+          "color_x": null,
+          "color_y": null,
+          "gamut_type": null,
+          "effect": "no_effect",
+          "reachable": 1,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "04f9e853-c561-7cca-d8f4-f9dcc1b4644f",
+          "name": "Study desk",
+          "archetype": "table_lamp",
+          "owner_device_id": "52a65477-5baf-002d-d809-29391aa336c7",
+          "room_id": "de245b55-4642-a07f-bb29-6c73d52c5414",
+          "is_on": 1,
+          "brightness": 60,
+          "min_dim_level": 1,
+          "mirek": 366,
+          "color_x": null,
+          "color_y": null,
+          "gamut_type": null,
+          "effect": "no_effect",
+          "reachable": 1,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "6c23ed76-5c5a-1418-4b45-3732eddada2c",
+          "name": "Bedside Hue Go",
+          "archetype": "hue_go",
+          "owner_device_id": "912a58f9-04be-3af5-0a1e-db74fa475dd6",
+          "room_id": "de245b55-4642-a07f-bb29-6c73d52c5414",
+          "is_on": 1,
+          "brightness": 60,
+          "min_dim_level": 1,
+          "mirek": 366,
+          "color_x": 0.45,
+          "color_y": 0.41,
+          "gamut_type": "C",
+          "effect": "no_effect",
+          "reachable": 1,
+          "created_at": "2026-10-02T08:00:00",
+          "updated_at": "2026-10-02T08:00:00"
+        }
+      ],
+      "row_count": 7,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "hue_zone_lights",
+      "rows": [
+        {
+          "zone_id": "2ed111db-d3b6-81b8-43c0-1482a76b1478",
+          "light_id": "94f44f44-9015-05ed-9dc0-f547f5f9ec78"
+        },
+        {
+          "zone_id": "2ed111db-d3b6-81b8-43c0-1482a76b1478",
+          "light_id": "b0bdcf06-ddbe-1971-fe40-cda85dd4beeb"
+        },
+        {
+          "zone_id": "2ed111db-d3b6-81b8-43c0-1482a76b1478",
+          "light_id": "b856da5c-a2d7-00bc-ac76-40ae6c6057f9"
+        }
+      ],
+      "row_count": 3,
+      "truncated": false,
+      "primary_key": [
+        "zone_id",
+        "light_id"
+      ]
+    },
+    {
+      "name": "hue_grouped_lights",
+      "rows": [
+        {
+          "id": "6f28e416-60de-b0a3-0673-07debb6ac1a3",
+          "owner_type": "room",
+          "owner_id": "a91313d1-6181-08d4-ee77-f9383c42cfea",
+          "name": "Living room"
+        },
+        {
+          "id": "7505ced0-a5fa-aea5-6ef0-edd652ca3f2f",
+          "owner_type": "room",
+          "owner_id": "4cdabf60-5b2a-5a5f-30d3-84a14a2f50f5",
+          "name": "Master bedroom"
+        },
+        {
+          "id": "05b0b3bf-a11e-bd04-fce4-1b06d22c5fd1",
+          "owner_type": "room",
+          "owner_id": "de245b55-4642-a07f-bb29-6c73d52c5414",
+          "name": "Kids' bedroom"
+        }
+      ],
+      "row_count": 3,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "hue_scenes",
+      "rows": [
+        {
+          "id": "55645345-c4d6-bb92-2a5d-234fcf923195",
+          "name": "Relax",
+          "group_type": "room",
+          "group_id": "a91313d1-6181-08d4-ee77-f9383c42cfea",
+          "speed": 0.5,
+          "auto_dynamic": 0,
+          "is_active": 0,
+          "created_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "ccd7ca50-c34d-be0f-e62f-df3653ef53cf",
+          "name": "Bright",
+          "group_type": "room",
+          "group_id": "a91313d1-6181-08d4-ee77-f9383c42cfea",
+          "speed": 0.5,
+          "auto_dynamic": 0,
+          "is_active": 0,
+          "created_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "ba9ebbeb-4edc-47c8-5a52-788aa474b5a1",
+          "name": "Movie",
+          "group_type": "room",
+          "group_id": "a91313d1-6181-08d4-ee77-f9383c42cfea",
+          "speed": 0.5,
+          "auto_dynamic": 0,
+          "is_active": 0,
+          "created_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "a70d9c96-76f4-b3f6-7ab6-7b3bc0714bb9",
+          "name": "Read",
+          "group_type": "room",
+          "group_id": "4cdabf60-5b2a-5a5f-30d3-84a14a2f50f5",
+          "speed": 0.5,
+          "auto_dynamic": 0,
+          "is_active": 0,
+          "created_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "ada477b6-7803-86c5-2a8a-fabb39f14da4",
+          "name": "Nightlight",
+          "group_type": "room",
+          "group_id": "4cdabf60-5b2a-5a5f-30d3-84a14a2f50f5",
+          "speed": 0.5,
+          "auto_dynamic": 0,
+          "is_active": 0,
+          "created_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "1372fa28-f440-6d83-42b5-15e76fddc750",
+          "name": "Study",
+          "group_type": "room",
+          "group_id": "de245b55-4642-a07f-bb29-6c73d52c5414",
+          "speed": 0.5,
+          "auto_dynamic": 0,
+          "is_active": 0,
+          "created_at": "2026-10-02T08:00:00"
+        },
+        {
+          "id": "64c8982e-0a82-116f-58e9-10e4111e3a80",
+          "name": "Bedtime",
+          "group_type": "room",
+          "group_id": "de245b55-4642-a07f-bb29-6c73d52c5414",
+          "speed": 0.5,
+          "auto_dynamic": 0,
+          "is_active": 0,
+          "created_at": "2026-10-02T08:00:00"
+        }
+      ],
+      "row_count": 7,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "hue_scene_actions",
+      "rows": [
+        {
+          "scene_id": "55645345-c4d6-bb92-2a5d-234fcf923195",
+          "light_id": "94f44f44-9015-05ed-9dc0-f547f5f9ec78",
+          "is_on": 1,
+          "brightness": 38,
+          "mirek": 410,
+          "color_x": null,
+          "color_y": null
+        },
+        {
+          "scene_id": "55645345-c4d6-bb92-2a5d-234fcf923195",
+          "light_id": "b0bdcf06-ddbe-1971-fe40-cda85dd4beeb",
+          "is_on": 1,
+          "brightness": 38,
+          "mirek": null,
+          "color_x": 0.5,
+          "color_y": 0.415
+        },
+        {
+          "scene_id": "55645345-c4d6-bb92-2a5d-234fcf923195",
+          "light_id": "b856da5c-a2d7-00bc-ac76-40ae6c6057f9",
+          "is_on": 1,
+          "brightness": 38,
+          "mirek": null,
+          "color_x": 0.5,
+          "color_y": 0.415
+        },
+        {
+          "scene_id": "ccd7ca50-c34d-be0f-e62f-df3653ef53cf",
+          "light_id": "94f44f44-9015-05ed-9dc0-f547f5f9ec78",
+          "is_on": 1,
+          "brightness": 100,
+          "mirek": 233,
+          "color_x": null,
+          "color_y": null
+        },
+        {
+          "scene_id": "ccd7ca50-c34d-be0f-e62f-df3653ef53cf",
+          "light_id": "b0bdcf06-ddbe-1971-fe40-cda85dd4beeb",
+          "is_on": 1,
+          "brightness": 100,
+          "mirek": 233,
+          "color_x": null,
+          "color_y": null
+        },
+        {
+          "scene_id": "ccd7ca50-c34d-be0f-e62f-df3653ef53cf",
+          "light_id": "b856da5c-a2d7-00bc-ac76-40ae6c6057f9",
+          "is_on": 1,
+          "brightness": 100,
+          "mirek": 233,
+          "color_x": null,
+          "color_y": null
+        },
+        {
+          "scene_id": "ba9ebbeb-4edc-47c8-5a52-788aa474b5a1",
+          "light_id": "94f44f44-9015-05ed-9dc0-f547f5f9ec78",
+          "is_on": 1,
+          "brightness": 12,
+          "mirek": 454,
+          "color_x": null,
+          "color_y": null
+        },
+        {
+          "scene_id": "ba9ebbeb-4edc-47c8-5a52-788aa474b5a1",
+          "light_id": "b0bdcf06-ddbe-1971-fe40-cda85dd4beeb",
+          "is_on": 1,
+          "brightness": 12,
+          "mirek": null,
+          "color_x": 0.167,
+          "color_y": 0.04
+        },
+        {
+          "scene_id": "ba9ebbeb-4edc-47c8-5a52-788aa474b5a1",
+          "light_id": "b856da5c-a2d7-00bc-ac76-40ae6c6057f9",
+          "is_on": 1,
+          "brightness": 12,
+          "mirek": null,
+          "color_x": 0.167,
+          "color_y": 0.04
+        },
+        {
+          "scene_id": "a70d9c96-76f4-b3f6-7ab6-7b3bc0714bb9",
+          "light_id": "e17b9854-e024-4a10-cb32-5ab1d4c943dc",
+          "is_on": 1,
+          "brightness": 100,
+          "mirek": 280,
+          "color_x": null,
+          "color_y": null
+        },
+        {
+          "scene_id": "a70d9c96-76f4-b3f6-7ab6-7b3bc0714bb9",
+          "light_id": "b2f426cb-ef2c-def2-f154-2e77cab7ded9",
+          "is_on": 1,
+          "brightness": 100,
+          "mirek": 280,
+          "color_x": null,
+          "color_y": null
+        },
+        {
+          "scene_id": "ada477b6-7803-86c5-2a8a-fabb39f14da4",
+          "light_id": "e17b9854-e024-4a10-cb32-5ab1d4c943dc",
+          "is_on": 1,
+          "brightness": 8,
+          "mirek": 447,
+          "color_x": null,
+          "color_y": null
+        },
+        {
+          "scene_id": "ada477b6-7803-86c5-2a8a-fabb39f14da4",
+          "light_id": "b2f426cb-ef2c-def2-f154-2e77cab7ded9",
+          "is_on": 1,
+          "brightness": 8,
+          "mirek": 447,
+          "color_x": null,
+          "color_y": null
+        },
+        {
+          "scene_id": "1372fa28-f440-6d83-42b5-15e76fddc750",
+          "light_id": "04f9e853-c561-7cca-d8f4-f9dcc1b4644f",
+          "is_on": 1,
+          "brightness": 100,
+          "mirek": 280,
+          "color_x": null,
+          "color_y": null
+        },
+        {
+          "scene_id": "1372fa28-f440-6d83-42b5-15e76fddc750",
+          "light_id": "6c23ed76-5c5a-1418-4b45-3732eddada2c",
+          "is_on": 1,
+          "brightness": 100,
+          "mirek": 280,
+          "color_x": null,
+          "color_y": null
+        },
+        {
+          "scene_id": "64c8982e-0a82-116f-58e9-10e4111e3a80",
+          "light_id": "04f9e853-c561-7cca-d8f4-f9dcc1b4644f",
+          "is_on": 1,
+          "brightness": 80,
+          "mirek": 366,
+          "color_x": null,
+          "color_y": null
+        },
+        {
+          "scene_id": "64c8982e-0a82-116f-58e9-10e4111e3a80",
+          "light_id": "6c23ed76-5c5a-1418-4b45-3732eddada2c",
+          "is_on": 1,
+          "brightness": 80,
+          "mirek": 366,
+          "color_x": null,
+          "color_y": null
+        }
+      ],
+      "row_count": 17,
+      "truncated": false,
+      "primary_key": [
+        "scene_id",
+        "light_id"
+      ]
+    },
+    {
+      "name": "hue_motion_sensors",
+      "rows": [],
+      "row_count": 0,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "hue_temperature_sensors",
+      "rows": [],
+      "row_count": 0,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "hue_light_level_sensors",
+      "rows": [],
+      "row_count": 0,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "hue_buttons",
+      "rows": [
+        {
+          "id": "49d2c63a-e127-0b11-a0b1-e9567f3ac9f9",
+          "device_id": "e4b9cbbd-a246-d736-c442-4bd02a76aa0c",
+          "control_id": 1,
+          "last_event": "short_release"
+        },
+        {
+          "id": "14530d7d-b7ee-5bbe-d71f-d0782ddbac91",
+          "device_id": "e4b9cbbd-a246-d736-c442-4bd02a76aa0c",
+          "control_id": 2,
+          "last_event": "short_release"
+        },
+        {
+          "id": "60b3ac45-9ccb-11d5-1edd-3732f2963d35",
+          "device_id": "e4b9cbbd-a246-d736-c442-4bd02a76aa0c",
+          "control_id": 3,
+          "last_event": "short_release"
+        },
+        {
+          "id": "ddc644e6-433d-870b-82e5-7071a56c6dc6",
+          "device_id": "e4b9cbbd-a246-d736-c442-4bd02a76aa0c",
+          "control_id": 4,
+          "last_event": "short_release"
+        },
+        {
+          "id": "c85d790c-456c-9d1c-c711-34174397fc33",
+          "device_id": "bc3a5f8c-345c-078e-7be0-575dec76f7fa",
+          "control_id": 1,
+          "last_event": "short_release"
+        },
+        {
+          "id": "70b71b0e-62e5-cff1-10e4-934a79fc19c7",
+          "device_id": "bc3a5f8c-345c-078e-7be0-575dec76f7fa",
+          "control_id": 2,
+          "last_event": "short_release"
+        },
+        {
+          "id": "c77bcf56-d31c-cb79-fa27-92eff8a9815c",
+          "device_id": "bc3a5f8c-345c-078e-7be0-575dec76f7fa",
+          "control_id": 3,
+          "last_event": "short_release"
+        },
+        {
+          "id": "bcc0bf05-49fb-f193-b989-704a144d02f9",
+          "device_id": "bc3a5f8c-345c-078e-7be0-575dec76f7fa",
+          "control_id": 4,
+          "last_event": "short_release"
+        }
+      ],
+      "row_count": 8,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    },
+    {
+      "name": "hue_relative_rotary",
+      "rows": [
+        {
+          "id": "5772415a-280a-045b-b6c9-06584c19789a",
+          "device_id": "bc3a5f8c-345c-078e-7be0-575dec76f7fa",
+          "last_action": "repeat",
+          "last_rotation_steps": 15
+        }
+      ],
+      "row_count": 1,
+      "truncated": false,
+      "primary_key": [
+        "id"
+      ]
+    }
+  ]
+}

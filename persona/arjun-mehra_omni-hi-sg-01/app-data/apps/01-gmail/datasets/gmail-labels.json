@@ -1,0 +1,144 @@
+{
+  "columns": null,
+  "sourceKind": "sqlite",
+  "rows": [
+    {
+      "id": "INBOX",
+      "name": "INBOX",
+      "kind": "system",
+      "color": null
+    },
+    {
+      "id": "SENT",
+      "name": "SENT",
+      "kind": "system",
+      "color": null
+    },
+    {
+      "id": "DRAFT",
+      "name": "DRAFT",
+      "kind": "system",
+      "color": null
+    },
+    {
+      "id": "TRASH",
+      "name": "TRASH",
+      "kind": "system",
+      "color": null
+    },
+    {
+      "id": "SPAM",
+      "name": "SPAM",
+      "kind": "system",
+      "color": null
+    },
+    {
+      "id": "STARRED",
+      "name": "STARRED",
+      "kind": "system",
+      "color": null
+    },
+    {
+      "id": "IMPORTANT",
+      "name": "IMPORTANT",
+      "kind": "system",
+      "color": null
+    },
+    {
+      "id": "PROMOTIONS",
+      "name": "PROMOTIONS",
+      "kind": "system",
+      "color": null
+    },
+    {
+      "id": "SOCIAL",
+      "name": "SOCIAL",
+      "kind": "system",
+      "color": null
+    },
+    {
+      "id": "UPDATES",
+      "name": "UPDATES",
+      "kind": "system",
+      "color": null
+    },
+    {
+      "id": "FORUMS",
+      "name": "FORUMS",
+      "kind": "system",
+      "color": null
+    },
+    {
+      "id": "NEWSLETTERS",
+      "name": "NEWSLETTERS",
+      "kind": "user",
+      "color": null
+    },
+    {
+      "id": "PURCHASES",
+      "name": "PURCHASES",
+      "kind": "user",
+      "color": null
+    },
+    {
+      "id": "RECEIPTS",
+      "name": "RECEIPTS",
+      "kind": "user",
+      "color": null
+    },
+    {
+      "id": "RESERVATIONS",
+      "name": "RESERVATIONS",
+      "kind": "user",
+      "color": null
+    },
+    {
+      "id": "POLITICS",
+      "name": "POLITICS",
+      "kind": "user",
+      "color": null
+    },
+    {
+      "id": "WORK",
+      "name": "WORK",
+      "kind": "user",
+      "color": null
+    },
+    {
+      "id": "FAMILY",
+      "name": "FAMILY",
+      "kind": "user",
+      "color": null
+    },
+    {
+      "id": "RECIPES",
+      "name": "RECIPES",
+      "kind": "user",
+      "color": null
+    },
+    {
+      "id": "PERSONAL",
+      "name": "PERSONAL",
+      "kind": "user",
+      "color": null
+    },
+    {
+      "id": "NOTES",
+      "name": "NOTES",
+      "kind": "user",
+      "color": null
+    },
+    {
+      "id": "FOOD",
+      "name": "FOOD",
+      "kind": "user",
+      "color": null
+    },
+    {
+      "id": "TRAVEL",
+      "name": "TRAVEL",
+      "kind": "user",
+      "color": null
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+"id","type","value","value2","unit","effective_date","source"
+"hxvit_e36367cd03ef","blood_pressure","125","74","mmHg","2026-08-15","HealthEx"
+"hxvit_f2a042a010ce","heart_rate","63","","bpm","2026-08-15","HealthEx"
+"hxvit_e5f69a418908","weight","67.1","","kg","2026-08-15","HealthEx"
+"hxvit_91dd474f044b","height","167","","cm","2026-08-15","HealthEx"
+"hxvit_42dec4a400e8","bmi","24.1","","kg/m2","2026-08-15","HealthEx"
